@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pinguim Inteligente</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="/assets/logo.png" >
+</head>
+<body>
+
+  <!-- Top Navigation Bar -->
+  <header class="topbar">
+    <div class="topbar-left">
+      <img src="assets/logo.png" alt="Pinguim Inteligente" class="app-logo">
+      <span class="app-title">Pinguim Inteligente</span>
+      <div class="active-underline"></div>
+    </div>
+
+    <nav class="topbar-nav">
+      <span class="nav-link active">Play</span>
+      <span class="nav-link">Leaderboard</span>
+      <span class="nav-link">Achievements</span>
+    </nav>
+
+    <div class="topbar-right">
+      <div class="voice-controls">
+        <button id="btn-som" class="icon-btn" onclick="toggleSom()" title="Efeitos sonoros">🔈</button>
+        <button id="btn-voz" class="icon-btn" onclick="toggleVoz()" title="Narração por voz">🔊</button>
+      </div>
+      <div class="high-score">
+        <span class="label">High Score</span>
+        <span class="value" id="high-score">0 pts</span>
+      </div>
+      <div class="avatar">
+        <img src="assets/logo.png" alt="Perfil">
+      </div>
+    </div>
+  </header>
+
+  <main class="game-container">
+
+    <!-- Status Bar & Progress Indicator -->
+    <div id="status-bar" class="status-bar hidden">
+      <div class="status-metrics">
+        <div class="status-left">
+          <div class="avatar-small">
+            <img src="assets/logo.png" alt="Jogador">
+          </div>
+          <div class="status-text">
+            <span class="status-label">Rodada</span>
+            <span class="status-value" id="rodada-texto">Pergunta 1/10</span>
+          </div>
+        </div>
+        <div class="status-right">
+          <div class="status-text right">
+            <span class="status-label">Prêmio Atual</span>
+            <span class="status-value gold" id="premio-atual">R$ 0</span>
+          </div>
+        </div>
+      </div>
+      <div class="progress-bar">
+        <div class="progress-fill" id="progress-fill"></div>
+      </div>
+    </div>
+
+    <!-- Configuração da Rodada -->
+    <div id="setup-panel" class="card">
+      <label for="tema">Tema do Jogo:</label>
+      <input type="text" id="tema" placeholder="Ex: História do Brasil, Jogos Antigos, Ciências..." value="Conhecimentos Gerais">
+
+      <label for="nivel">Dificuldade:</label>
+      <select id="nivel">
+        <option value="fácil">Fácil</option>
+        <option value="médio" selected>Médio</option>
+        <option value="difícil">Difícil</option>
+      </select>
+
+      <label for="seletor-voz">Voz da Narração:</label>
+      <div class="voice-picker">
+        <select id="seletor-voz" title="Escolha a voz usada na narração"></select>
+        <button type="button" id="btn-testar-voz" onclick="testarVoz()" title="Ouvir a voz selecionada">🔊 Testar</button>
+      </div>
+
+      <button id="btn-iniciar" onclick="gerarPergunta()">Gerar Pergunta com IA</button>
+    </div>
+
+    <!-- Indicador de Loading -->
+    <div id="loading" class="card hidden">
+      <div class="spinner"></div>
+      <p>🤖 O Agente IA está pesquisando na web e gerando a pergunta...</p>
+    </div>
+
+    <!-- Painel da Pergunta -->
+    <div id="quiz-panel" class="card hidden">
+      <span id="badge-local" class="badge-local hidden">📚 Banco local</span>
+      <h2 id="pergunta-texto">Carregando pergunta...</h2>
+
+      <div class="options-grid">
+        <button class="btn-opcao" onclick="responder('A')"><span class="badge">A</span> <span id="opt-A"></span></button>
+        <button class="btn-opcao" onclick="responder('B')"><span class="badge">B</span> <span id="opt-B"></span></button>
+        <button class="btn-opcao" onclick="responder('C')"><span class="badge">C</span> <span id="opt-C"></span></button>
+        <button class="btn-opcao" onclick="responder('D')"><span class="badge">D</span> <span id="opt-D"></span></button>
+      </div>
+
+      <div class="quiz-tools">
+        <button id="btn-ouvir" class="icon-btn tool-btn" onclick="ouvirPergunta()" title="Ouvir a pergunta novamente">🔊 Ouvir</button>
+        <button id="btn-mic" class="icon-btn tool-btn mic-btn" onclick="iniciarOuvir()" title="Responder por voz (diga A, B, C ou D)">🎙️ Responder por voz</button>
+      </div>
+
+      <div id="feedback" class="feedback-box hidden"></div>
+
+      <button id="btn-proxima" class="hidden" onclick="gerarPergunta()">Próxima Pergunta ➡️</button>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <span class="footer-left">❄ Scientific Arctic Research Project</span>
+    <span class="footer-center">
+      <a>Support</a>
+      <a>Privacy</a>
+    </span>
+    <span class="footer-right">© 2026 Pinguim Inteligente</span>
+  </footer>
+
+  <script src="perguntas.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

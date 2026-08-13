@@ -1,0 +1,2994 @@
+[
+  {
+    "tema": "História do Brasil",
+    "dificuldade": "fácil",
+    "pergunta": "Quem proclamou a independência do Brasil?",
+    "opcoes": {
+      "A": "D. Pedro I",
+      "B": "D. Pedro II",
+      "C": "Tiradentes",
+      "D": "Marechal Deodoro"
+    },
+    "resposta_correta": "A",
+    "explicacao": "D. Pedro I proclamou a independência às margens do rio Ipiranga, em 7 de setembro de 1822."
+  },
+  {
+    "tema": "História do Brasil",
+    "dificuldade": "fácil",
+    "pergunta": "Em que ano o Brasil foi descoberto pelos portugueses?",
+    "opcoes": {
+      "A": "1500",
+      "B": "1492",
+      "C": "1822",
+      "D": "1889"
+    },
+    "resposta_correta": "A",
+    "explicacao": "A esquadra de Pedro Álvares Cabral chegou ao Brasil em 22 de abril de 1500."
+  },
+  {
+    "tema": "História do Brasil",
+    "dificuldade": "fácil",
+    "pergunta": "Quem foi o primeiro presidente do Brasil?",
+    "opcoes": {
+      "A": "Getúlio Vargas",
+      "B": "Marechal Deodoro da Fonseca",
+      "C": "Juscelino Kubitschek",
+      "D": "Prudente de Morais"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Marechal Deodoro da Fonseca foi o primeiro presidente, após a Proclamação da República em 1889."
+  },
+  {
+    "tema": "Ciências",
+    "dificuldade": "fácil",
+    "pergunta": "Quantos planetas existem no Sistema Solar?",
+    "opcoes": {
+      "A": "7",
+      "B": "9",
+      "C": "8",
+      "D": "10"
+    },
+    "resposta_correta": "C",
+    "explicacao": "São oito planetas: Mercúrio, Vênus, Terra, Marte, Júpiter, Saturno, Urano e Netuno."
+  },
+  {
+    "tema": "Ciências",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é o maior animal do mundo?",
+    "opcoes": {
+      "A": "Elefante africano",
+      "B": "Baleia azul",
+      "C": "Girafa",
+      "D": "Tubarão-baleia"
+    },
+    "resposta_correta": "B",
+    "explicacao": "A baleia azul pode ultrapassar 30 metros de comprimento e 150 toneladas."
+  },
+  {
+    "tema": "Ciências",
+    "dificuldade": "fácil",
+    "pergunta": "Qual gás os seres humanos precisam respirar para viver?",
+    "opcoes": {
+      "A": "Oxigênio",
+      "B": "Gás carbônico",
+      "C": "Nitrogênio",
+      "D": "Hélio"
+    },
+    "resposta_correta": "A",
+    "explicacao": "O oxigênio é essencial para a respiração celular e a produção de energia no corpo."
+  },
+  {
+    "tema": "Geografia",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é a capital do Brasil?",
+    "opcoes": {
+      "A": "Rio de Janeiro",
+      "B": "São Paulo",
+      "C": "Brasília",
+      "D": "Salvador"
+    },
+    "resposta_correta": "C",
+    "explicacao": "Brasília, inaugurada em 1960, é a capital federal do Brasil."
+  },
+  {
+    "tema": "Geografia",
+    "dificuldade": "fácil",
+    "pergunta": "Qual oceano banha o litoral brasileiro?",
+    "opcoes": {
+      "A": "Pacífico",
+      "B": "Atlântico",
+      "C": "Índico",
+      "D": "Ártico"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O Brasil é banhado pelo Oceano Atlântico em toda a sua costa leste."
+  },
+  {
+    "tema": "Geografia",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é o maior estado do Brasil em área?",
+    "opcoes": {
+      "A": "Pará",
+      "B": "Minas Gerais",
+      "C": "Mato Grosso",
+      "D": "Amazonas"
+    },
+    "resposta_correta": "D",
+    "explicacao": "O Amazonas tem cerca de 1,5 milhão de km², o maior território entre os estados."
+  },
+  {
+    "tema": "Geografia",
+    "dificuldade": "fácil",
+    "pergunta": "Quantos continentes existem na Terra?",
+    "opcoes": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "4"
+    },
+    "resposta_correta": "B",
+    "explicacao": "São seis continentes: América, Europa, África, Ásia, Oceania e Antártida."
+  },
+  {
+    "tema": "Esportes",
+    "dificuldade": "fácil",
+    "pergunta": "Quantos jogadores um time de futebol tem em campo?",
+    "opcoes": {
+      "A": "10",
+      "B": "9",
+      "C": "12",
+      "D": "11"
+    },
+    "resposta_correta": "D",
+    "explicacao": "Cada time de futebol entra em campo com 11 jogadores, incluindo o goleiro."
+  },
+  {
+    "tema": "Esportes",
+    "dificuldade": "fácil",
+    "pergunta": "Em que esporte o Brasil é conhecido mundialmente por vencer 5 Copas do Mundo?",
+    "opcoes": {
+      "A": "Basquete",
+      "B": "Vôlei",
+      "C": "Futebol",
+      "D": "Fórmula 1"
+    },
+    "resposta_correta": "C",
+    "explicacao": "A seleção brasileira de futebol venceu as Copas de 1958, 1962, 1970, 1994 e 2002."
+  },
+  {
+    "tema": "Esportes",
+    "dificuldade": "fácil",
+    "pergunta": "Em qual esporte se utiliza uma rede dividindo a quadra e uma peteca?",
+    "opcoes": {
+      "A": "Vôlei",
+      "B": "Badminton",
+      "C": "Tênis",
+      "D": "Ping-pong"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O badminton é jogado com raquetes leves e uma peteca atravessando a rede."
+  },
+  {
+    "tema": "Cultura Geral",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é a capital da França?",
+    "opcoes": {
+      "A": "Londres",
+      "B": "Madri",
+      "C": "Paris",
+      "D": "Roma"
+    },
+    "resposta_correta": "C",
+    "explicacao": "Paris é a capital e a maior cidade da França, famosa pela Torre Eiffel."
+  },
+  {
+    "tema": "Cultura Geral",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é o idioma oficial do Brasil?",
+    "opcoes": {
+      "A": "Espanhol",
+      "B": "Português",
+      "C": "Inglês",
+      "D": "Francês"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O português é o idioma oficial do Brasil desde o período colonial."
+  },
+  {
+    "tema": "Cultura Geral",
+    "dificuldade": "fácil",
+    "pergunta": "Quem pintou a Mona Lisa?",
+    "opcoes": {
+      "A": "Michelangelo",
+      "B": "Pablo Picasso",
+      "C": "Vincent van Gogh",
+      "D": "Leonardo da Vinci"
+    },
+    "resposta_correta": "D",
+    "explicacao": "A Mona Lisa foi pintada por Leonardo da Vinci no início do século XVI."
+  },
+  {
+    "tema": "Tecnologia",
+    "dificuldade": "fácil",
+    "pergunta": "O que significa a sigla 'www' na internet?",
+    "opcoes": {
+      "A": "World Wide Web",
+      "B": "Web World Wide",
+      "C": "Wide World Web",
+      "D": "World Web Wide"
+    },
+    "resposta_correta": "A",
+    "explicacao": "World Wide Web é o sistema de páginas interligadas acessadas pelo navegador."
+  },
+  {
+    "tema": "Tecnologia",
+    "dificuldade": "fácil",
+    "pergunta": "Qual empresa criou o iPhone?",
+    "opcoes": {
+      "A": "Google",
+      "B": "Samsung",
+      "C": "Apple",
+      "D": "Microsoft"
+    },
+    "resposta_correta": "C",
+    "explicacao": "O iPhone foi lançado pela Apple em 2007, revolucionando o mercado de celulares."
+  },
+  {
+    "tema": "Tecnologia",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é o dispositivo usado para digitar em um computador?",
+    "opcoes": {
+      "A": "Mouse",
+      "B": "Teclado",
+      "C": "Monitor",
+      "D": "Impressora"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O teclado é o dispositivo de entrada usado para digitar textos e comandos."
+  },
+  {
+    "tema": "Matemática",
+    "dificuldade": "fácil",
+    "pergunta": "Quanto é 7 × 8?",
+    "opcoes": {
+      "A": "54",
+      "B": "48",
+      "C": "56",
+      "D": "64"
+    },
+    "resposta_correta": "C",
+    "explicacao": "7 × 8 = 56, resultado da tabuada do sete."
+  },
+  {
+    "tema": "Matemática",
+    "dificuldade": "fácil",
+    "pergunta": "Quantos lados tem um triângulo?",
+    "opcoes": {
+      "A": "4",
+      "B": "5",
+      "C": "2",
+      "D": "3"
+    },
+    "resposta_correta": "D",
+    "explicacao": "O triângulo possui três lados e três ângulos internos que somam 180°."
+  },
+  {
+    "tema": "Matemática",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é o resultado de 100 ÷ 4?",
+    "opcoes": {
+      "A": "20",
+      "B": "25",
+      "C": "40",
+      "D": "50"
+    },
+    "resposta_correta": "B",
+    "explicacao": "100 dividido por 4 é igual a 25."
+  },
+  {
+    "tema": "Língua Portuguesa",
+    "dificuldade": "fácil",
+    "pergunta": "Qual letra completa corretamente a palavra 'cach_rro'?",
+    "opcoes": {
+      "A": "r",
+      "B": "l",
+      "C": "o",
+      "D": "s"
+    },
+    "resposta_correta": "A",
+    "explicacao": "A palavra correta é 'cachorro', escrita com dois 'r'."
+  },
+  {
+    "tema": "Língua Portuguesa",
+    "dificuldade": "fácil",
+    "pergunta": "Qual letra vem logo depois de 'K' no alfabeto?",
+    "opcoes": {
+      "A": "L",
+      "B": "J",
+      "C": "M",
+      "D": "I"
+    },
+    "resposta_correta": "A",
+    "explicacao": "A sequência do alfabeto é ...J, K, L, M... portanto L vem depois de K."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "fácil",
+    "pergunta": "Qual animal é conhecido como 'rei da selva'?",
+    "opcoes": {
+      "A": "Leão",
+      "B": "Tigre",
+      "C": "Elefante",
+      "D": "Onça"
+    },
+    "resposta_correta": "A",
+    "explicacao": "O leão é popularmente chamado de 'rei da selva' pela sua imponência."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "fácil",
+    "pergunta": "Qual ave não voa e vive na Antártida?",
+    "opcoes": {
+      "A": "Águia",
+      "B": "Pinguim",
+      "C": "Avestruz",
+      "D": "Emu"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O pinguim é uma ave que não voa, adaptada à vida em regiões frias como a Antártida."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "fácil",
+    "pergunta": "Qual artista é conhecido como 'Rei do Pop'?",
+    "opcoes": {
+      "A": "Michael Jackson",
+      "B": "Elvis Presley",
+      "C": "Freddie Mercury",
+      "D": "Prince"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Michael Jackson, com álbuns como Thriller, ficou conhecido como 'Rei do Pop'."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "fácil",
+    "pergunta": "Quantas notas musicais existem na escala natural?",
+    "opcoes": {
+      "A": "5",
+      "B": "7",
+      "C": "8",
+      "D": "6"
+    },
+    "resposta_correta": "B",
+    "explicacao": "A escala natural tem 7 notas: Dó, Ré, Mi, Fá, Sol, Lá e Si."
+  },
+  {
+    "tema": "Tecnologia",
+    "dificuldade": "fácil",
+    "pergunta": "Qual rede social usa a letra 'X' como novo nome?",
+    "opcoes": {
+      "A": "Instagram",
+      "B": "Facebook",
+      "C": "TikTok",
+      "D": "Twitter"
+    },
+    "resposta_correta": "D",
+    "explicacao": "O Twitter foi renomeado para X em 2023 pelo seu dono, Elon Musk."
+  },
+  {
+    "tema": "Ciências",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é o menor osso do corpo humano?",
+    "opcoes": {
+      "A": "Falange",
+      "B": "Estribo",
+      "C": "Rádio",
+      "D": "Patela"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O estribo, localizado no ouvido médio, é o menor osso do corpo humano."
+  },
+  {
+    "tema": "História do Brasil",
+    "dificuldade": "médio",
+    "pergunta": "Em que ano ocorreu a Proclamação da República no Brasil?",
+    "opcoes": {
+      "A": "1889",
+      "B": "1888",
+      "C": "1822",
+      "D": "1900"
+    },
+    "resposta_correta": "A",
+    "explicacao": "A República foi proclamada em 15 de novembro de 1889 por Marechal Deodoro."
+  },
+  {
+    "tema": "História do Brasil",
+    "dificuldade": "médio",
+    "pergunta": "Qual país colonizou o Brasil a partir de 1500?",
+    "opcoes": {
+      "A": "Portugal",
+      "B": "Espanha",
+      "C": "Holanda",
+      "D": "França"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Portugal colonizou o Brasil durante mais de 300 anos, até 1822."
+  },
+  {
+    "tema": "História do Brasil",
+    "dificuldade": "médio",
+    "pergunta": "Quem liderou o movimento da Inconfidência Mineira?",
+    "opcoes": {
+      "A": "D. Pedro I",
+      "B": "Castro Alves",
+      "C": "Zumbi dos Palmares",
+      "D": "Tiradentes"
+    },
+    "resposta_correta": "D",
+    "explicacao": "Tiradentes foi o líder mais conhecido da Inconfidência Mineira de 1789."
+  },
+  {
+    "tema": "Ciências",
+    "dificuldade": "médio",
+    "pergunta": "Qual é o maior planeta do Sistema Solar?",
+    "opcoes": {
+      "A": "Saturno",
+      "B": "Júpiter",
+      "C": "Netuno",
+      "D": "Terra"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Júpiter é o maior planeta, com massa superior à soma de todos os outros."
+  },
+  {
+    "tema": "Ciências",
+    "dificuldade": "médio",
+    "pergunta": "Quais órgãos são responsáveis por filtrar o sangue no corpo humano?",
+    "opcoes": {
+      "A": "Fígado",
+      "B": "Rins",
+      "C": "Pulmões",
+      "D": "Baço"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Os rins filtram o sangue, removendo resíduos e produzindo urina."
+  },
+  {
+    "tema": "Ciências",
+    "dificuldade": "médio",
+    "pergunta": "Qual é o maior órgão do corpo humano?",
+    "opcoes": {
+      "A": "Cérebro",
+      "B": "Fígado",
+      "C": "Intestino",
+      "D": "Pele"
+    },
+    "resposta_correta": "D",
+    "explicacao": "A pele é o maior órgão do corpo, protegendo contra agentes externos."
+  },
+  {
+    "tema": "Geografia",
+    "dificuldade": "médio",
+    "pergunta": "Qual é o rio mais extenso do Brasil?",
+    "opcoes": {
+      "A": "São Francisco",
+      "B": "Paraná",
+      "C": "Amazonas",
+      "D": "Tocantins"
+    },
+    "resposta_correta": "C",
+    "explicacao": "O rio Amazonas é o mais extenso do Brasil e um dos maiores do mundo."
+  },
+  {
+    "tema": "Geografia",
+    "dificuldade": "médio",
+    "pergunta": "Qual é o menor país do mundo?",
+    "opcoes": {
+      "A": "Mônaco",
+      "B": "Malta",
+      "C": "Vaticano",
+      "D": "San Marino"
+    },
+    "resposta_correta": "C",
+    "explicacao": "O Vaticano tem pouco mais de 0,4 km², sendo o menor país do mundo."
+  },
+  {
+    "tema": "Geografia",
+    "dificuldade": "médio",
+    "pergunta": "Qual país é o mais populoso do mundo atualmente?",
+    "opcoes": {
+      "A": "China",
+      "B": "Estados Unidos",
+      "C": "Índia",
+      "D": "Indonésia"
+    },
+    "resposta_correta": "C",
+    "explicacao": "A Índia superou a China em população em 2023, ultrapassando 1,4 bilhão de habitantes."
+  },
+  {
+    "tema": "Geografia",
+    "dificuldade": "médio",
+    "pergunta": "Qual é o maior deserto quente do mundo?",
+    "opcoes": {
+      "A": "Saara",
+      "B": "Atacama",
+      "C": "Kalahari",
+      "D": "Gobi"
+    },
+    "resposta_correta": "A",
+    "explicacao": "O Saara, na África, é o maior deserto quente do mundo."
+  },
+  {
+    "tema": "Esportes",
+    "dificuldade": "médio",
+    "pergunta": "Em qual país foram realizados os Jogos Olímpicos de 2016?",
+    "opcoes": {
+      "A": "Japão",
+      "B": "Reino Unido",
+      "C": "Brasil",
+      "D": "China"
+    },
+    "resposta_correta": "C",
+    "explicacao": "As Olimpíadas de 2016 aconteceram no Rio de Janeiro, Brasil."
+  },
+  {
+    "tema": "Esportes",
+    "dificuldade": "médio",
+    "pergunta": "Quem é o maior artilheiro da história das Copas do Mundo?",
+    "opcoes": {
+      "A": "Ronaldo Fenômeno",
+      "B": "Pelé",
+      "C": "Messi",
+      "D": "Miroslav Klose"
+    },
+    "resposta_correta": "D",
+    "explicacao": "O alemão Miroslav Klose marcou 16 gols em Copas do Mundo."
+  },
+  {
+    "tema": "Esportes",
+    "dificuldade": "médio",
+    "pergunta": "Qual seleção venceu a Copa do Mundo de 2002?",
+    "opcoes": {
+      "A": "Alemanha",
+      "B": "França",
+      "C": "Brasil",
+      "D": "Itália"
+    },
+    "resposta_correta": "C",
+    "explicacao": "O Brasil venceu a Alemanha por 2 a 0 na final de 2002, no Japão."
+  },
+  {
+    "tema": "Cultura Geral",
+    "dificuldade": "médio",
+    "pergunta": "Qual é o livro sagrado do Islamismo?",
+    "opcoes": {
+      "A": "Bíblia",
+      "B": "Alcorão",
+      "C": "Torá",
+      "D": "Vedas"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O Alcorão é o livro sagrado do Islamismo, revelado ao profeta Maomé."
+  },
+  {
+    "tema": "Cultura Geral",
+    "dificuldade": "médio",
+    "pergunta": "Em que país fica a Torre Eiffel?",
+    "opcoes": {
+      "A": "França",
+      "B": "Itália",
+      "C": "Espanha",
+      "D": "Alemanha"
+    },
+    "resposta_correta": "A",
+    "explicacao": "A Torre Eiffel fica em Paris, na França, construída em 1889."
+  },
+  {
+    "tema": "Cultura Geral",
+    "dificuldade": "médio",
+    "pergunta": "Quem escreveu 'Dom Casmurro'?",
+    "opcoes": {
+      "A": "José de Alencar",
+      "B": "Graciliano Ramos",
+      "C": "Monteiro Lobato",
+      "D": "Machado de Assis"
+    },
+    "resposta_correta": "D",
+    "explicacao": "'Dom Casmurro', com o famoso personagem Bentinho, é obra de Machado de Assis."
+  },
+  {
+    "tema": "Tecnologia",
+    "dificuldade": "médio",
+    "pergunta": "Qual é o sistema operacional usado nos iPhones?",
+    "opcoes": {
+      "A": "Android",
+      "B": "iOS",
+      "C": "Windows Phone",
+      "D": "Linux"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O iOS é o sistema operacional exclusivo dos dispositivos da Apple."
+  },
+  {
+    "tema": "Tecnologia",
+    "dificuldade": "médio",
+    "pergunta": "Qual empresa criou o sistema operacional Windows?",
+    "opcoes": {
+      "A": "Apple",
+      "B": "IBM",
+      "C": "Microsoft",
+      "D": "Google"
+    },
+    "resposta_correta": "C",
+    "explicacao": "O Windows foi criado pela Microsoft, fundada por Bill Gates e Paul Allen."
+  },
+  {
+    "tema": "Tecnologia",
+    "dificuldade": "médio",
+    "pergunta": "Quem é considerado o 'pai da computação'?",
+    "opcoes": {
+      "A": "Alan Turing",
+      "B": "Bill Gates",
+      "C": "Steve Jobs",
+      "D": "Ada Lovelace"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Alan Turing é considerado o pai da computação por seus trabalhos fundamentais na área."
+  },
+  {
+    "tema": "Matemática",
+    "dificuldade": "médio",
+    "pergunta": "Qual é a raiz quadrada de 144?",
+    "opcoes": {
+      "A": "11",
+      "B": "12",
+      "C": "14",
+      "D": "16"
+    },
+    "resposta_correta": "B",
+    "explicacao": "12 × 12 = 144, portanto a raiz quadrada de 144 é 12."
+  },
+  {
+    "tema": "Matemática",
+    "dificuldade": "médio",
+    "pergunta": "Quanto é 15% de 200?",
+    "opcoes": {
+      "A": "25",
+      "B": "20",
+      "C": "30",
+      "D": "35"
+    },
+    "resposta_correta": "C",
+    "explicacao": "10% de 200 é 20 e 5% é 10, somando 30."
+  },
+  {
+    "tema": "Matemática",
+    "dificuldade": "médio",
+    "pergunta": "Qual é o próximo número da sequência 2, 4, 8, 16...?",
+    "opcoes": {
+      "A": "24",
+      "B": "30",
+      "C": "18",
+      "D": "32"
+    },
+    "resposta_correta": "D",
+    "explicacao": "A sequência dobra cada termo: 16 × 2 = 32."
+  },
+  {
+    "tema": "Língua Portuguesa",
+    "dificuldade": "médio",
+    "pergunta": "Quantas letras tem o alfabeto da língua portuguesa?",
+    "opcoes": {
+      "A": "24",
+      "B": "23",
+      "C": "26",
+      "D": "27"
+    },
+    "resposta_correta": "C",
+    "explicacao": "O alfabeto português tem 26 letras, incluindo K, W e Y."
+  },
+  {
+    "tema": "Língua Portuguesa",
+    "dificuldade": "médio",
+    "pergunta": "Qual palavra é sinônimo de 'alegria'?",
+    "opcoes": {
+      "A": "Tristeza",
+      "B": "Medo",
+      "C": "Raiva",
+      "D": "Felicidade"
+    },
+    "resposta_correta": "D",
+    "explicacao": "'Felicidade' é um sinônimo de 'alegria'."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "médio",
+    "pergunta": "Qual é o animal terrestre mais rápido do mundo?",
+    "opcoes": {
+      "A": "Leão",
+      "B": "Cavalo",
+      "C": "Guepardo",
+      "D": "Antílope"
+    },
+    "resposta_correta": "C",
+    "explicacao": "O guepardo pode atingir velocidades de até 110 km/h em curtas distâncias."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "médio",
+    "pergunta": "Qual animal é conhecido por mudar de cor para se camuflar?",
+    "opcoes": {
+      "A": "Polvo",
+      "B": "Tubarão",
+      "C": "Golfinho",
+      "D": "Cavalo-marinho"
+    },
+    "resposta_correta": "A",
+    "explicacao": "O polvo muda de cor e textura para se camuflar no ambiente."
+  },
+  {
+    "tema": "História Mundial",
+    "dificuldade": "médio",
+    "pergunta": "Em que ano terminou a Segunda Guerra Mundial?",
+    "opcoes": {
+      "A": "1945",
+      "B": "1943",
+      "C": "1950",
+      "D": "1939"
+    },
+    "resposta_correta": "A",
+    "explicacao": "A Segunda Guerra Mundial terminou em 1945, com a rendição da Alemanha e do Japão."
+  },
+  {
+    "tema": "História Mundial",
+    "dificuldade": "médio",
+    "pergunta": "Quem liderou a Revolução Russa de 1917?",
+    "opcoes": {
+      "A": "Stalin",
+      "B": "Lênin",
+      "C": "Trotsky",
+      "D": "Mao Tsé-Tung"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Lênin liderou os bolcheviques na Revolução de Outubro de 1917."
+  },
+  {
+    "tema": "Ciências",
+    "dificuldade": "médio",
+    "pergunta": "Qual elemento químico é representado pela letra 'O'?",
+    "opcoes": {
+      "A": "Ouro",
+      "B": "Ósmio",
+      "C": "Oxigênio",
+      "D": "Ozônio"
+    },
+    "resposta_correta": "C",
+    "explicacao": "'O' é o símbolo químico do oxigênio, elemento essencial à vida."
+  },
+  {
+    "tema": "Cultura Geral",
+    "dificuldade": "médio",
+    "pergunta": "Qual civilização construiu as grandes pirâmides de Gizé?",
+    "opcoes": {
+      "A": "Egípcia",
+      "B": "Maias",
+      "C": "Romana",
+      "D": "Mesopotâmica"
+    },
+    "resposta_correta": "A",
+    "explicacao": "As pirâmides de Gizé foram construídas pela civilização egípcia antiga."
+  },
+  {
+    "tema": "História do Brasil",
+    "dificuldade": "difícil",
+    "pergunta": "Qual foi o último imperador do Brasil?",
+    "opcoes": {
+      "A": "D. Pedro I",
+      "B": "D. João VI",
+      "C": "D. Pedro II",
+      "D": "D. Miguel"
+    },
+    "resposta_correta": "C",
+    "explicacao": "D. Pedro II reinou de 1840 a 1889, sendo o último imperador do Brasil."
+  },
+  {
+    "tema": "História do Brasil",
+    "dificuldade": "difícil",
+    "pergunta": "Em que ano foi assinada a Lei Áurea, que aboliu a escravidão no Brasil?",
+    "opcoes": {
+      "A": "1888",
+      "B": "1889",
+      "C": "1850",
+      "D": "1871"
+    },
+    "resposta_correta": "A",
+    "explicacao": "A Lei Áurea foi assinada pela Princesa Isabel em 13 de maio de 1888."
+  },
+  {
+    "tema": "História do Brasil",
+    "dificuldade": "difícil",
+    "pergunta": "Qual tratado, assinado em 1494, dividiu as terras entre Portugal e Espanha?",
+    "opcoes": {
+      "A": "Tratado de Madri",
+      "B": "Tratado de Tordesilhas",
+      "C": "Tratado de Petrópolis",
+      "D": "Tratado de Utrecht"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O Tratado de Tordesilhas definiu as terras a oeste e a leste de uma linha imaginária."
+  },
+  {
+    "tema": "História Mundial",
+    "dificuldade": "difícil",
+    "pergunta": "Quem foi o primeiro homem a pisar na Lua?",
+    "opcoes": {
+      "A": "Neil Armstrong",
+      "B": "Buzz Aldrin",
+      "C": "Yuri Gagarin",
+      "D": "Michael Collins"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Neil Armstrong pisou na Lua em 20 de julho de 1969, na missão Apollo 11."
+  },
+  {
+    "tema": "Ciências",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é a fórmula química da água?",
+    "opcoes": {
+      "A": "CO2",
+      "B": "H2O",
+      "C": "O2",
+      "D": "H2O2"
+    },
+    "resposta_correta": "B",
+    "explicacao": "A água é formada por dois átomos de hidrogênio e um de oxigênio: H2O."
+  },
+  {
+    "tema": "Ciências",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é o maior osso do corpo humano?",
+    "opcoes": {
+      "A": "Tíbia",
+      "B": "Fêmur",
+      "C": "Úmero",
+      "D": "Coluna"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O fêmur, osso da coxa, é o mais longo e resistente do corpo humano."
+  },
+  {
+    "tema": "Ciências",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é o planeta mais próximo do Sol?",
+    "opcoes": {
+      "A": "Vênus",
+      "B": "Terra",
+      "C": "Marte",
+      "D": "Mercúrio"
+    },
+    "resposta_correta": "D",
+    "explicacao": "Mercúrio é o planeta mais próximo do Sol, com temperaturas extremas."
+  },
+  {
+    "tema": "Geografia",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é o ponto mais alto do Brasil?",
+    "opcoes": {
+      "A": "Pico da Bandeira",
+      "B": "Pico Paraná",
+      "C": "Pico da Neblina",
+      "D": "Pico Agulhas Negras"
+    },
+    "resposta_correta": "C",
+    "explicacao": "O Pico da Neblina, no Amazonas, tem cerca de 2.995 metros de altitude."
+  },
+  {
+    "tema": "Geografia",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é o vulcão mais alto do mundo em atividade?",
+    "opcoes": {
+      "A": "Etna",
+      "B": "Mauna Loa",
+      "C": "Monte Fuji",
+      "D": "Ojos del Salado"
+    },
+    "resposta_correta": "D",
+    "explicacao": "O Ojos del Salado, entre Chile e Argentina, ultrapassa 6.800 metros."
+  },
+  {
+    "tema": "Geografia",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é a capital da Austrália?",
+    "opcoes": {
+      "A": "Sydney",
+      "B": "Camberra",
+      "C": "Melbourne",
+      "D": "Brisbane"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Camberra é a capital da Austrália, escolhida como cidade planejada em 1908."
+  },
+  {
+    "tema": "Geografia",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é a capital da Nova Zelândia?",
+    "opcoes": {
+      "A": "Auckland",
+      "B": "Wellington",
+      "C": "Christchurch",
+      "D": "Queenstown"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Wellington, na Ilha Norte, é a capital da Nova Zelândia desde 1865."
+  },
+  {
+    "tema": "Esportes",
+    "dificuldade": "difícil",
+    "pergunta": "Em que ano o Brasil sediou pela primeira vez a Copa do Mundo de Futebol?",
+    "opcoes": {
+      "A": "1950",
+      "B": "1962",
+      "C": "2014",
+      "D": "1970"
+    },
+    "resposta_correta": "A",
+    "explicacao": "O Brasil sediou a Copa de 1950, quando a final ficou conhecida como 'Maracanazo'."
+  },
+  {
+    "tema": "Esportes",
+    "dificuldade": "difícil",
+    "pergunta": "Quem é o maior medalhista da história dos Jogos Olímpicos?",
+    "opcoes": {
+      "A": "Usain Bolt",
+      "B": "Larisa Latynina",
+      "C": "Michael Phelps",
+      "D": "Carl Lewis"
+    },
+    "resposta_correta": "C",
+    "explicacao": "Michael Phelps conquistou 28 medalhas olímpicas, sendo 23 de ouro."
+  },
+  {
+    "tema": "Esportes",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é o único país que participou de todas as edições da Copa do Mundo?",
+    "opcoes": {
+      "A": "Alemanha",
+      "B": "Itália",
+      "C": "Argentina",
+      "D": "Brasil"
+    },
+    "resposta_correta": "D",
+    "explicacao": "O Brasil é o único país presente em todas as 22 edições da Copa do Mundo até 2022."
+  },
+  {
+    "tema": "Cultura Geral",
+    "dificuldade": "difícil",
+    "pergunta": "Quem pintou o teto da Capela Sistina?",
+    "opcoes": {
+      "A": "Leonardo da Vinci",
+      "B": "Michelangelo",
+      "C": "Rafael",
+      "D": "Donatello"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Michelangelo pintou o teto da Capela Sistina entre 1508 e 1512."
+  },
+  {
+    "tema": "Cultura Geral",
+    "dificuldade": "difícil",
+    "pergunta": "Quem escreveu o livro 'O Pequeno Príncipe'?",
+    "opcoes": {
+      "A": "Antoine de Saint-Exupéry",
+      "B": "Júlio Verne",
+      "C": "Charles Dickens",
+      "D": "Mark Twain"
+    },
+    "resposta_correta": "A",
+    "explicacao": "O Pequeno Príncipe foi escrito pelo francês Antoine de Saint-Exupéry em 1943."
+  },
+  {
+    "tema": "Cultura Geral",
+    "dificuldade": "difícil",
+    "pergunta": "Qual compositor alemão compôs a famosa 'Quinta Sinfonia'?",
+    "opcoes": {
+      "A": "Mozart",
+      "B": "Bach",
+      "C": "Beethoven",
+      "D": "Chopin"
+    },
+    "resposta_correta": "C",
+    "explicacao": "Ludwig van Beethoven compôs a Quinta Sinfonia, famosa pelo seu 'tã-tã-tã-tããã'."
+  },
+  {
+    "tema": "Tecnologia",
+    "dificuldade": "difícil",
+    "pergunta": "Em que ano surgiu a ARPANET, considerada a 'mãe' da internet?",
+    "opcoes": {
+      "A": "1969",
+      "B": "1975",
+      "C": "1983",
+      "D": "1958"
+    },
+    "resposta_correta": "A",
+    "explicacao": "A ARPANET, precursora da internet, realizou sua primeira comunicação em 1969."
+  },
+  {
+    "tema": "Tecnologia",
+    "dificuldade": "difícil",
+    "pergunta": "Qual linguagem de programação foi criada por Guido van Rossum?",
+    "opcoes": {
+      "A": "Java",
+      "B": "Python",
+      "C": "Ruby",
+      "D": "C++"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Guido van Rossum criou Python, lançada em 1991, hoje uma das linguagens mais usadas."
+  },
+  {
+    "tema": "Tecnologia",
+    "dificuldade": "difícil",
+    "pergunta": "Qual foi o nome do primeiro computador eletrônico de uso geral?",
+    "opcoes": {
+      "A": "Colossus",
+      "B": "IBM 360",
+      "C": "ENIAC",
+      "D": "Apple I"
+    },
+    "resposta_correta": "C",
+    "explicacao": "O ENIAC, concluído em 1945, é considerado o primeiro computador eletrônico de uso geral."
+  },
+  {
+    "tema": "Matemática",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é o valor de π (pi) com duas casas decimais?",
+    "opcoes": {
+      "A": "3,16",
+      "B": "3,14",
+      "C": "3,12",
+      "D": "3,18"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Pi é aproximadamente 3,14159, arredondando para duas casas: 3,14."
+  },
+  {
+    "tema": "Matemática",
+    "dificuldade": "difícil",
+    "pergunta": "Quanto é 2 elevado a 10?",
+    "opcoes": {
+      "A": "512",
+      "B": "1024",
+      "C": "2048",
+      "D": "1000"
+    },
+    "resposta_correta": "B",
+    "explicacao": "2^10 = 2 × 2 × 2 × 2 × 2 × 2 × 2 × 2 × 2 × 2 = 1024."
+  },
+  {
+    "tema": "Matemática",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é o resultado de 9 × 9 + 9?",
+    "opcoes": {
+      "A": "99",
+      "B": "81",
+      "C": "72",
+      "D": "90"
+    },
+    "resposta_correta": "D",
+    "explicacao": "9 × 9 = 81 e 81 + 9 = 90."
+  },
+  {
+    "tema": "Língua Portuguesa",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é o plural de 'cidadão'?",
+    "opcoes": {
+      "A": "Cidadãos",
+      "B": "Cidadões",
+      "C": "Cidadaens",
+      "D": "Cidadões"
+    },
+    "resposta_correta": "A",
+    "explicacao": "'Cidadão' termina em -ão e seu plural é 'cidadãos', como 'irmãos'."
+  },
+  {
+    "tema": "Língua Portuguesa",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é o coletivo de 'abelhas'?",
+    "opcoes": {
+      "A": "Cardume",
+      "B": "Matilha",
+      "C": "Enxame",
+      "D": "Revoada"
+    },
+    "resposta_correta": "C",
+    "explicacao": "O coletivo de abelhas é 'enxame'; cardume é de peixes e matilha, de cães."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é o maior réptil do mundo?",
+    "opcoes": {
+      "A": "Anaconda",
+      "B": "Dragão de Komodo",
+      "C": "Tartaruga-gigante",
+      "D": "Crocodilo-de-água-salgada"
+    },
+    "resposta_correta": "D",
+    "explicacao": "O crocodilo-de-água-salgada pode ultrapassar 6 metros e é o maior réptil vivo."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é o mamífero que bota ovos?",
+    "opcoes": {
+      "A": "Morcego",
+      "B": "Ornitorrinco",
+      "C": "Gambá",
+      "D": "Coala"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O ornitorrinco é um mamífero monotremado, ou seja, põe ovos."
+  },
+  {
+    "tema": "Ciências",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é a unidade de medida de força no Sistema Internacional?",
+    "opcoes": {
+      "A": "Newton",
+      "B": "Joule",
+      "C": "Watt",
+      "D": "Pascal"
+    },
+    "resposta_correta": "A",
+    "explicacao": "A força é medida em newtons (N); joule é energia, watt é potência e pascal é pressão."
+  },
+  {
+    "tema": "Geografia",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é o país com o maior número de ilhas do mundo?",
+    "opcoes": {
+      "A": "Indonésia",
+      "B": "Filipinas",
+      "C": "Canadá",
+      "D": "Suécia"
+    },
+    "resposta_correta": "D",
+    "explicacao": "A Suécia possui mais de 260 mil ilhas, mais que qualquer outro país."
+  },
+  {
+    "tema": "História Mundial",
+    "dificuldade": "difícil",
+    "pergunta": "Qual imperador romano mandou construir o Coliseu?",
+    "opcoes": {
+      "A": "Júlio César",
+      "B": "Augusto",
+      "C": "Vespasiano",
+      "D": "Nero"
+    },
+    "resposta_correta": "C",
+    "explicacao": "O Coliseu foi iniciado pelo imperador Vespasiano e inaugurado no ano 80 d.C."
+  },
+  {
+    "tema": "Programação; JavaScript",
+    "dificuldade": "fácil",
+    "pergunta": "Qual palavra-chave do JavaScript declara uma variável que NÃO pode ser reatribuída?",
+    "opcoes": {
+      "A": "const",
+      "B": "var",
+      "C": "let",
+      "D": "static"
+    },
+    "resposta_correta": "A",
+    "explicacao": "'const' cria uma constante: o valor não pode ser reatribuído após a declaração."
+  },
+  {
+    "tema": "Programação; JavaScript",
+    "dificuldade": "fácil",
+    "pergunta": "Qual operador do JavaScript compara valor E tipo de dado ao mesmo tempo?",
+    "opcoes": {
+      "A": "==",
+      "B": "=",
+      "C": "===",
+      "D": "<>"
+    },
+    "resposta_correta": "C",
+    "explicacao": "'===' compara valor e tipo, enquanto '==' faz coerção de tipos antes de comparar."
+  },
+  {
+    "tema": "Programação; JavaScript",
+    "dificuldade": "fácil",
+    "pergunta": "Como exibir 'Olá' no console do navegador?",
+    "opcoes": {
+      "A": "print('Olá')",
+      "B": "console.log('Olá')",
+      "C": "System.out.println('Olá')",
+      "D": "echo 'Olá'"
+    },
+    "resposta_correta": "B",
+    "explicacao": "console.log() é o método padrão do JavaScript para exibir mensagens no console."
+  },
+  {
+    "tema": "Programação; JavaScript",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é o resultado de typeof 'texto' em JavaScript?",
+    "opcoes": {
+      "A": "'text'",
+      "B": "'char'",
+      "C": "'var'",
+      "D": "'string'"
+    },
+    "resposta_correta": "D",
+    "explicacao": "typeof retorna 'string' para valores de texto em JavaScript."
+  },
+  {
+    "tema": "Programação; JavaScript",
+    "dificuldade": "fácil",
+    "pergunta": "Qual tipo de dado representa os valores verdadeiro e falso em JavaScript?",
+    "opcoes": {
+      "A": "null",
+      "B": "undefined",
+      "C": "boolean",
+      "D": "number"
+    },
+    "resposta_correta": "C",
+    "explicacao": "O tipo boolean (ou booleano) representa true e false."
+  },
+  {
+    "tema": "Programação; JavaScript",
+    "dificuldade": "fácil",
+    "pergunta": "Qual método de array do JavaScript adiciona um item ao FINAL da lista?",
+    "opcoes": {
+      "A": "shift()",
+      "B": "push()",
+      "C": "unshift()",
+      "D": "pop()"
+    },
+    "resposta_correta": "B",
+    "explicacao": "push() adiciona ao final; pop() remove do final; unshift() adiciona ao início."
+  },
+  {
+    "tema": "Programação; JavaScript",
+    "dificuldade": "fácil",
+    "pergunta": "Qual estrutura de repetição executa um bloco ENQUANTO a condição for verdadeira?",
+    "opcoes": {
+      "A": "for",
+      "B": "forEach",
+      "C": "if",
+      "D": "while"
+    },
+    "resposta_correta": "D",
+    "explicacao": "O while repete o bloco enquanto a condição avaliada for verdadeira."
+  },
+  {
+    "tema": "Programação; React",
+    "dificuldade": "fácil",
+    "pergunta": "O que é um componente no React?",
+    "opcoes": {
+      "A": "Uma função ou classe que retorna uma parte reutilizável da interface",
+      "B": "Um arquivo CSS",
+      "C": "Um banco de dados",
+      "D": "Uma rota de API"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Componentes são blocos reutilizáveis de UI escritos como funções (ou classes) que retornam JSX."
+  },
+  {
+    "tema": "Programação; React",
+    "dificuldade": "fácil",
+    "pergunta": "Qual hook do React é usado para guardar estado em componentes funcionais?",
+    "opcoes": {
+      "A": "useEffect",
+      "B": "useContext",
+      "C": "useState",
+      "D": "useReducer"
+    },
+    "resposta_correta": "C",
+    "explicacao": "useState retorna um par [valor, funçãoAtualizadora] para armazenar estado local."
+  },
+  {
+    "tema": "Programação; Node.js",
+    "dificuldade": "fácil",
+    "pergunta": "O que é o npm no ecossistema Node.js?",
+    "opcoes": {
+      "A": "Um servidor web",
+      "B": "O gerenciador de pacotes do Node.js",
+      "C": "Um framework de testes",
+      "D": "Um banco de dados"
+    },
+    "resposta_correta": "B",
+    "explicacao": "npm (Node Package Manager) instala e gerencia as dependências de um projeto Node.js."
+  },
+  {
+    "tema": "Programação; Node.js",
+    "dificuldade": "fácil",
+    "pergunta": "Qual arquivo declara as dependências de um projeto Node.js?",
+    "opcoes": {
+      "A": "index.js",
+      "B": "settings.json",
+      "C": "config.yml",
+      "D": "package.json"
+    },
+    "resposta_correta": "D",
+    "explicacao": "O package.json lista dependências, scripts e metadados do projeto."
+  },
+  {
+    "tema": "Programação; TypeScript",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é a principal vantagem do TypeScript sobre o JavaScript?",
+    "opcoes": {
+      "A": "Tipagem estática no código",
+      "B": "Execução no servidor",
+      "C": "Ser mais rápido que C",
+      "D": "Não precisar de compilador"
+    },
+    "resposta_correta": "A",
+    "explicacao": "O TypeScript adiciona tipagem estática, ajudando a evitar erros em tempo de desenvolvimento."
+  },
+  {
+    "tema": "Programação; JavaScript",
+    "dificuldade": "médio",
+    "pergunta": "O que é um closure (fechamento) em JavaScript?",
+    "opcoes": {
+      "A": "Uma função que 'lembra' o escopo em que foi criada",
+      "B": "Um erro de sintaxe",
+      "C": "Um tipo primitivo",
+      "D": "Um método de array"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Um closure é criado quando uma função mantém acesso ao escopo externo mesmo após ele ser encerrado."
+  },
+  {
+    "tema": "Programação; JavaScript",
+    "dificuldade": "médio",
+    "pergunta": "O que é hoisting em JavaScript?",
+    "opcoes": {
+      "A": "Copiar um objeto",
+      "B": "Converter tipos automaticamente",
+      "C": "Declarações de var e funções são movidas ao topo do escopo",
+      "D": "Cachear resultados de funções"
+    },
+    "resposta_correta": "C",
+    "explicacao": "No hoisting, declarações de var e function são 'elevadas' ao topo do escopo em tempo de execução."
+  },
+  {
+    "tema": "Programação; JavaScript",
+    "dificuldade": "médio",
+    "pergunta": "Qual a principal vantagem de usar Promise em vez de callbacks aninhados?",
+    "opcoes": {
+      "A": "Executar código síncrono",
+      "B": "Evitar o 'callback hell' com encadeamento legível (.then)",
+      "C": "Aumentar a velocidade da CPU",
+      "D": "Substituir o uso de variáveis"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Promises encadeiam operações assíncronas de forma linear com .then/.catch, evitando aninhamentos."
+  },
+  {
+    "tema": "Programação; JavaScript",
+    "dificuldade": "médio",
+    "pergunta": "O que o método array.map() retorna?",
+    "opcoes": {
+      "A": "O primeiro item encontrado",
+      "B": "O array original modificado",
+      "C": "Um booleano",
+      "D": "Um novo array com cada item transformado"
+    },
+    "resposta_correta": "D",
+    "explicacao": "map() aplica uma função a cada item e devolve um novo array do mesmo tamanho, sem alterar o original."
+  },
+  {
+    "tema": "Programação; JavaScript",
+    "dificuldade": "médio",
+    "pergunta": "Como funciona o Event Loop no Node.js?",
+    "opcoes": {
+      "A": "Executa tarefas síncronas na call stack e processa as assíncronas pelas filas quando a stack esvazia",
+      "B": "Cria uma thread para cada função",
+      "C": "Só funciona no navegador",
+      "D": "Remove o garbage collector"
+    },
+    "resposta_correta": "A",
+    "explicacao": "O Event Loop alterna entre a call stack e as filas (microtasks/tasks), garantindo o modelo não bloqueante."
+  },
+  {
+    "tema": "Programação; TypeScript",
+    "dificuldade": "médio",
+    "pergunta": "Qual a diferença entre interface e type no TypeScript?",
+    "opcoes": {
+      "A": "Não há diferença alguma",
+      "B": "type só funciona com números",
+      "C": "interface pode ser estendida/declarada múltiplas vezes; type é um alias que suporta uniões e interseções",
+      "D": "interface é exclusiva do JavaScript"
+    },
+    "resposta_correta": "C",
+    "explicacao": "Ambos definem formatos de objetos, mas interface permite declaração de mesclagem e extensão; type suporta union/intersection."
+  },
+  {
+    "tema": "Programação; React",
+    "dificuldade": "médio",
+    "pergunta": "Para que serve o hook useEffect no React?",
+    "opcoes": {
+      "A": "Guardar estado global",
+      "B": "Executar efeitos colaterais após a renderização (requisições, timers, etc.)",
+      "C": "Criar formulários",
+      "D": "Estilizar componentes"
+    },
+    "resposta_correta": "B",
+    "explicacao": "useEffect executa código após o componente renderizar, ideal para chamadas de API, timers e assinaturas."
+  },
+  {
+    "tema": "Programação; Next.js",
+    "dificuldade": "médio",
+    "pergunta": "O que é Server-Side Rendering (SSR) no Next.js?",
+    "opcoes": {
+      "A": "A página é renderizada no servidor a cada requisição",
+      "B": "A página é gerada apenas no navegador",
+      "C": "O HTML é salvo em arquivo estático",
+      "D": "Um banco de dados externo"
+    },
+    "resposta_correta": "A",
+    "explicacao": "No SSR, o servidor gera o HTML a cada requisição, útil para conteúdo dinâmico e SEO."
+  },
+  {
+    "tema": "Programação; Node.js",
+    "dificuldade": "médio",
+    "pergunta": "Qual é a finalidade do módulo 'fs' do Node.js?",
+    "opcoes": {
+      "A": "Criar servidores HTTP",
+      "B": "Gerenciar pacotes",
+      "C": "Criptografar dados",
+      "D": "Ler e escrever arquivos no sistema"
+    },
+    "resposta_correta": "D",
+    "explicacao": "O módulo 'fs' (File System) permite manipular arquivos e diretórios de forma síncrona ou assíncrona."
+  },
+  {
+    "tema": "Programação; Node.js",
+    "dificuldade": "médio",
+    "pergunta": "Qual a diferença entre process.nextTick() e setImmediate()?",
+    "opcoes": {
+      "A": "São idênticos",
+      "B": "nextTick roda antes da próxima fase do Event Loop; setImmediate roda na fase 'check' da próxima iteração",
+      "C": "setImmediate só existe no navegador",
+      "D": "nextTick bloqueia a CPU"
+    },
+    "resposta_correta": "B",
+    "explicacao": "nextTick é processado após a operação atual; setImmediate é executado na fase check da próxima volta do loop."
+  },
+  {
+    "tema": "Programação; RabbitMQ",
+    "dificuldade": "médio",
+    "pergunta": "Qual é a função de uma fila (queue) no RabbitMQ?",
+    "opcoes": {
+      "A": "Executar código JavaScript",
+      "B": "Guardar credenciais",
+      "C": "Armazenar mensagens até serem consumidas",
+      "D": "Renderizar páginas web"
+    },
+    "resposta_correta": "C",
+    "explicacao": "Filas armazenam mensagens publicadas por produtores até que consumidores as processem."
+  },
+  {
+    "tema": "Programação; Angular",
+    "dificuldade": "médio",
+    "pergunta": "O que é um Service no Angular?",
+    "opcoes": {
+      "A": "Uma classe injetável que centraliza lógica de negócio e dados compartilhados",
+      "B": "Um componente visual",
+      "C": "Uma rota da aplicação",
+      "D": "Um pipe de formatação"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Services são classes injetáveis, normalmente usadas para compartilhar dados e lógica entre componentes."
+  },
+  {
+    "tema": "Programação; Microservices",
+    "dificuldade": "difícil",
+    "pergunta": "O que é o padrão Circuit Breaker em microservices?",
+    "opcoes": {
+      "A": "Um tipo de balanceador de carga",
+      "B": "Detecta falhas e interrompe temporariamente as chamadas a um serviço com problemas",
+      "C": "Um firewall de rede",
+      "D": "Uma fila de mensagens"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O Circuit Breaker abre o 'circuito' quando as falhas ultrapassam um limite, evitando cascatas e permitindo recuperação."
+  },
+  {
+    "tema": "Programação; Microservices",
+    "dificuldade": "difícil",
+    "pergunta": "Qual padrão é usado para gerenciar transações distribuídas entre microservices?",
+    "opcoes": {
+      "A": "Singleton",
+      "B": "Factory",
+      "C": "Adapter",
+      "D": "Saga"
+    },
+    "resposta_correta": "D",
+    "explicacao": "O padrão Saga orquestra transações distribuídas em passos compensáveis, sem exigir commit atômico global."
+  },
+  {
+    "tema": "Programação; Microservices",
+    "dificuldade": "difícil",
+    "pergunta": "O que significa uma API ser idempotente?",
+    "opcoes": {
+      "A": "Executar a mesma requisição várias vezes produz o mesmo resultado, sem efeitos duplicados",
+      "B": "Retornar sempre erro 500",
+      "C": "Exigir autenticação em toda chamada",
+      "D": "Responder apenas via HTTP/2"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Requisições repetidas (ex.: mesmo PUT/DELETE) têm o mesmo efeito, essencial para retentativas seguras."
+  },
+  {
+    "tema": "Programação; RabbitMQ",
+    "dificuldade": "difícil",
+    "pergunta": "Qual tipo de exchange do RabbitMQ envia a mensagem para TODAS as filas ligadas?",
+    "opcoes": {
+      "A": "Direct",
+      "B": "Headers",
+      "C": "Fanout",
+      "D": "Topic"
+    },
+    "resposta_correta": "C",
+    "explicacao": "A exchange do tipo Fanout faz broadcast: copia a mensagem para todas as filas vinculadas, ignorando routing key."
+  },
+  {
+    "tema": "Programação; RabbitMQ",
+    "dificuldade": "difícil",
+    "pergunta": "O que significa uma mensagem 'persistente' no RabbitMQ?",
+    "opcoes": {
+      "A": "Fica apenas em memória",
+      "B": "Só pode ser lida uma vez",
+      "C": "É gravada em disco e sobrevive a reinícios do broker",
+      "D": "Expira após 1 minuto"
+    },
+    "resposta_correta": "C",
+    "explicacao": "Mensagens persistentes (delivery_mode=2) com fila durável são salvas em disco e não se perdem no restart."
+  },
+  {
+    "tema": "Programação; Microfrontends",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é o principal objetivo do padrão de microfrontends?",
+    "opcoes": {
+      "A": "Aumentar o tamanho do bundle",
+      "B": "Dividir o frontend em partes independentes, desenvolvidas por times distintos",
+      "C": "Eliminar o uso de JavaScript",
+      "D": "Substituir o backend"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Microfrontends permitem que diferentes times entreguem funcionalidades independentes em uma mesma aplicação web."
+  },
+  {
+    "tema": "Programação; Microfrontends",
+    "dificuldade": "difícil",
+    "pergunta": "Qual recurso do Webpack permite carregar, em tempo de execução, módulos de outro build?",
+    "opcoes": {
+      "A": "Module Federation",
+      "B": "Tree Shaking",
+      "C": "Code Splitting estático",
+      "D": "Hot Module Replacement"
+    },
+    "resposta_correta": "A",
+    "explicacao": "O Module Federation do Webpack compartilha e consome módulos entre builds diferentes em tempo de execução."
+  },
+  {
+    "tema": "Programação; TypeScript",
+    "dificuldade": "difícil",
+    "pergunta": "O que são generics no TypeScript?",
+    "opcoes": {
+      "A": "Funções que só aceitam strings",
+      "B": "Classes abstratas",
+      "C": "Decoradores",
+      "D": "Parâmetros de tipo que permitem código reutilizável e seguro quanto ao tipo"
+    },
+    "resposta_correta": "D",
+    "explicacao": "Generics usam tipos parametrizados (ex.: Array<T>, Promise<T>) para reuso com segurança de tipos."
+  },
+  {
+    "tema": "Programação; Node.js",
+    "dificuldade": "difícil",
+    "pergunta": "Para que servem os worker_threads no Node.js?",
+    "opcoes": {
+      "A": "Criar servidores HTTP",
+      "B": "Ler arquivos grandes",
+      "C": "Executar tarefas com uso intenso de CPU sem bloquear o Event Loop",
+      "D": "Gerenciar conexões de banco"
+    },
+    "resposta_correta": "C",
+    "explicacao": "worker_threads executam trabalho pesado de CPU em threads paralelas, mantendo o Event Loop responsivo."
+  },
+  {
+    "tema": "Programação; JavaScript",
+    "dificuldade": "difícil",
+    "pergunta": "Como o 'this' se comporta em arrow functions?",
+    "opcoes": {
+      "A": "Aponta para o objeto que chamou a função",
+      "B": "Não possui this próprio; herda o this do escopo léxico onde foi definida",
+      "C": "Sempre é undefined",
+      "D": "Aponta para a janela global"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Arrow functions não têm this próprio — capturam o this do contexto onde foram declaradas."
+  },
+  {
+    "tema": "Programação; Next.js",
+    "dificuldade": "difícil",
+    "pergunta": "O que é o App Router no Next.js?",
+    "opcoes": {
+      "A": "Modelo de rotas baseado no diretório 'app', com layouts e Server Components",
+      "B": "Um roteador de rede",
+      "C": "Uma biblioteca de animações",
+      "D": "Um plugin de banco de dados"
+    },
+    "resposta_correta": "A",
+    "explicacao": "O App Router usa a pasta 'app' com arquivos page.tsx/layout.tsx e suporte a Server Components e layouts aninhados."
+  },
+  {
+    "tema": "Programação; React",
+    "dificuldade": "difícil",
+    "pergunta": "Por que usar React.memo em um componente?",
+    "opcoes": {
+      "A": "Para criar estados globais",
+      "B": "Para aplicar estilos dinâmicos",
+      "C": "Para lidar com erros",
+      "D": "Para evitar re-renderizações quando as props não mudam"
+    },
+    "resposta_correta": "D",
+    "explicacao": "React.memo faz memoização do componente: ele só re-renderiza se as props (ou estado) realmente mudarem."
+  },
+  {
+    "tema": "Animes; Séries; Filmes",
+    "dificuldade": "fácil",
+    "pergunta": "Qual anime conta a história do ninja Naruto Uzumaki?",
+    "opcoes": {
+      "A": "Naruto",
+      "B": "One Piece",
+      "C": "Dragon Ball Z",
+      "D": "Bleach"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Naruto acompanha a jornada do jovem ninja em busca de se tornar Hokage."
+  },
+  {
+    "tema": "Animes; Séries; Filmes",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é o nome do protagonista de 'Dragon Ball Z'?",
+    "opcoes": {
+      "A": "Vegeta",
+      "B": "Goku",
+      "C": "Piccolo",
+      "D": "Kuririn"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Goku é o protagonista da franquia Dragon Ball, criada por Akira Toriyama."
+  },
+  {
+    "tema": "Animes; Séries; Filmes",
+    "dificuldade": "fácil",
+    "pergunta": "Qual anime acompanha as aventuras do pirata Monkey D. Luffy?",
+    "opcoes": {
+      "A": "Naruto",
+      "B": "Attack on Titan",
+      "C": "One Piece",
+      "D": "Death Note"
+    },
+    "resposta_correta": "C",
+    "explicacao": "One Piece narra a busca de Luffy pelo tesouro supremo, o One Piece."
+  },
+  {
+    "tema": "Animes; Séries; Filmes",
+    "dificuldade": "fácil",
+    "pergunta": "Em qual anime ocorre a famosa transformação 'Super Saiyajin'?",
+    "opcoes": {
+      "A": "Yu-Gi-Oh!",
+      "B": "Pokémon",
+      "C": "Sailor Moon",
+      "D": "Dragon Ball Z"
+    },
+    "resposta_correta": "D",
+    "explicacao": "A transformação em Super Saiyajin é uma marca da franquia Dragon Ball Z."
+  },
+  {
+    "tema": "Animes; Séries; Filmes",
+    "dificuldade": "fácil",
+    "pergunta": "Em qual série um grupo de amigos se reúne em um café em Nova York?",
+    "opcoes": {
+      "A": "Friends",
+      "B": "How I Met Your Mother",
+      "C": "The Big Bang Theory",
+      "D": "Seinfeld"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Friends acompanha seis amigos no Central Perk, em Nova York."
+  },
+  {
+    "tema": "Animes; Séries; Filmes",
+    "dificuldade": "fácil",
+    "pergunta": "Em qual série os irmãos Sam e Dean caçam criaturas sobrenaturais?",
+    "opcoes": {
+      "A": "Buffy",
+      "B": "Supernatural",
+      "C": "Charmed",
+      "D": "The X-Files"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Em Supernatural, os irmãos Winchester viajam pelos EUA caçando monstros e demônios."
+  },
+  {
+    "tema": "Animes; Séries; Filmes",
+    "dificuldade": "fácil",
+    "pergunta": "Em qual série médica o protagonista é o Dr. Gregory House?",
+    "opcoes": {
+      "A": "Grey's Anatomy",
+      "B": "ER",
+      "C": "House",
+      "D": "The Good Doctor"
+    },
+    "resposta_correta": "C",
+    "explicacao": "House é estrelada por Hugh Laurie como o brilhante e cínico Dr. House."
+  },
+  {
+    "tema": "Animes; Séries; Filmes",
+    "dificuldade": "fácil",
+    "pergunta": "Em qual série animada Rick e Morty viajam por outras dimensões?",
+    "opcoes": {
+      "A": "Futurama",
+      "B": "Bob Esponja",
+      "C": "Simpsons",
+      "D": "Rick and Morty"
+    },
+    "resposta_correta": "D",
+    "explicacao": "Rick and Morty acompanha as viagens interdimensionalais do cientista Rick e seu neto Morty."
+  },
+  {
+    "tema": "Animes; Séries; Filmes",
+    "dificuldade": "fácil",
+    "pergunta": "Qual filme mostra um menino bruxo com uma cicatriz em forma de raio na testa?",
+    "opcoes": {
+      "A": "Harry Potter",
+      "B": "As Crônicas de Nárnia",
+      "C": "Percy Jackson",
+      "D": "O Senhor dos Anéis"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Harry Potter é o bruxo órfão com a marca da cicatriz, da série de J.K. Rowling."
+  },
+  {
+    "tema": "Animes; Séries; Filmes",
+    "dificuldade": "fácil",
+    "pergunta": "Qual filme da Pixar apresenta o xerife Woody e o astronauta Buzz?",
+    "opcoes": {
+      "A": "Procurando Nemo",
+      "B": "Toy Story",
+      "C": "Monstros S.A.",
+      "D": "Carros"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Toy Story, de 1995, foi o primeiro longa animado totalmente em computação gráfica."
+  },
+  {
+    "tema": "Animes; Séries; Filmes",
+    "dificuldade": "fácil",
+    "pergunta": "Qual filme da Marvel é protagonizado por um deus do trovão que empunha um martelo?",
+    "opcoes": {
+      "A": "Homem de Ferro",
+      "B": "Hulk",
+      "C": "Thor",
+      "D": "Pantera Negra"
+    },
+    "resposta_correta": "C",
+    "explicacao": "Thor, o deus nórdico do trovão, usa o martelo Mjolnir."
+  },
+  {
+    "tema": "Animes; Séries; Filmes",
+    "dificuldade": "fácil",
+    "pergunta": "Qual filme de animação da Disney conta a história da princesa Rapunzel?",
+    "opcoes": {
+      "A": "Frozen",
+      "B": "Moana",
+      "C": "Valente",
+      "D": "Enrolados"
+    },
+    "resposta_correta": "D",
+    "explicacao": "Enrolados (Tangled) é a adaptação animada do conto da Rapunzel."
+  },
+  {
+    "tema": "Animes; Séries; Filmes",
+    "dificuldade": "médio",
+    "pergunta": "Qual é o protagonista do anime 'Death Note'?",
+    "opcoes": {
+      "A": "Light Yagami",
+      "B": "L",
+      "C": "Near",
+      "D": "Mello"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Light Yagami encontra o caderno sobrenatural Death Note e decide usá-lo para 'limpar o mundo'."
+  },
+  {
+    "tema": "Animes; Séries; Filmes",
+    "dificuldade": "médio",
+    "pergunta": "Em qual anime os heróis caçam Titãs para proteger a humanidade?",
+    "opcoes": {
+      "A": "One Punch Man",
+      "B": "Attack on Titan",
+      "C": "Jujutsu Kaisen",
+      "D": "Tokyo Ghoul"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Attack on Titan (Shingeki no Kyojin) mostra a luta da humanidade contra os Titãs."
+  },
+  {
+    "tema": "Animes; Séries; Filmes",
+    "dificuldade": "médio",
+    "pergunta": "Qual anime acompanha o caçador de demônios Tanjiro Kamado?",
+    "opcoes": {
+      "A": "Naruto",
+      "B": "My Hero Academia",
+      "C": "Demon Slayer",
+      "D": "Black Clover"
+    },
+    "resposta_correta": "C",
+    "explicacao": "Demon Slayer (Kimetsu no Yaiba) segue Tanjiro em busca da cura para sua irmã transformada em demônio."
+  },
+  {
+    "tema": "Animes; Séries; Filmes",
+    "dificuldade": "médio",
+    "pergunta": "Em qual anime jovens pilotam robôs gigantes chamados EVAs contra misteriosos anjos?",
+    "opcoes": {
+      "A": "Code Geass",
+      "B": "Gurren Lagann",
+      "C": "Gundam",
+      "D": "Neon Genesis Evangelion"
+    },
+    "resposta_correta": "D",
+    "explicacao": "Neon Genesis Evangelion apresenta os pilotos dos EVAs em batalhas contra os Anjos."
+  },
+  {
+    "tema": "Animes; Séries; Filmes",
+    "dificuldade": "médio",
+    "pergunta": "Em qual série um professor de química se torna um produtor de metanfetamina?",
+    "opcoes": {
+      "A": "Breaking Bad",
+      "B": "Better Call Saul",
+      "C": "Ozark",
+      "D": "Narcos"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Em Breaking Bad, Walter White adota o codinome Heisenberg e entra no crime."
+  },
+  {
+    "tema": "Animes; Séries; Filmes",
+    "dificuldade": "médio",
+    "pergunta": "Em qual série dragões e grandes casas disputam o Trono de Ferro?",
+    "opcoes": {
+      "A": "Vikings",
+      "B": "Game of Thrones",
+      "C": "The Witcher",
+      "D": "Senhor dos Anéis"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Game of Thrones, baseada nos livros de George R.R. Martin, gira em torno do Trono de Ferro."
+  },
+  {
+    "tema": "Animes; Séries; Filmes",
+    "dificuldade": "médio",
+    "pergunta": "Qual série de ficção científica é famosa pela frase 'Vida longa e próspera'?",
+    "opcoes": {
+      "A": "Doctor Who",
+      "B": "The Expanse",
+      "C": "Star Trek",
+      "D": "Star Wars"
+    },
+    "resposta_correta": "C",
+    "explicacao": "'Vida longa e próspera' é a saudação vulcana clássica de Star Trek."
+  },
+  {
+    "tema": "Animes; Séries; Filmes",
+    "dificuldade": "médio",
+    "pergunta": "Em qual série o detetive Sherlock Holmes atua em Londres com seu parceiro Watson?",
+    "opcoes": {
+      "A": "Luther",
+      "B": "True Detective",
+      "C": "Dexter",
+      "D": "Sherlock"
+    },
+    "resposta_correta": "D",
+    "explicacao": "Sherlock, da BBC, tem Benedict Cumberbatch como o detetive consultor em Londres."
+  },
+  {
+    "tema": "Animes; Séries; Filmes",
+    "dificuldade": "médio",
+    "pergunta": "Qual herói do MCU carrega um escudo de vibranium com as cores da bandeira dos EUA?",
+    "opcoes": {
+      "A": "Capitão América",
+      "B": "Homem de Ferro",
+      "C": "Gavião Arqueiro",
+      "D": "Visão"
+    },
+    "resposta_correta": "A",
+    "explicacao": "O Capitão América é conhecido pelo escudo redondo, símbolo do herói."
+  },
+  {
+    "tema": "Animes; Séries; Filmes",
+    "dificuldade": "médio",
+    "pergunta": "Qual filme de ficção científica recria dinossauros por engenharia genética em uma ilha?",
+    "opcoes": {
+      "A": "Godzilla",
+      "B": "Jurassic Park",
+      "C": "King Kong",
+      "D": "Avatar"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Jurassic Park, de Steven Spielberg (1993), é baseado no livro de Michael Crichton."
+  },
+  {
+    "tema": "Animes; Séries; Filmes",
+    "dificuldade": "médio",
+    "pergunta": "Qual filme da Disney conta a história de um leão que deve assumir o trono após a morte do pai?",
+    "opcoes": {
+      "A": "O Rei Leão",
+      "B": "Branca de Neve",
+      "C": "A Dama e o Vagabundo",
+      "D": "Dumbo"
+    },
+    "resposta_correta": "A",
+    "explicacao": "O Rei Leão acompanha Simba, herdeiro do trono das Terras do Reino."
+  },
+  {
+    "tema": "Animes; Séries; Filmes",
+    "dificuldade": "médio",
+    "pergunta": "Qual filme de 2012 reúne pela primeira vez na tela Iron Man, Capitão América, Thor e Hulk?",
+    "opcoes": {
+      "A": "Vingadores: Ultimato",
+      "B": "Liga da Justiça",
+      "C": "Os Vingadores",
+      "D": "Era de Ultron"
+    },
+    "resposta_correta": "C",
+    "explicacao": "Os Vingadores (2012), dirigido por Joss Whedon, uniu os principais heróis do MCU."
+  },
+  {
+    "tema": "Animes; Séries; Filmes",
+    "dificuldade": "difícil",
+    "pergunta": "Em qual anime os irmãos Edward e Alphonse Elric buscam a Pedra Filosofal?",
+    "opcoes": {
+      "A": "Fullmetal Alchemist",
+      "B": "Soul Eater",
+      "C": "Hunter x Hunter",
+      "D": "Berserk"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Fullmetal Alchemist acompanha os irmãos Elric, alquimistas em busca da Pedra Filosofal."
+  },
+  {
+    "tema": "Animes; Séries; Filmes",
+    "dificuldade": "difícil",
+    "pergunta": "Qual filme do Studio Ghibli foi o primeiro anime a ganhar o Oscar de Melhor Animação?",
+    "opcoes": {
+      "A": "Meu Amigo Totoro",
+      "B": "A Viagem de Chihiro",
+      "C": "Princesa Mononoke",
+      "D": "O Castelo Animado"
+    },
+    "resposta_correta": "B",
+    "explicacao": "A Viagem de Chihiro (2001), de Hayao Miyazaki, venceu o Oscar em 2003."
+  },
+  {
+    "tema": "Animes; Séries; Filmes",
+    "dificuldade": "difícil",
+    "pergunta": "Em qual anime Ichigo Kurosaki se torna um Ceifeiro de Almas (Soul Reaper) após Rukia lhe emprestar poderes?",
+    "opcoes": {
+      "A": "Naruto",
+      "B": "Fairy Tail",
+      "C": "Bleach",
+      "D": "Blue Exorcist"
+    },
+    "resposta_correta": "C",
+    "explicacao": "Em Bleach, Ichigo assume o papel de Soul Reaper para proteger os vivos dos Hollows."
+  },
+  {
+    "tema": "Animes; Séries; Filmes",
+    "dificuldade": "difícil",
+    "pergunta": "Em qual anime os personagens duelam usando o jogo de cartas Duel Monsters?",
+    "opcoes": {
+      "A": "Pokémon",
+      "B": "Beyblade",
+      "C": "Digimon",
+      "D": "Yu-Gi-Oh!"
+    },
+    "resposta_correta": "D",
+    "explicacao": "Yu-Gi-Oh! gira em torno do Duelo de Monstros, jogo de cartas criado por Kazuki Takahashi."
+  },
+  {
+    "tema": "Animes; Séries; Filmes",
+    "dificuldade": "difícil",
+    "pergunta": "Qual série de antologia explora o lado sombrio da tecnologia em episódios independentes?",
+    "opcoes": {
+      "A": "Black Mirror",
+      "B": "Love, Death & Robots",
+      "C": "Twilight Zone",
+      "D": "The Outer Limits"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Black Mirror mostra futuros distópicos e os impactos da tecnologia na sociedade."
+  },
+  {
+    "tema": "Animes; Séries; Filmes",
+    "dificuldade": "difícil",
+    "pergunta": "Em qual série espanhola um bando de criminosos assalta a Casa da Moeda usando codinomes de cidades?",
+    "opcoes": {
+      "A": "Elite",
+      "B": "La Casa de Papel",
+      "C": "Vis a Vis",
+      "D": "Cable Girls"
+    },
+    "resposta_correta": "B",
+    "explicacao": "La Casa de Papel narra o assalto à Casa da Moeda da Espanha liderado pelo Professor."
+  },
+  {
+    "tema": "Animes; Séries; Filmes",
+    "dificuldade": "difícil",
+    "pergunta": "Qual série acompanha a família Dutton e o maior rancho dos Estados Unidos?",
+    "opcoes": {
+      "A": "Yellowstone",
+      "B": "Deadwood",
+      "C": "Westworld",
+      "D": "Ozark"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Yellowstone, estrelada por Kevin Costner, mostra os conflitos da família Dutton em Montana."
+  },
+  {
+    "tema": "Animes; Séries; Filmes",
+    "dificuldade": "difícil",
+    "pergunta": "Qual faroeste espacial criado por Joss Whedon teve apenas uma temporada, mas grande culto?",
+    "opcoes": {
+      "A": "Battlestar Galactica",
+      "B": "Firefly",
+      "C": "The Mandalorian",
+      "D": "Cowboy Bebop"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Firefly, com o capitão Mal Reynolds, foi cancelado cedo e ganhou o filme Serenity."
+  },
+  {
+    "tema": "Animes; Séries; Filmes",
+    "dificuldade": "difícil",
+    "pergunta": "Qual filme sul-coreano foi o primeiro em língua estrangeira a vencer o Oscar de Melhor Filme?",
+    "opcoes": {
+      "A": "Parasita",
+      "B": "Roma",
+      "C": "Minari",
+      "D": "Train to Busan"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Parasita, de Bong Joon-ho, venceu o Oscar de Melhor Filme em 2020."
+  },
+  {
+    "tema": "Animes; Séries; Filmes",
+    "dificuldade": "difícil",
+    "pergunta": "Qual filme de Christopher Nolan usa a inversão temporal como mecânica central da trama?",
+    "opcoes": {
+      "A": "Interestelar",
+      "B": "Tenet",
+      "C": "Dunkirk",
+      "D": "A Origem"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Em Tenet (2020), objetos e pessoas podem 'inverter' sua entropia e voltar no tempo."
+  },
+  {
+    "tema": "Animes; Séries; Filmes",
+    "dificuldade": "difícil",
+    "pergunta": "Qual filme de 2019 encerrou a 'Saga do Infinito' do Universo Cinematográfico Marvel?",
+    "opcoes": {
+      "A": "Guardiões da Galáxia",
+      "B": "Homem-Aranha: Longe de Casa",
+      "C": "Vingadores: Ultimato",
+      "D": "Doutor Estranho"
+    },
+    "resposta_correta": "C",
+    "explicacao": "Vingadores: Ultimato (2019) concluiu a saga contra Thanos e as Joias do Infinito."
+  },
+  {
+    "tema": "Animes; Séries; Filmes",
+    "dificuldade": "difícil",
+    "pergunta": "Qual filme de M. Night Shyamalan é famoso pela reviravolta em que Bruce Willis está morto?",
+    "opcoes": {
+      "A": "O Sexto Sentido",
+      "B": "Sinais",
+      "C": "Fragmentado",
+      "D": "Corpo Fechado"
+    },
+    "resposta_correta": "A",
+    "explicacao": "O Sexto Sentido (1999) revela que o personagem de Bruce Willis estava morto durante todo o filme."
+  },
+  {
+    "tema": "Programação; RabbitMQ",
+    "dificuldade": "médio",
+    "pergunta": "Qual protocolo de mensageria o RabbitMQ implementa?",
+    "opcoes": {
+      "A": "AMQP",
+      "B": "STOMP",
+      "C": "MQTT",
+      "D": "HTTP"
+    },
+    "resposta_correta": "A",
+    "explicacao": "O RabbitMQ implementa o AMQP (Advanced Message Queuing Protocol), embora suporte outros via plugins."
+  },
+  {
+    "tema": "Programação; RabbitMQ",
+    "dificuldade": "médio",
+    "pergunta": "O que é um produtor (producer) no RabbitMQ?",
+    "opcoes": {
+      "A": "Quem consome mensagens das filas",
+      "B": "Quem publica mensagens em uma exchange",
+      "C": "Quem gerencia o banco de dados",
+      "D": "Um tipo de fila"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O produtor publica mensagens; elas são encaminhadas pela exchange até as filas."
+  },
+  {
+    "tema": "Programação; RabbitMQ",
+    "dificuldade": "médio",
+    "pergunta": "O que é a routing key no RabbitMQ?",
+    "opcoes": {
+      "A": "A senha de acesso ao broker",
+      "B": "O identificador do consumidor",
+      "C": "A chave usada pela exchange para direcionar a mensagem até as filas",
+      "D": "Um tipo de mensagem"
+    },
+    "resposta_correta": "C",
+    "explicacao": "A routing key é usada pelas exchanges para decidir em quais filas a mensagem deve ser entregue."
+  },
+  {
+    "tema": "Programação; RabbitMQ",
+    "dificuldade": "médio",
+    "pergunta": "O que significa declarar uma fila como 'durable' (durável) no RabbitMQ?",
+    "opcoes": {
+      "A": "A fila é excluída após o primeiro consumo",
+      "B": "A fila só aceita mensagens grandes",
+      "C": "A fila é replicada em vários data centers",
+      "D": "A fila sobrevive a reinícios do broker"
+    },
+    "resposta_correta": "D",
+    "explicacao": "Uma fila durável tem suas definições persistidas no disco, sobrevivendo ao reinício do broker."
+  },
+  {
+    "tema": "Programação; RabbitMQ",
+    "dificuldade": "difícil",
+    "pergunta": "Qual tipo de exchange do RabbitMQ roteia a mensagem para filas cuja binding key corresponde EXATAMENTE à routing key?",
+    "opcoes": {
+      "A": "Direct",
+      "B": "Fanout",
+      "C": "Topic",
+      "D": "Headers"
+    },
+    "resposta_correta": "A",
+    "explicacao": "A exchange Direct entrega a mensagem apenas às filas com binding key idêntica à routing key."
+  },
+  {
+    "tema": "Programação; RabbitMQ",
+    "dificuldade": "difícil",
+    "pergunta": "Qual tipo de exchange do RabbitMQ faz roteamento por padrões usando wildcards (* e #)?",
+    "opcoes": {
+      "A": "Direct",
+      "B": "Topic",
+      "C": "Fanout",
+      "D": "Headers"
+    },
+    "resposta_correta": "B",
+    "explicacao": "A exchange Topic roteia por padrões, onde '*' casa uma palavra e '#' casa zero ou mais palavras."
+  },
+  {
+    "tema": "Programação; RabbitMQ",
+    "dificuldade": "difícil",
+    "pergunta": "O que é uma Dead Letter Queue (DLQ) no RabbitMQ?",
+    "opcoes": {
+      "A": "Uma fila que nunca recebe mensagens",
+      "B": "Uma fila de mensagens criptografadas",
+      "C": "Uma fila que recebe mensagens que não puderam ser processadas",
+      "D": "Uma fila com prioridade máxima"
+    },
+    "resposta_correta": "C",
+    "explicacao": "Mensagens rejeitadas, expiradas ou que estouraram o limite de entregas vão para a DLQ."
+  },
+  {
+    "tema": "Programação; RabbitMQ",
+    "dificuldade": "difícil",
+    "pergunta": "O que define o prefetch count de um consumidor no RabbitMQ?",
+    "opcoes": {
+      "A": "O número de filas que ele pode acessar",
+      "B": "O tamanho máximo das mensagens",
+      "C": "O tempo de espera entre mensagens",
+      "D": "Quantas mensagens não confirmadas ele pode receber de uma vez"
+    },
+    "resposta_correta": "D",
+    "explicacao": "O prefetch count limita a quantidade de mensagens não confirmadas enviadas a um consumidor."
+  },
+  {
+    "tema": "Programação; RabbitMQ",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é a função do acknowledge (ack) em um consumidor do RabbitMQ?",
+    "opcoes": {
+      "A": "Confirmar que a mensagem foi processada com sucesso",
+      "B": "Criar uma nova fila",
+      "C": "Publicar mensagens no broker",
+      "D": "Remover o broker"
+    },
+    "resposta_correta": "A",
+    "explicacao": "O ack informa ao broker que a mensagem foi processada e pode ser removida da fila."
+  },
+  {
+    "tema": "Programação; Angular",
+    "dificuldade": "médio",
+    "pergunta": "O que é injeção de dependência no Angular?",
+    "opcoes": {
+      "A": "Mecanismo que fornece automaticamente instâncias de serviços aos componentes",
+      "B": "Um tipo de rota",
+      "C": "Uma diretiva de estilo",
+      "D": "Um pipe de formatação"
+    },
+    "resposta_correta": "A",
+    "explicacao": "A injeção de dependência é o mecanismo central do Angular que resolve e injeta serviços nas classes."
+  },
+  {
+    "tema": "Programação; Angular",
+    "dificuldade": "médio",
+    "pergunta": "Qual decorator marca uma classe como componente no Angular?",
+    "opcoes": {
+      "A": "@Injectable",
+      "B": "@Component",
+      "C": "@NgModule",
+      "D": "@Pipe"
+    },
+    "resposta_correta": "B",
+    "explicacao": "@Component configura o seletor, template e estilos da classe que vira um componente."
+  },
+  {
+    "tema": "Programação; Angular",
+    "dificuldade": "difícil",
+    "pergunta": "O que é Change Detection no Angular?",
+    "opcoes": {
+      "A": "Uma forma de recompilar o código",
+      "B": "Um sistema de logs",
+      "C": "O mecanismo que detecta mudanças no estado e atualiza a view",
+      "D": "Um gerenciador de rotas"
+    },
+    "resposta_correta": "C",
+    "explicacao": "O Change Detection compara o estado anterior com o novo e atualiza a interface quando algo muda."
+  },
+  {
+    "tema": "Programação; Next.js",
+    "dificuldade": "médio",
+    "pergunta": "O que é ISR (Incremental Static Regeneration) no Next.js?",
+    "opcoes": {
+      "A": "Gerar páginas apenas no cliente",
+      "B": "Atualizar páginas estáticas em segundo plano após o build, sem redeploy",
+      "C": "Bloquear requisições estáticas",
+      "D": "Um plugin de banco de dados"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O ISR permite revalidar páginas estáticas em intervalos definidos, mantendo desempenho e dados atuais."
+  },
+  {
+    "tema": "Programação; Next.js",
+    "dificuldade": "difícil",
+    "pergunta": "O que são Server Components no Next.js (App Router)?",
+    "opcoes": {
+      "A": "Componentes que rodam apenas no cliente",
+      "B": "Componentes de API",
+      "C": "Componentes renderizados no servidor que reduzem o JavaScript enviado ao cliente",
+      "D": "Componentes apenas para estilização"
+    },
+    "resposta_correta": "C",
+    "explicacao": "Server Components rodam no servidor, podem ser assíncronos e reduzem o bundle enviado ao navegador."
+  },
+  {
+    "tema": "Programação; Microfrontends",
+    "dificuldade": "médio",
+    "pergunta": "Qual técnica é comum para comunicação entre microfrontends independentes?",
+    "opcoes": {
+      "A": "Apenas chamadas de API",
+      "B": "Banco de dados compartilhado obrigatório",
+      "C": "Eventos customizados (Custom Events) ou estado global compartilhado",
+      "D": "WebSockets obrigatórios"
+    },
+    "resposta_correta": "C",
+    "explicacao": "Microfrontends costumam se comunicar por Custom Events ou por um estado global compartilhado."
+  },
+  {
+    "tema": "Programação; Microfrontends",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é uma vantagem do Module Federation do Webpack?",
+    "opcoes": {
+      "A": "Times fazem deploy dos microapps de forma independente e compartilham código em tempo de execução",
+      "B": "Elimina a necessidade de servidores",
+      "C": "Só funciona offline",
+      "D": "Substitui o backend"
+    },
+    "resposta_correta": "A",
+    "explicacao": "O Module Federation permite builds independentes que compartilham e consomem módulos em runtime."
+  },
+  {
+    "tema": "Programação; Microfrontends",
+    "dificuldade": "difícil",
+    "pergunta": "O que é o shell (host) em uma arquitetura de microfrontends?",
+    "opcoes": {
+      "A": "O banco de dados central",
+      "B": "A aplicação principal que orquestra e carrega os microapps remotos",
+      "C": "Um contêiner Docker",
+      "D": "O pacote de dependências"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O shell é a aplicação-mãe que renderiza o layout comum e monta dinamicamente os microfrontends."
+  },
+  {
+    "tema": "Programação; Microservices",
+    "dificuldade": "médio",
+    "pergunta": "O que é service discovery em microservices?",
+    "opcoes": {
+      "A": "Mecanismo que permite aos serviços se localizarem dinamicamente em uma rede",
+      "B": "Um sistema de logs centralizado",
+      "C": "Uma fila de mensagens",
+      "D": "Um proxy reverso estático"
+    },
+    "resposta_correta": "A",
+    "explicacao": "O service discovery registra serviços e permite que clientes encontrem suas instâncias dinamicamente."
+  },
+  {
+    "tema": "Programação; Microservices",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é o papel de um API Gateway em uma arquitetura de microservices?",
+    "opcoes": {
+      "A": "Rodar o banco de dados",
+      "B": "Ponto único de entrada que roteia, agrega e protege as chamadas aos serviços",
+      "C": "Compilar o código dos serviços",
+      "D": "Substituir apenas o balanceador de carga"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O API Gateway é a porta de entrada única, cuidando de roteamento, autenticação e agregação de respostas."
+  },
+  [
+  {
+    "tema": "Jogos",
+    "dificuldade": "fácil",
+    "pergunta": "Qual personagem é o principal protagonista da série Super Mario?",
+    "opcoes": {
+      "A": "Luigi",
+      "B": "Mario",
+      "C": "Wario",
+      "D": "Yoshi"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Mario é o protagonista principal da famosa franquia de jogos da Nintendo."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "fácil",
+    "pergunta": "Qual empresa desenvolveu Minecraft?",
+    "opcoes": {
+      "A": "Nintendo",
+      "B": "Valve",
+      "C": "Mojang",
+      "D": "Ubisoft"
+    },
+    "resposta_correta": "C",
+    "explicacao": "Minecraft foi desenvolvido originalmente pela Mojang Studios."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "fácil",
+    "pergunta": "Em qual jogo podemos encontrar o personagem Pikachu?",
+    "opcoes": {
+      "A": "Pokémon",
+      "B": "Digimon",
+      "C": "Final Fantasy",
+      "D": "Dragon Quest"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Pikachu é um dos Pokémon mais conhecidos da franquia Pokémon."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é o nome do protagonista de God of War?",
+    "opcoes": {
+      "A": "Kratos",
+      "B": "Atreus",
+      "C": "Zeus",
+      "D": "Baldur"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Kratos é o protagonista da série God of War."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "fácil",
+    "pergunta": "Qual destes jogos é conhecido por seu modo Battle Royale?",
+    "opcoes": {
+      "A": "Fortnite",
+      "B": "Portal",
+      "C": "The Sims",
+      "D": "Stardew Valley"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Fortnite ficou mundialmente conhecido principalmente pelo seu modo Battle Royale."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "fácil",
+    "pergunta": "Qual empresa é responsável pelo PlayStation?",
+    "opcoes": {
+      "A": "Microsoft",
+      "B": "Sony",
+      "C": "Nintendo",
+      "D": "Sega"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O PlayStation é uma linha de consoles desenvolvida pela Sony."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "fácil",
+    "pergunta": "Qual destes personagens pertence à série The Legend of Zelda?",
+    "opcoes": {
+      "A": "Link",
+      "B": "Cloud",
+      "C": "Sonic",
+      "D": "Master Chief"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Link é o protagonista recorrente da série The Legend of Zelda."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "fácil",
+    "pergunta": "Qual jogo possui personagens chamados Steve e Alex?",
+    "opcoes": {
+      "A": "Minecraft",
+      "B": "Terraria",
+      "C": "Roblox",
+      "D": "Fall Guys"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Steve e Alex são personagens jogáveis conhecidos de Minecraft."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é o nome do ouriço azul da Sega?",
+    "opcoes": {
+      "A": "Tails",
+      "B": "Knuckles",
+      "C": "Sonic",
+      "D": "Shadow"
+    },
+    "resposta_correta": "C",
+    "explicacao": "Sonic é o famoso ouriço azul e mascote principal da Sega."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "fácil",
+    "pergunta": "Qual destes jogos é um simulador de vida?",
+    "opcoes": {
+      "A": "The Sims",
+      "B": "Doom",
+      "C": "Valorant",
+      "D": "Mortal Kombat"
+    },
+    "resposta_correta": "A",
+    "explicacao": "The Sims é uma série de jogos focada em simulação de vida."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "fácil",
+    "pergunta": "Qual jogo de futebol é desenvolvido pela EA Sports?",
+    "opcoes": {
+      "A": "FIFA",
+      "B": "Tekken",
+      "C": "Halo",
+      "D": "Overwatch"
+    },
+    "resposta_correta": "A",
+    "explicacao": "A franquia FIFA foi desenvolvida pela EA Sports. A série passou a se chamar EA Sports FC a partir de 2023."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "fácil",
+    "pergunta": "Qual personagem usa uma Master Sword em The Legend of Zelda?",
+    "opcoes": {
+      "A": "Mario",
+      "B": "Link",
+      "C": "Ganondorf",
+      "D": "Kirby"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Link é tradicionalmente associado à Master Sword na série The Legend of Zelda."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "fácil",
+    "pergunta": "Qual jogo apresenta blocos que podem ser minerados e construídos?",
+    "opcoes": {
+      "A": "Minecraft",
+      "B": "Valorant",
+      "C": "FIFA",
+      "D": "Tekken"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Minecraft é baseado principalmente na exploração, mineração e construção com blocos."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "fácil",
+    "pergunta": "Qual destes jogos pertence à franquia Grand Theft Auto?",
+    "opcoes": {
+      "A": "GTA V",
+      "B": "Halo 5",
+      "C": "Fallout 4",
+      "D": "Far Cry 6"
+    },
+    "resposta_correta": "A",
+    "explicacao": "GTA V é um dos jogos mais conhecidos da franquia Grand Theft Auto."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "fácil",
+    "pergunta": "Qual personagem é conhecido por engolir inimigos e copiar suas habilidades?",
+    "opcoes": {
+      "A": "Kirby",
+      "B": "Mario",
+      "C": "Sonic",
+      "D": "Crash"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Kirby possui a habilidade característica de engolir inimigos e copiar determinadas habilidades."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "médio",
+    "pergunta": "Qual é o nome da cidade onde se passa principalmente GTA V?",
+    "opcoes": {
+      "A": "Liberty City",
+      "B": "Los Santos",
+      "C": "Vice City",
+      "D": "San Fierro"
+    },
+    "resposta_correta": "B",
+    "explicacao": "GTA V se passa principalmente em Los Santos e na região fictícia de Blaine County."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "médio",
+    "pergunta": "Qual é o nome do protagonista de The Witcher 3?",
+    "opcoes": {
+      "A": "Geralt de Rívia",
+      "B": "Vesemir",
+      "C": "Dandelion",
+      "D": "Emhyr"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Geralt de Rívia é o protagonista de The Witcher 3: Wild Hunt."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "médio",
+    "pergunta": "Qual empresa desenvolveu a série Dark Souls?",
+    "opcoes": {
+      "A": "FromSoftware",
+      "B": "Capcom",
+      "C": "Square Enix",
+      "D": "Konami"
+    },
+    "resposta_correta": "A",
+    "explicacao": "A FromSoftware desenvolveu a série Dark Souls."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "médio",
+    "pergunta": "Em League of Legends, como são chamados os personagens controlados pelos jogadores?",
+    "opcoes": {
+      "A": "Champions",
+      "B": "Heroes",
+      "C": "Operators",
+      "D": "Agents"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Os personagens jogáveis de League of Legends são chamados de Champions, ou Campeões."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "médio",
+    "pergunta": "Qual é o nome da moeda usada em Fortnite?",
+    "opcoes": {
+      "A": "Robux",
+      "B": "V-Bucks",
+      "C": "Gems",
+      "D": "Coins"
+    },
+    "resposta_correta": "B",
+    "explicacao": "V-Bucks são a moeda virtual utilizada em Fortnite para adquirir itens cosméticos e outros conteúdos."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "médio",
+    "pergunta": "Qual personagem é o irmão de Mario?",
+    "opcoes": {
+      "A": "Wario",
+      "B": "Luigi",
+      "C": "Toad",
+      "D": "Bowser"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Luigi é o irmão mais novo de Mario e também um dos personagens mais conhecidos da Nintendo."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "médio",
+    "pergunta": "Qual é o nome do mundo principal de Elden Ring?",
+    "opcoes": {
+      "A": "The Lands Between",
+      "B": "Thedas",
+      "C": "Tamriel",
+      "D": "Hyrule"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Elden Ring se passa em um mundo chamado The Lands Between."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "médio",
+    "pergunta": "Qual destes jogos foi desenvolvido pela Valve?",
+    "opcoes": {
+      "A": "Counter-Strike",
+      "B": "League of Legends",
+      "C": "Valorant",
+      "D": "Overwatch"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Counter-Strike é uma das principais franquias associadas à Valve."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "médio",
+    "pergunta": "Qual é o nome da inteligência artificial presente em Halo?",
+    "opcoes": {
+      "A": "Cortana",
+      "B": "GLaDOS",
+      "C": "EDI",
+      "D": "Samantha"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Cortana é uma inteligência artificial que possui papel importante na série Halo."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "médio",
+    "pergunta": "Qual é o nome do protagonista de Hollow Knight?",
+    "opcoes": {
+      "A": "The Knight",
+      "B": "Hornet",
+      "C": "The Hollow",
+      "D": "The King"
+    },
+    "resposta_correta": "A",
+    "explicacao": "O protagonista de Hollow Knight é conhecido simplesmente como The Knight."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "médio",
+    "pergunta": "Em Pokémon, qual tipo é super efetivo contra Pokémon do tipo Água?",
+    "opcoes": {
+      "A": "Fogo",
+      "B": "Elétrico",
+      "C": "Gelo",
+      "D": "Psíquico"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Ataques do tipo Elétrico são super efetivos contra Pokémon do tipo Água."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "médio",
+    "pergunta": "Qual empresa desenvolveu Valorant?",
+    "opcoes": {
+      "A": "Riot Games",
+      "B": "Valve",
+      "C": "Blizzard",
+      "D": "Epic Games"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Valorant é um jogo de tiro tático desenvolvido pela Riot Games."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "médio",
+    "pergunta": "Qual é o nome do protagonista de Red Dead Redemption 2?",
+    "opcoes": {
+      "A": "John Marston",
+      "B": "Arthur Morgan",
+      "C": "Dutch van der Linde",
+      "D": "Micah Bell"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Arthur Morgan é o protagonista principal de Red Dead Redemption 2."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "médio",
+    "pergunta": "Qual jogo é conhecido por possuir a personagem Lara Croft?",
+    "opcoes": {
+      "A": "Tomb Raider",
+      "B": "Uncharted",
+      "C": "Resident Evil",
+      "D": "Assassin's Creed"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Lara Croft é a protagonista da franquia Tomb Raider."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "médio",
+    "pergunta": "Qual é o nome do protagonista de Hollow Knight?",
+    "opcoes": {
+      "A": "The Knight",
+      "B": "The Hunter",
+      "C": "The Vessel",
+      "D": "The Wanderer"
+    },
+    "resposta_correta": "A",
+    "explicacao": "O personagem jogável de Hollow Knight é conhecido como The Knight."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "médio",
+    "pergunta": "Qual destes jogos pertence à franquia Resident Evil?",
+    "opcoes": {
+      "A": "Resident Evil 4",
+      "B": "Silent Hill 2",
+      "C": "Dead Space",
+      "D": "Outlast"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Resident Evil 4 é um dos títulos mais conhecidos da franquia de terror da Capcom."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "médio",
+    "pergunta": "Qual personagem é conhecido como o Doom Slayer?",
+    "opcoes": {
+      "A": "Doomguy",
+      "B": "Master Chief",
+      "C": "Marcus Fenix",
+      "D": "Samus Aran"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Doomguy é o personagem principal da franquia Doom e também é conhecido como Doom Slayer."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "médio",
+    "pergunta": "Qual é o nome do reino onde Mario geralmente vive suas aventuras?",
+    "opcoes": {
+      "A": "Hyrule",
+      "B": "Mushroom Kingdom",
+      "C": "Dream Land",
+      "D": "Kingdom Hearts"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O Mushroom Kingdom é um dos principais cenários da série Super Mario."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "difícil",
+    "pergunta": "Qual foi o primeiro Pokémon da Pokédex Nacional?",
+    "opcoes": {
+      "A": "Pikachu",
+      "B": "Charmander",
+      "C": "Bulbasaur",
+      "D": "Mew"
+    },
+    "resposta_correta": "C",
+    "explicacao": "Bulbasaur ocupa o número 001 na Pokédex Nacional."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "difícil",
+    "pergunta": "Qual foi o primeiro console doméstico lançado pela Nintendo?",
+    "opcoes": {
+      "A": "Super Nintendo",
+      "B": "Nintendo Entertainment System",
+      "C": "Color TV-Game",
+      "D": "Nintendo 64"
+    },
+    "resposta_correta": "C",
+    "explicacao": "A linha Color TV-Game foi a primeira família de consoles domésticos da Nintendo."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é o nome verdadeiro de Solid Snake?",
+    "opcoes": {
+      "A": "Jack",
+      "B": "David",
+      "C": "John",
+      "D": "Richard"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O nome verdadeiro de Solid Snake é David, também conhecido pelo codinome Solid Snake."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "difícil",
+    "pergunta": "Qual estúdio desenvolveu Bloodborne?",
+    "opcoes": {
+      "A": "Naughty Dog",
+      "B": "FromSoftware",
+      "C": "Santa Monica Studio",
+      "D": "Capcom"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Bloodborne foi desenvolvido pela FromSoftware em colaboração com a Sony Japan Studio."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "difícil",
+    "pergunta": "Em The Legend of Zelda: Ocarina of Time, qual instrumento Link utiliza?",
+    "opcoes": {
+      "A": "Flauta",
+      "B": "Ocarina",
+      "C": "Harpa",
+      "D": "Violino"
+    },
+    "resposta_correta": "B",
+    "explicacao": "A Ocarina of Time é um elemento central da história e da jogabilidade."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é o nome da cidade principal de Cyberpunk 2077?",
+    "opcoes": {
+      "A": "Night City",
+      "B": "Neo Tokyo",
+      "C": "Night Town",
+      "D": "Cyber City"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Cyberpunk 2077 se passa principalmente em Night City, uma metrópole fictícia localizada na Califórnia."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é o nome do protagonista de Persona 5?",
+    "opcoes": {
+      "A": "Yu Narukami",
+      "B": "Makoto Yuki",
+      "C": "Joker",
+      "D": "Ryuji Sakamoto"
+    },
+    "resposta_correta": "C",
+    "explicacao": "O protagonista de Persona 5 é conhecido pelo codinome Joker."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "difícil",
+    "pergunta": "Qual empresa criou a franquia Metal Gear?",
+    "opcoes": {
+      "A": "Konami",
+      "B": "Sega",
+      "C": "Capcom",
+      "D": "Namco"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Metal Gear é uma franquia criada por Hideo Kojima e publicada pela Konami."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é o nome da protagonista de Metroid?",
+    "opcoes": {
+      "A": "Zelda",
+      "B": "Samus Aran",
+      "C": "Bayonetta",
+      "D": "Jill Valentine"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Samus Aran é a protagonista e caçadora de recompensas da franquia Metroid."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "difícil",
+    "pergunta": "Qual jogo foi criado pelo designer japonês Hideo Kojima?",
+    "opcoes": {
+      "A": "Death Stranding",
+      "B": "Dark Souls",
+      "C": "Resident Evil",
+      "D": "Final Fantasy VII"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Death Stranding foi criado e dirigido por Hideo Kojima."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é o nome da organização antagonista em Resident Evil?",
+    "opcoes": {
+      "A": "Umbrella Corporation",
+      "B": "Black Mesa",
+      "C": "Abstergo",
+      "D": "Arasaka"
+    },
+    "resposta_correta": "A",
+    "explicacao": "A Umbrella Corporation é uma das principais organizações associadas aos eventos da franquia Resident Evil."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "difícil",
+    "pergunta": "Em Dark Souls, qual é o nome do reino principal do primeiro jogo?",
+    "opcoes": {
+      "A": "Lordran",
+      "B": "Lothric",
+      "C": "Drangleic",
+      "D": "Boletaria"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Dark Souls se passa principalmente em Lordran."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "difícil",
+    "pergunta": "Qual personagem de Street Fighter é conhecido por usar o Hadouken?",
+    "opcoes": {
+      "A": "Ryu",
+      "B": "Guile",
+      "C": "Zangief",
+      "D": "Blanka"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Ryu é um dos personagens mais conhecidos por utilizar o golpe Hadouken."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é o nome do protagonista de Assassin's Creed II?",
+    "opcoes": {
+      "A": "Altair",
+      "B": "Ezio Auditore",
+      "C": "Connor Kenway",
+      "D": "Edward Kenway"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Ezio Auditore da Firenze é o protagonista de Assassin's Creed II."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "difícil",
+    "pergunta": "Qual empresa desenvolveu Overwatch?",
+    "opcoes": {
+      "A": "Riot Games",
+      "B": "Blizzard Entertainment",
+      "C": "Epic Games",
+      "D": "Valve"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Overwatch foi desenvolvido pela Blizzard Entertainment."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é o nome da princesa sequestrada frequentemente por Bowser?",
+    "opcoes": {
+      "A": "Daisy",
+      "B": "Peach",
+      "C": "Rosalina",
+      "D": "Zelda"
+    },
+    "resposta_correta": "B",
+    "explicacao": "A Princesa Peach é frequentemente colocada em perigo por Bowser nos jogos da série Super Mario."
+  }
+]
+]
