@@ -7,6 +7,7 @@ const PREMIOS = [
 let perguntaAtual = null;
 let perguntaNumero = 1;
 let premioGanho = 0;
+let participanteNome = "";
 let highScore = parseInt(localStorage.getItem("pinguim_highscore") || "0", 10);
 
 // Perguntas já exibidas nesta partida (por texto normalizado),
@@ -346,8 +347,12 @@ function valorFalado(valor) {
 }
 
 function narrarPergunta(dados) {
+  const saudacaoParticipante = participanteNome
+    ? "Participante " + participanteNome + ", "
+    : "";
   falar(
-    "Vamos lá! Pergunta que vale " + valorFalado(PREMIOS[perguntaNumero - 1]) + ". " +
+    saudacaoParticipante +
+    "vamos lá! Pergunta que vale " + valorFalado(PREMIOS[perguntaNumero - 1]) + ". " +
     dados.pergunta + ". " +
     "Alternativa A: " + dados.opcoes.A + ". " +
     "Alternativa B: " + dados.opcoes.B + ". " +
@@ -536,7 +541,7 @@ function marcarPerguntaUsada(pergunta) {
 
 function categoriaDoTema(temaNorm) {
   const chaves = [
-    "programacao", "javascript", "node", "react", "next", "angular", "jogos",
+    "programacao", "javascript", "node", "react", "next", "angular",
     "typescript", "microservices", "microfrontends", "rabbitmq"
   ];
   return chaves.some(chave => temaNorm.includes(chave)) ? "programacao" : null;
@@ -558,6 +563,18 @@ function pontuarTemaPergunta(temaNorm, perguntaTemaNorm) {
     pontos += 10;
   }
 
+  if (temaNorm === "jogos") {
+    const termosJogos = [
+      "jogo", "jogos", "game", "games", "videogame", "video game",
+      "console", "playstation", "xbox", "nintendo", "mario", "zelda",
+      "pokemon", "pokémon", "sonic", "minecraft", "gta", "fifa",
+      "the witcher", "red dead", "halo", "zelda"
+    ];
+    for (const termo of termosJogos) {
+      if (perguntaTemaNorm.includes(termo)) pontos += 6;
+    }
+  }
+
   for (const termo of termos) {
     if (perguntaTemaNorm.includes(termo)) pontos += 3;
   }
@@ -573,11 +590,13 @@ function sorteiaPerguntaLocal(tema, nivel) {
     p => normalizar(p.dificuldade) === nivelNorm
   );
 
+  // Se o banco possui o tema exato, a partida deve permanecer nele.
+  const porTemaExato = pool.filter(p => normalizar(p.tema) === temaNorm);
+
   const pontuadas = pool
     .map(p => ({ p, score: pontuarTemaPergunta(temaNorm, normalizar(p.tema)) }))
     .sort((a, b) => b.score - a.score);
 
-  const porTema = pontuadas.filter(item => item.score > 0).map(item => item.p);
   const porTemaForte = pontuadas.filter(item => item.score >= 3).map(item => item.p);
   const porTemaFraco = pontuadas.filter(item => item.score > 0 && item.score < 3).map(item => item.p);
 
@@ -587,32 +606,40 @@ function sorteiaPerguntaLocal(tema, nivel) {
   const porCategoria = categoria
     ? pool.filter(p => normalizar(p.tema).includes(categoria))
     : [];
+  const temaSimples = pool.filter(p => normalizar(p.tema).includes(temaNorm));
 
   const escolher = (lista) => {
     const naoUsadas = lista.filter(p => !usadas.has(normalizar(p.pergunta)));
     return naoUsadas[Math.floor(Math.random() * naoUsadas.length)];
   };
 
-  // Prioridade: tema forte -> tema relacionado -> categoria -> n?vel inteiro.
-  let escolhida = escolher(porTemaForte);
+  // Prioridade: tema exato -> tema relacionado -> categoria.
+  let escolhida = escolher(porTemaExato);
+  if (!escolhida && porTemaExato.length > 0) {
+    usadas.clear();
+    escolhida = escolher(porTemaExato);
+  }
+  if (!escolhida && porTemaExato.length === 0) escolhida = escolher(porTemaForte);
   if (!escolhida) escolhida = escolher(porTemaFraco);
+  if (!escolhida) escolhida = escolher(temaSimples);
   if (!escolhida) escolhida = escolher(porCategoria);
-  if (!escolhida && !normalizar(tema).includes("conhecimento geral")) {
+  if (!escolhida && porTemaExato.length === 0 && !normalizar(tema).includes("conhecimento geral")) {
     escolhida = escolher(pool.filter(p => normalizar(p.tema).includes("cultura geral")));
   }
-  if (!escolhida) escolhida = escolher(pool);
+  if (!escolhida && porTemaExato.length === 0) escolhida = escolher(pool);
 
   // ?ltimo recurso: esgotou as perguntas relevantes do n?vel.
   if (!escolhida) {
     usadas.clear();
-    escolhida = escolher(porTemaForte);
+    escolhida = escolher(porTemaExato);
   }
+  if (!escolhida) escolhida = escolher(porTemaForte);
   if (!escolhida) escolhida = escolher(porTemaFraco);
   if (!escolhida) escolhida = escolher(porCategoria);
-  if (!escolhida && !normalizar(tema).includes("conhecimento geral")) {
+  if (!escolhida && porTemaExato.length === 0 && !normalizar(tema).includes("conhecimento geral")) {
     escolhida = escolher(pool.filter(p => normalizar(p.tema).includes("cultura geral")));
   }
-  if (!escolhida) escolhida = escolher(pool);
+  if (!escolhida && porTemaExato.length === 0) escolhida = escolher(pool);
 
   marcarPerguntaUsada(escolhida.pergunta);
 
@@ -676,6 +703,7 @@ function fimDeJogo(venceu) {
 }
 
 async function gerarPergunta() {
+  participanteNome = document.getElementById("participante").value.trim();
   const tema =
     document.getElementById("tema").value || "Conhecimentos Gerais";
 

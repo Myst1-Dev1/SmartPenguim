@@ -8,10 +8,12 @@ const PROMESSA_BANCO = fetch("perguntas.json")
   .then((response) => {
     if (!response.ok) {
       throw new Error("Falha ao carregar perguntas.json (HTTP " + response.status + ")");
-    }
-    return response.json();
+  }
+  return response.json();
   })
   .then((dados) => {
-    BANCO_PERGUNTAS.splice(0, BANCO_PERGUNTAS.length, ...dados);
+    // Aceita tambem blocos de perguntas aninhados no JSON.
+    const perguntas = Array.isArray(dados) ? dados.flat(Infinity) : [];
+    BANCO_PERGUNTAS.splice(0, BANCO_PERGUNTAS.length, ...perguntas);
     return BANCO_PERGUNTAS;
   });
