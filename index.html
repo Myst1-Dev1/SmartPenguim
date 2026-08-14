@@ -111,6 +111,13 @@
         <button id="btn-mic" class="icon-btn tool-btn mic-btn" onclick="iniciarOuvir()" title="Responder por voz (diga A, B, C ou D)">🎙️ Responder por voz</button>
       </div>
 
+      <div class="cartas-auxilio" aria-label="Cartas de auxilio">
+        <button class="carta-auxilio" data-auxilio="eliminar" onclick="usarCarta('eliminar')"><span class="carta-icone">2</span><span>Elimine 2</span></button>
+        <button class="carta-auxilio" data-auxilio="pular" onclick="usarCarta('pular')"><span class="carta-icone">↷</span><span>Pular</span></button>
+        <button class="carta-auxilio" data-auxilio="pular-1" onclick="usarCarta('pular-1')"><span class="carta-icone">↷</span><span>Pular</span></button>
+        <button class="carta-auxilio" data-auxilio="pular-2" onclick="usarCarta('pular-2')"><span class="carta-icone">↷</span><span>Pular</span></button>
+      </div>
+
       <div id="feedback" class="feedback-box hidden"></div>
 
       <button id="btn-proxima" class="hidden" onclick="gerarPergunta()">Próxima Pergunta ➡️</button>

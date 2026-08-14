@@ -8,6 +8,8 @@ let perguntaAtual = null;
 let perguntaNumero = 1;
 let premioGanho = 0;
 let participanteNome = "";
+const auxiliosUsados = new Set();
+document.querySelector('[data-auxilio="pular"]')?.remove();
 let highScore = parseInt(localStorage.getItem("pinguim_highscore") || "0", 10);
 
 // Perguntas já exibidas nesta partida (por texto normalizado),
@@ -695,6 +697,7 @@ function fimDeJogo(venceu) {
   perguntaNumero = 1;
   premioGanho = 0;
   usadas.clear();
+  auxiliosUsados.clear();
   marcarPerguntaLocal(false);
 
   document.getElementById("quiz-panel").classList.add("hidden");
@@ -747,11 +750,45 @@ function exibirPergunta(dados) {
 
   // Habilita os botões novamente
   const botoes = document.querySelectorAll(".btn-opcao");
-  botoes.forEach(btn => btn.disabled = false);
+  botoes.forEach(btn => {
+    btn.disabled = false;
+    btn.classList.remove("eliminada");
+  });
 
   document.getElementById("quiz-panel").classList.remove("hidden");
 
   narrarPergunta(dados);
+}
+
+function usarCarta(tipo) {
+  if (!perguntaAtual || auxiliosUsados.has(tipo)) return;
+
+  auxiliosUsados.add(tipo);
+  const carta = document.querySelector(`[data-auxilio="${tipo}"]`);
+  if (carta) {
+    carta.classList.add("usada", "embaralhando");
+    carta.disabled = true;
+    setTimeout(() => carta.classList.remove("embaralhando"), 650);
+  }
+
+  if (tipo === "eliminar") {
+    const incorretas = ["A", "B", "C", "D"]
+      .filter(letra => letra !== perguntaAtual.resposta_correta)
+      .sort(() => Math.random() - 0.5)
+      .slice(0, 2);
+    incorretas.forEach(letra => {
+      const botao = document.querySelector(`.btn-opcao[onclick="responder('${letra}')"]`);
+      if (!botao) return;
+      botao.disabled = true;
+      botao.classList.add("eliminada");
+      botao.querySelector("span:last-child").textContent = "Alternativa eliminada";
+    });
+    tocarSom("clique");
+    falar("Duas alternativas foram eliminadas.");
+  } else if (tipo.startsWith("pular")) {
+    falar("Vamos pular esta pergunta.");
+    setTimeout(() => gerarPergunta(), 500);
+  }
 }
 
 function responder(alternativaEscolhida) {

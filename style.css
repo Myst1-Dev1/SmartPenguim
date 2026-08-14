@@ -453,6 +453,39 @@ button:hover {
   flex-wrap: wrap;
 }
 
+.cartas-auxilio {
+  display: flex;
+  justify-content: center;
+  gap: 14px;
+  margin-top: 22px;
+  perspective: 700px;
+}
+
+.carta-auxilio {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 7px;
+  min-width: 92px;
+  padding: 10px 9px;
+  margin: 0;
+  color: var(--text-main);
+  background: linear-gradient(145deg, #17375c, #0c1729);
+  border: 1px solid var(--accent-cyan);
+  border-radius: 10px;
+  box-shadow: 0 5px 0 #07101d, 0 0 14px rgba(0, 210, 255, 0.18);
+  font-size: 0.75rem;
+  transition: transform 0.2s, opacity 0.2s, filter 0.2s;
+}
+
+.carta-auxilio:hover:not(:disabled) { transform: translateY(-7px) rotate(-2deg); }
+.carta-icone { display: grid; place-items: center; width: 38px; height: 38px; color: #07101d; background: var(--accent-cyan); border-radius: 7px; font-size: 1.1rem; font-weight: 900; }
+.carta-auxilio.usada { opacity: 0.35; filter: grayscale(1); }
+.carta-auxilio.embaralhando { animation: embaralharCarta 0.65s ease-in-out; }
+@keyframes embaralharCarta { 0%, 100% { transform: rotateY(0) translateY(0); } 25% { transform: rotateY(180deg) translateY(-10px); } 50% { transform: rotateY(360deg) translateY(0); } 75% { transform: rotateY(540deg) translateY(-6px); } }
+.btn-opcao.eliminada { opacity: 0.3; text-decoration: line-through; animation: alternativaSai 0.45s ease-out; }
+@keyframes alternativaSai { from { transform: scale(1); opacity: 1; } to { transform: scale(0.92); opacity: 0.3; } }
+
 /* ===== Feedback ===== */
 .feedback-box {
   margin-top: 20px;
