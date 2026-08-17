@@ -338,6 +338,786 @@
     "explicacao": "O pinguim é uma ave que não voa, adaptada à vida em regiões frias como a Antártida."
   },
   {
+    "tema": "Animais",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é o maior mamífero do planeta Terra?",
+    "opcoes": {
+      "A": "Elefante-africano",
+      "B": "Baleia-azul",
+      "C": "Tubarão-baleia",
+      "D": "Girafa"
+    },
+    "resposta_correta": "B",
+    "explicacao": "A baleia-azul é o maior animal conhecido que já existiu no planeta, podendo ultrapassar 30 metros."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é o animal terrestre mais alto do mundo?",
+    "opcoes": {
+      "A": "Elefante",
+      "B": "Girafa",
+      "C": "Avestruz",
+      "D": "Camelo"
+    },
+    "resposta_correta": "B",
+    "explicacao": "A girafa pode atingir até 5,5 metros de altura graças ao seu longo pescoço."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "fácil",
+    "pergunta": "Qual destes animais é um anfíbio?",
+    "opcoes": {
+      "A": "Sapo",
+      "B": "Cobra",
+      "C": "Tartaruga",
+      "D": "Tubarão"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Os sapos são anfíbios que passam por metamorfose, vivendo parte da vida na água e parte na terra."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é o alimento principal da dieta do urso-panda?",
+    "opcoes": {
+      "A": "Eucalipto",
+      "B": "Bambu",
+      "C": "Peixes",
+      "D": "Frutas silvestres"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Cerca de 99% da dieta do panda-gigante é composta por folhas e brotos de bambu."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é o felino mais rápido do mundo em corridas curtas?",
+    "opcoes": {
+      "A": "Leão",
+      "B": "Gêpardo (Guepardo)",
+      "C": "Tigre",
+      "D": "Onça-pintada"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O guepardo consegue atingir velocidades de até 100 km/h em pouca distância."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "fácil",
+    "pergunta": "Como são chamados os animais que se alimentam apenas de plantas?",
+    "opcoes": {
+      "A": "Carnívoros",
+      "B": "Herbívoros",
+      "C": "Onívoros",
+      "D": "Detritívoros"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Animais herbívoros têm o organismo adaptado para digerir vegetais."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "fácil",
+    "pergunta": "Qual destes é o maior felino do continente americano?",
+    "opcoes": {
+      "A": "Puma",
+      "B": "Jaguatirica",
+      "C": "Onça-pintada",
+      "D": "Leão-da-montanha"
+    },
+    "resposta_correta": "C",
+    "explicacao": "A onça-pintada é o maior felino das Américas e o terceiro maior do mundo."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é a única espécie de mamífero capaz de voar ativamente?",
+    "opcoes": {
+      "A": "Esquilo-voador",
+      "B": "Morcego",
+      "C": "Lêmure-voador",
+      "D": "Pterodáctilo"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Os morcegos são os únicos mamíferos que possuem voo sustentado próprio."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "fácil",
+    "pergunta": "Qual destes animais é conhecido por mudar de cor para se camuflar?",
+    "opcoes": {
+      "A": "Iguana",
+      "B": "Camaleão",
+      "C": "Salamandra",
+      "D": "Geco"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Os camaleões alteram a cor da pele para comunicação e camuflagem no ambiente."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "fácil",
+    "pergunta": "Qual réptil é famoso por passar grande parte do tempo na água e possuir uma carapaça rígida?",
+    "opcoes": {
+      "A": "Jacaré",
+      "B": "Tartaruga",
+      "C": "Iguana",
+      "D": "Cobra"
+    },
+    "resposta_correta": "B",
+    "explicacao": "As tartarugas são répteis quelônios protegidos por uma carapaça óssea."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "fácil",
+    "pergunta": "Qual o mamífero marinho conhecido pelo seu focinho longo e saltos fora da água?",
+    "opcoes": {
+      "A": "Tubarão",
+      "B": "Golfinho",
+      "C": "Foca",
+      "D": "Polvo"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Golfinhos são cetáceos altamente inteligentes que respiram por pulmões."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "fácil",
+    "pergunta": "Qual o inseto famoso por produzir mel e viver em colmeias?",
+    "opcoes": {
+      "A": "Formiga",
+      "B": "Abelha",
+      "C": "Besouro",
+      "D": "Vespa"
+    },
+    "resposta_correta": "B",
+    "explicacao": "As abelhas coletam néctar de flores e produzem mel para alimentar a colônia."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é a maior ave do mundo, incapaz de voar mas excelente corredora?",
+    "opcoes": {
+      "A": "Emu",
+      "B": "Avestruz",
+      "C": "Casuar",
+      "D": "Condor"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O avestruz é a maior ave viva e atinge grandes velocidades em corrida."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "fácil",
+    "pergunta": "Qual animal possui dentes da frente que nunca param de crescer e constrói represas?",
+    "opcoes": {
+      "A": "Esquilo",
+      "B": "Castor",
+      "C": "Capivara",
+      "D": "Rato"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Os castores usam seus dentes fortes para roer árvores e construir represas de madeira."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "fácil",
+    "pergunta": "Qual animal é popularmente conhecido como o 'Rei da Selva'?",
+    "opcoes": {
+      "A": "Tigre",
+      "B": "Leão",
+      "C": "Elefante",
+      "D": "Gorila"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O leão é tradicionalmente chamado de 'Rei da Selva', embora viva predominantemente em savanas."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "fácil",
+    "pergunta": "Qual destes animais passa por metamorfose antes de voar?",
+    "opcoes": {
+      "A": "Lagartixa",
+      "B": "Borboleta",
+      "C": "Morcego",
+      "D": "Passarinho"
+    },
+    "resposta_correta": "B",
+    "explicacao": "As borboletas começam a vida como lagartas antes de passarem pela metamorfose no casulo."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "fácil",
+    "pergunta": "O que os ursos polares usam principalmente como fonte de gordura para sobreviver no frio?",
+    "opcoes": {
+      "A": "Peixes e focas",
+      "B": "Frutas e raízes",
+      "C": "Algas marinhas",
+      "D": "Penguins"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Ursos polares caçam principalmente focas e peixes para manter a camada de gordura isolante."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é o maior roedor do mundo, muito comum na América do Sul?",
+    "opcoes": {
+      "A": "Castor",
+      "B": "Capivara",
+      "C": "Nutria",
+      "D": "Porco-espinho"
+    },
+    "resposta_correta": "B",
+    "explicacao": "A capivara é o maior roedor vivo e é muito adaptada a ambientes seminquáticos."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "fácil",
+    "pergunta": "Quantas patas tem uma aranha?",
+    "opcoes": {
+      "A": "6",
+      "B": "8",
+      "C": "10",
+      "D": "12"
+    },
+    "resposta_correta": "B",
+    "explicacao": "As aranhas pertencem à classe dos aracnídeos e possuem 8 patas."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é o único mamífero australiano fêmea que possui bolsa e rabo achatado parecido com castor?",
+    "opcoes": {
+      "A": "Canguru",
+      "B": "Ornitorrinco",
+      "C": "Koala",
+      "D": "Diabo-da-tasmânia"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O ornitorrinco é um mamífero semiparalelo que bota ovos e tem rabo achatado estilo castor."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "médio",
+    "pergunta": "Qual destes mamíferos pertence à ordem dos monotremados (põe ovos)?",
+    "opcoes": {
+      "A": "Canguru",
+      "B": "Echidna",
+      "C": "Gambá",
+      "D": "Preguiça"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Os únicos monotremados vivos no mundo são o ornitorrinco e as espécies de echidna."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "médio",
+    "pergunta": "Qual é a principal função do veneno do ornitorrinco macho?",
+    "opcoes": {
+      "A": "Paralisar presas aquáticas",
+      "B": "Disputa territorial entre machos na época de acasalamento",
+      "C": "Defesa contra predadores terrestres",
+      "D": "Matar répteis grandes"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O veneno nos esporões das patas traseiras aumenta na época reprodutiva para combater concorrentes."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "médio",
+    "pergunta": "Qual destas cobras peçonhentas é famosa pelo guizo no final da cauda?",
+    "opcoes": {
+      "A": "Naja",
+      "B": "Cascavel",
+      "C": "Jararaca",
+      "D": "Coral-verdadeira"
+    },
+    "resposta_correta": "B",
+    "explicacao": "A cascavel possui escamas modificadas na cauda que formam um chocalho de aviso."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "médio",
+    "pergunta": "Quantos corações possui um polvo?",
+    "opcoes": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "resposta_correta": "C",
+    "explicacao": "O polvo tem 3 corações: dois bombeiam sangue para as brânquias e um para o resto do corpo."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "médio",
+    "pergunta": "Qual peixe é famoso por realizar migração subindo rios contra a correnteza para desovar?",
+    "opcoes": {
+      "A": "Atum",
+      "B": "Salmão",
+      "C": "Bacalhau",
+      "D": "Robalo"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O salmão nasce na água doce, vive no oceano e retorna ao rio onde nasceu para reproduzir."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "médio",
+    "pergunta": "Como se chama a estrutura usada pelas baleias de barbatana para filtrar o alimento?",
+    "opcoes": {
+      "A": "Dentes cerrados",
+      "B": "Barbatanas (Cerdas de queratina)",
+      "C": "Placas de marfim",
+      "D": "Guelras externas"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Baleias como a jubarte usam placas de queratina na boca para filtrar krill e pequenos peixes."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "médio",
+    "pergunta": "Qual réptil possui um 'terceiro olho' vestigial (olho parietal) bem desenvolvido?",
+    "opcoes": {
+      "A": "Tuatara",
+      "B": "Dragão-de-komodo",
+      "C": "Cobra-real",
+      "D": "Monstro-de-gila"
+    },
+    "resposta_correta": "A",
+    "explicacao": "A tuatara da Nova Zelândia possui um olho parietal no topo do crânio usado para ciclos circadianos."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "médio",
+    "pergunta": "Qual animal é famoso por ter a mordida mais forte medida em relação ao seu tamanho corporal?",
+    "opcoes": {
+      "A": "Tubarão-branco",
+      "B": "Diabo-da-Tasmânia",
+      "C": "Hiena-malhada",
+      "D": "Gorila"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Proporcionalmente ao seu tamanho, o diabo-da-tasmânia tem a força de mordida mais potente entre os mamíferos."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "médio",
+    "pergunta": "A qual grupo taxonômico pertencem as lulas, polvos e sépias?",
+    "opcoes": {
+      "A": "Crustáceos",
+      "B": "Cefalópodes",
+      "C": "Cnidários",
+      "D": "Equinodermos"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Cefalópodes são moluscos marinhos caracterizados por tentáculos presos à cabeça."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "médio",
+    "pergunta": "Qual o mamífero terrestre com a gestação mais longa do mundo?",
+    "opcoes": {
+      "A": "Baleia-jubarte",
+      "B": "Rinoceronte-branco",
+      "C": "Elefante",
+      "D": "Hipopótamo"
+    },
+    "resposta_correta": "C",
+    "explicacao": "A gestação de um elefante dura cerca de 22 meses (quase 2 anos)."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "médio",
+    "pergunta": "Qual é a cor natural da pele de um urso-polar sob a sua pelagem branca?",
+    "opcoes": {
+      "A": "Rosa",
+      "B": "Branca",
+      "C": "Preta",
+      "D": "Cinza-claro"
+    },
+    "resposta_correta": "C",
+    "explicacao": "A pele do urso polar é preta para absorver melhor os raios solares e manter o calor."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "médio",
+    "pergunta": "A medusa 'Caravela-portuguesa' não é um único organismo, mas sim o quê?",
+    "opcoes": {
+      "A": "Um coral gigante",
+      "B": "Uma colônia de sifonóforos (zooides)",
+      "C": "Um tipo de alga tóxica",
+      "D": "Uma esponja do mar viva"
+    },
+    "resposta_correta": "B",
+    "explicacao": "A Caravela-portuguesa é um organismo colonial composto por indivíduos especializados integrados."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "médio",
+    "pergunta": "Qual destas aves é famosa por conseguir voar para trás?",
+    "opcoes": {
+      "A": "Andorinha",
+      "B": "Beija-flor",
+      "C": "Pica-pau",
+      "D": "Falcão"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Graças à articulação única das asas, o beija-flor consegue pairar e voar em todas as direções, inclusive de ré."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "médio",
+    "pergunta": "Como se chama o tipo de simetria corporal característico das estrelas-do-mar adultas?",
+    "opcoes": {
+      "A": "Simetria Bilateral",
+      "B": "Simetria Pentarradial",
+      "C": "Assimetria Completa",
+      "D": "Simetria Esférica"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Equinodermos adultos como as estrelas-do-mar possuem simetria dividida em 5 partes ao redor de um centro."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "médio",
+    "pergunta": "Qual é o único lagarto peçonhento nativo do continente americano junto com o lagarto-de-muralha-do-méxico?",
+    "opcoes": {
+      "A": "Monstro-de-gila",
+      "B": "Dragão-de-komodo",
+      "C": "Diabo-espinhoso",
+      "D": "Varano-do-nilo"
+    },
+    "resposta_correta": "A",
+    "explicacao": "O Monstro-de-gila é um dos raros lagartos venenosos do mundo, encontrado nos EUA e México."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "médio",
+    "pergunta": "O que diferencia os peixes elasmobrânquios (tubarões e raias) dos peixes ósseos?",
+    "opcoes": {
+      "A": "Não possuem guelras",
+      "B": "Possuem esqueleto feito de cartilagem",
+      "C": "Não possuem escamas",
+      "D": "Sempre vivem em água doce"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Tubarões e raias possuem esqueletos leves compostos inteiramente por cartilagem flexível."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "médio",
+    "pergunta": "Qual espécie de primata compartilha a maior porcentagem de DNA com os seres humanos?",
+    "opcoes": {
+      "A": "Gorila",
+      "B": "Chimpanzé",
+      "C": "Orangotango",
+      "D": "Lêmure"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O chimpanzé (e o bonobo) compartilha cerca de 98,8% do seu DNA com os humanos."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "médio",
+    "pergunta": "Qual é a principal função dos bigodes (vibrissas) nos gatos?",
+    "opcoes": {
+      "A": "Manter o equilíbrio ao saltar",
+      "B": "Detectar correntes de ar e medir espaços",
+      "C": "Afastar insetos do focinho",
+      "D": "Regular a temperatura do corpo"
+    },
+    "resposta_correta": "B",
+    "explicacao": "As vibrissas são órgãos táteis altamente sensíveis que ajudam o gato a se orientar no escuro e medir aberturas."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "médio",
+    "pergunta": "O narval, conhecido como o 'unicórnio do mar', possui um longo chifre na verdade feito de quê?",
+    "opcoes": {
+      "A": "Osso do crânio proeminente",
+      "B": "Um dente incisivo estendido",
+      "C": "Queratina compactada",
+      "D": "Cartilagem rígida"
+    },
+    "resposta_correta": "B",
+    "explicacao": "A presa do narval é um dente canino/incisivo esquerdo altamente modificado que cresce em espiral."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "médio",
+    "pergunta": "Qual é a principal arma de defesa do peixe-balão quando ameaçado?",
+    "opcoes": {
+      "A": "Lançar jatos de tinta",
+      "B": "Inflar o corpo acumulando água ou ar e expor toxinas",
+      "C": "Morder com mandíbulas afiadas",
+      "D": "Emitir choques elétricos de alta voltagem"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Ele se infla para parecer maior e carrega a perigosa neurotoxina tetrodotoxina."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é a toxina mortal encontrada nos tecidos do peixe-balão (Fugu)?",
+    "opcoes": {
+      "A": "Tetrodotoxina",
+      "B": "Batracotoxina",
+      "C": "Saxitoxina",
+      "D": "Ciguatoxina"
+    },
+    "resposta_correta": "A",
+    "explicacao": "A tetrodotoxina é uma neurotoxina potente que paralisa os músculos e causa parada respiratória."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "difícil",
+    "pergunta": "Qual animal possui o sangue de cor azul devido à presença de hemocianina com cobre?",
+    "opcoes": {
+      "A": "Lula-colossal",
+      "B": "Límulo (Ladrilho-do-mar)",
+      "C": "Nautilus",
+      "D": "Estrela-do-mar"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O sangue do Límulo contém cobre em vez de ferro, tornando-o azul e valioso na indústria farmacêutica."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "difícil",
+    "pergunta": "O dragão-de-komodo é o maior lagarto vivo. Como ele mata suas presas com eficiência além da força física?",
+    "opcoes": {
+      "A": "Injeção de veneno através de glândulas na mandíbula inferior",
+      "B": "Apenas por choque térmico da saliva",
+      "C": "Constrição sufocante igual às jiboias",
+      "D": "Lançamento de farpas afiadas pela cauda"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Estudos comprovam que ele possui glândulas de veneno que causam hipotensão e inibem a coagulação sanguínea."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "difícil",
+    "pergunta": "Qual espécie de água-viva é considerada biologicamente imortal devido ao seu ciclo de transdiferenciação celular?",
+    "opcoes": {
+      "A": "Chironex fleckeri",
+      "B": "Turritopsis dohrnii",
+      "C": "Aurelia aurita",
+      "D": "Pelagia noctiluca"
+    },
+    "resposta_correta": "B",
+    "explicacao": "A Turritopsis dohrnii pode retornar ao estágio juvenil de pólipo após atingir a maturidade sexual."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é a única ave conhecida no mundo que possui fossas nasais na ponta do seu bico comprido?",
+    "opcoes": {
+      "A": "Kiwi",
+      "B": "Tucano",
+      "C": "Pelicano",
+      "D": "Casuar"
+    },
+    "resposta_correta": "A",
+    "explicacao": "O kiwi da Nova Zelândia usa as narinas na ponta do bico para farejar vermes no solo."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "difícil",
+    "pergunta": "O camarão-mantis (lagostim-boxeador) consegue dar soco sob a água com aceleração comparável a qual objeto?",
+    "opcoes": {
+      "A": "Carro de Fórmula 1",
+      "B": "Projétil de calibre .22",
+      "C": "Flecha disparada por arco",
+      "D": "Bolinha de tênis em saque profissional"
+    },
+    "resposta_correta": "B",
+    "explicacao": "As patas do camarão-mantis aceleram tão rápido quanto um projétil de arma de fogo, gerando cavitação de luz e calor."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "difícil",
+    "pergunta": "Qual réptil é considerado um 'fóssil vivo' e o único sobrevivente da ordem Rhynchocephalia?",
+    "opcoes": {
+      "A": "Iguana-marinha",
+      "B": "Tuatara",
+      "C": "Gila-monster",
+      "D": "Gavial"
+    },
+    "resposta_correta": "B",
+    "explicacao": "A tuatara pertence a uma linhagem de répteis que floresceu há 200 milhões de anos na época dos dinossauros."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "difícil",
+    "pergunta": "Qual o nome do órgão sensorial especial presente nos tubarões que detecta campos elétricos de presas?",
+    "opcoes": {
+      "A": "Órgão de Jacobson",
+      "B": "Ampolas de Lorenzini",
+      "C": "Linha Lateral Óssea",
+      "D": "Ocelos Magnéticos"
+    },
+    "resposta_correta": "B",
+    "explicacao": "As ampolas de Lorenzini são poros no focinho do tubarão preenchidos com gel eletrorreceptor."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "difícil",
+    "pergunta": "Qual anfíbio neotênico tem a capacidade de regenerar membros inteiros, órgãos e até partes do cérebro?",
+    "opcoes": {
+      "A": "Sapo-cururu",
+      "B": "Axolote",
+      "C": "Tritão-de-crista",
+      "D": "Rã-touro"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O axolote (Ambystoma mexicanum) retém características larvais na fase adulta e tem poder regenerativo extraordinário."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "difícil",
+    "pergunta": "Como se chama o tipo de simetria e locomoção do sistema hidrovascular único dos equinodermos?",
+    "opcoes": {
+      "A": "Sistema Circulatório Fechado",
+      "B": "Sistema Ambulacrário",
+      "C": "Sistema Linfático Aberto",
+      "D": "Sistema de Traqueias"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O sistema ambulacrário utiliza pressão hidráulica de água do mar para mover pés ambulacrais."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é a ave venenosa encontrada na Nova Guiné cuja pele e penas contêm batracotoxina?",
+    "opcoes": {
+      "A": "Pitohui-encapuzado",
+      "B": "Kakapo",
+      "C": "Casuar-do-sul",
+      "D": "Hoatzin"
+    },
+    "resposta_correta": "A",
+    "explicacao": "O Pitohui acumula batracotoxina em seu corpo devido à ingestão de besouros da família Melyridae."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "difícil",
+    "pergunta": "Qual tubarão é famoso por conseguir subir rios de água doce devido à sua capacidade de osmorregulação avançada?",
+    "opcoes": {
+      "A": "Tubarão-martelo",
+      "B": "Tubarão-cabeça-chata (Bull Shark)",
+      "C": "Tubarão-tigre",
+      "D": "Tubarão-mako"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O tubarão-cabeça-chata consegue ajustar seus rins para reter ou expelir ureia, vivendo em rios e lagos."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "difícil",
+    "pergunta": "O tardígrado (urso-d'água) entra em qual estado metabólico extremo para sobreviver ao vácuo e à radiação?",
+    "opcoes": {
+      "A": "Estivação",
+      "B": "Criptobiose",
+      "C": "Diapausa",
+      "D": "Hiberne crônica"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Na criptobiose, o tardígrado reduz a taxa metabólica a quase zero e expele quase toda a água corporal."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "difícil",
+    "pergunta": "O papagaio-da-nova-zelândia 'Kakapo' é único entre os psitacídeos por qual motivo evolutivo?",
+    "opcoes": {
+      "A": "É a única espécie estritamente carnívora",
+      "B": "É o único papagaio gigante totalmente incapaz de voar",
+      "C": "Consegue imitar perfeitamente o som de mamíferos marinhos",
+      "D": "Não possui penas no pescoço"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O Kakapo é o papagaio mais pesado do mundo e perdeu a capacidade de voar por falta de predadores terrestres."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é o único membro da ordem dos carnívoros que é quase exclusivamente herbívoro?",
+    "opcoes": {
+      "A": "Urso-de-óculos",
+      "B": "Panda-gigante",
+      "C": "Panda-vermelho",
+      "D": "Binturong"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Embora tenha o sistema digestivo de um carnívoro, o panda-gigante se alimenta quase que 100% de bambu."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "difícil",
+    "pergunta": "Qual destas serpentes possui o veneno mais tóxico (menor DL50) testado em laboratório no mundo?",
+    "opcoes": {
+      "A": "Taipan-do-interior",
+      "B": "Mamba-negra",
+      "C": "Naja-real",
+      "D": "Serpente-marinha-de-dubois"
+    },
+    "resposta_correta": "A",
+    "explicacao": "A taipan-do-interior (Oxyuranus microlepidotus) possui o veneno terrestre mais potente conhecido."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "difícil",
+    "pergunta": "Como se chama a estrutura bucal semelhante a uma fita com dentes de quitina usada pelos moluscos gasterópodes para raspar alimento?",
+    "opcoes": {
+      "A": "Sifão",
+      "B": "Rádula",
+      "C": "Manto",
+      "D": "Cebola bucal"
+    },
+    "resposta_correta": "B",
+    "explicacao": "A rádula é uma língua raspadora cheia de fileiras microscópicas de dentes quitinosos."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "difícil",
+    "pergunta": "Qual mamífero possui as pernas traseiras mais longas proporcionalmente e utiliza ecolocalização sem ser um morcego?",
+    "opcoes": {
+      "A": "Tenreque",
+      "B": "Musaranho-de-dentes-vermelhos",
+      "C": "Lêmure-aye-aye",
+      "D": "Pangolim"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Algumas espécies de musaranhos utilizam ecos ultrassônicos primitivos para se orientar no escuro."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "difícil",
+    "pergunta": "O primata Aye-Aye de Madagascar usa qual adaptação anatômica única para encontrar larvas em troncos de árvores?",
+    "opcoes": {
+      "A": "Visão térmica noturna",
+      "B": "Um terceiro dedo extremamente longo e fino",
+      "C": "Dentes incisivos venenosos",
+      "D": "Garras retráteis como felinos"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Ele percute a madeira com seu longo terceiro dedo e escuta cavidades ocas antes de pescar larvas."
+  },
+  {
+    "tema": "Animais",
+    "dificuldade": "difícil",
+    "pergunta": "A baleia-espermacete (Cachalote) usa o órgão do espermacete em sua cabeça gigante para qual função principal?",
+    "opcoes": {
+      "A": "Filtrar plâncton na água",
+      "B": "Ecolocalização profunda e ajuste de flutuabilidade",
+      "C": "Armazenar oxigênio líquido",
+      "D": "Proteger o cérebro de colisões de navios"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O óleo de espermacete solidifica no frio do fundo do mar para ajudar a afundar e amplifica cliques de biossonar."
+  },
+  {
     "tema": "Música",
     "dificuldade": "fácil",
     "pergunta": "Qual artista é conhecido como 'Rei do Pop'?",
@@ -349,6 +1129,786 @@
     },
     "resposta_correta": "A",
     "explicacao": "Michael Jackson, com álbuns como Thriller, ficou conhecido como 'Rei do Pop'."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "fácil",
+    "pergunta": "Qual instrumento de teclas é composto por teclas pretas e brancas?",
+    "opcoes": {
+      "A": "Violão",
+      "B": "Piano",
+      "C": "Flauta",
+      "D": "Bateria"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O piano é um instrumento de teclado muito popular que utiliza teclas pretas e brancas."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "fácil",
+    "pergunta": "Quantas cordas tem um violão tradicional?",
+    "opcoes": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "8"
+    },
+    "resposta_correta": "C",
+    "explicacao": "O violão acústico padrão possui 6 cordas afiadas em Mi, Lá, Ré, Sol, Si, Mi."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "fácil",
+    "pergunta": "Qual cantora é famosa por sucessos como 'Single Ladies' e 'Halo'?",
+    "opcoes": {
+      "A": "Rihanna",
+      "B": "Beyoncé",
+      "C": "Adele",
+      "D": "Taylor Swift"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Beyoncé é a cantora norte-americana que lançou estes dois grandes sucessos pop."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "fácil",
+    "pergunta": "De qual país é originária a lendária banda The Beatles?",
+    "opcoes": {
+      "A": "Estados Unidos",
+      "B": "Inglaterra",
+      "C": "Austrália",
+      "D": "Irlanda"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Os Beatles foram formados na cidade de Liverpool, na Inglaterra, em 1960."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "fácil",
+    "pergunta": "Qual artista ficou conhecido como o 'Rei do Rock'?",
+    "opcoes": {
+      "A": "Elvis Presley",
+      "B": "Chuck Berry",
+      "C": "Bob Dylan",
+      "D": "Jimi Hendrix"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Elvis Presley é amplamente considerado o 'Rei do Rock and Roll'."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "fácil",
+    "pergunta": "Qual instrumento de percussão é tocado com baquetas e inclui bumbo, caixa e pratos?",
+    "opcoes": {
+      "A": "Violino",
+      "B": "Bateria",
+      "C": "Saxofone",
+      "D": "Trompete"
+    },
+    "resposta_correta": "B",
+    "explicacao": "A bateria é um conjunto de tambores e pratos tocados com o auxílio de baquetas."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "fácil",
+    "pergunta": "Qual banda britânica era liderada pelo vocalista Freddie Mercury?",
+    "opcoes": {
+      "A": "The Rolling Stones",
+      "B": "Queen",
+      "C": "Pink Floyd",
+      "D": "Coldplay"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Freddie Mercury foi o lendário vocalista e pianista da banda Queen."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "fácil",
+    "pergunta": "Qual estilo musical brasileiro nasceu no Rio de Janeiro e tem como ícones Tom Jobim e João Gilberto?",
+    "opcoes": {
+      "A": "Sertanejo",
+      "B": "Bossa Nova",
+      "C": "Axé",
+      "D": "Forró"
+    },
+    "resposta_correta": "B",
+    "explicacao": "A Bossa Nova surgiu no final dos anos 1950 trazendo uma nova batida ao samba tradicional."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "fácil",
+    "pergunta": "Quem cantou a música icônica 'Garota de Ipanema' ao lado de Astrud Gilberto e Stan Getz?",
+    "opcoes": {
+      "A": "Tom Jobim",
+      "B": "Vinicius de Moraes",
+      "C": "João Gilberto",
+      "D": "Chico Buarque"
+    },
+    "resposta_correta": "C",
+    "explicacao": "João Gilberto gravou os vocais em português do célebre álbum 'Getz/Gilberto'."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "fácil",
+    "pergunta": "Qual cantora pop lançou os álbuns '1989', 'Red' e 'Folklore'?",
+    "opcoes": {
+      "A": "Katy Perry",
+      "B": "Taylor Swift",
+      "C": "Lady Gaga",
+      "D": "Billie Eilish"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Taylor Swift é a autora e intérprete desses álbuns de enorme sucesso comercial."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "fácil",
+    "pergunta": "Como se chama a pessoa que rege uma orquestra durante uma apresentação musical?",
+    "opcoes": {
+      "A": "Maestro (ou Regente)",
+      "B": "Compositor",
+      "C": "Arranjador",
+      "D": "Solista"
+    },
+    "resposta_correta": "A",
+    "explicacao": "O maestro é responsável por liderar a orquestra, marcar o tempo e a interpretação da peça."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "fácil",
+    "pergunta": "Qual instrumento de sopro de metal possui três pistões e é muito usado no Jazz?",
+    "opcoes": {
+      "A": "Trompete",
+      "B": "Flauta Doce",
+      "C": "Violoncelo",
+      "D": "Sanfona"
+    },
+    "resposta_correta": "A",
+    "explicacao": "O trompete é um instrumento de sopro de metal agudo com válvulas (pistões)."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "fácil",
+    "pergunta": "Qual cantora é dona de hits globais como 'Bad Romance' e 'Poker Face'?",
+    "opcoes": {
+      "A": "Madonna",
+      "B": "Lady Gaga",
+      "C": "Britney Spears",
+      "D": "Dua Lipa"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Lady Gaga estourou mundialmente com essas faixas do álbum 'The Fame'."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "fácil",
+    "pergunta": "Qual instrumento havaiano de quatro cordas parece um violão pequeno?",
+    "opcoes": {
+      "A": "Cavaquinho",
+      "B": "Ukulele",
+      "C": "Banjo",
+      "D": "Bandolim"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O ukulele é um instrumento tradicional havaiano inspirado em cordofones portugueses."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é a nota musical que vem logo após o 'Lá' na escala diatônica tradicional?",
+    "opcoes": {
+      "A": "Sol",
+      "B": "Si",
+      "C": "Dó",
+      "D": "Ré"
+    },
+    "resposta_correta": "B",
+    "explicacao": "A ordem das 7 notas musicais é: Dó, Ré, Mi, Fá, Sol, Lá, Si."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "fácil",
+    "pergunta": "Qual gênero musical tem origem no estilo caribenho da Jamaica e ficou famoso com Bob Marley?",
+    "opcoes": {
+      "A": "Salsa",
+      "B": "Reggae",
+      "C": "Ska",
+      "D": "Calipso"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Bob Marley é o maior expoente mundial do Reggae, ritmo surgido na Jamaica."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "fácil",
+    "pergunta": "Qual cantora brasileira é apelidada de 'A Rainha do Rock Brasileiro'?",
+    "opcoes": {
+      "A": "Pitty",
+      "B": "Rita Lee",
+      "C": "Cássia Eller",
+      "D": "Elis Regina"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Rita Lee integrou Os Mutantes e construiu uma carreira solo icônica no rock nacional."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "fácil",
+    "pergunta": "Qual instrumento de fricção de cordas é tocado apoiado entre o queixo e o ombro com um arco?",
+    "opcoes": {
+      "A": "Violino",
+      "B": "Harpa",
+      "C": "Contrabaixo",
+      "D": "Violão"
+    },
+    "resposta_correta": "A",
+    "explicacao": "O violino é o menor e mais agudo instrumento da família das cordas friccionadas."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é o nome da premiação mais importante da indústria da música internacional?",
+    "opcoes": {
+      "A": "Oscar",
+      "B": "Emmy",
+      "C": "Grammy",
+      "D": "Tony"
+    },
+    "resposta_correta": "C",
+    "explicacao": "O Grammy Awards premia anualmente os destaques da indústria fonográfica mundial."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "fácil",
+    "pergunta": "Em que tipo de evento ou celebração é tradicional cantar 'Parabéns a Você'?",
+    "opcoes": {
+      "A": "Casamento",
+      "B": "Aniversário",
+      "C": "Formatura",
+      "D": "Ano Novo"
+    },
+    "resposta_correta": "B",
+    "explicacao": "'Parabéns a Você' é a canção festiva padrão usada em festas de aniversário."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "médio",
+    "pergunta": "Qual compositor clássico alemão continuou criando obras-primas mesmo após ficar totalmente surdo?",
+    "opcoes": {
+      "A": "Mozart",
+      "B": "Ludwig van Beethoven",
+      "C": "Johann Sebastian Bach",
+      "D": "Frederic Chopin"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Beethoven começou a perder a audição aos 28 anos e compôs a 9ª Sinfonia totalmente surdo."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "médio",
+    "pergunta": "Qual o nome do famoso festival de música realizado no estado de Nova York em 1969?",
+    "opcoes": {
+      "A": "Coachella",
+      "B": "Glastonbury",
+      "C": "Woodstock",
+      "D": "Live Aid"
+    },
+    "resposta_correta": "C",
+    "explicacao": "O Festival de Woodstock marcou a contracultura e a história do rock em agosto de 1969."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "médio",
+    "pergunta": "Qual álbum do Pink Floyd lançado em 1973 possui um prisma na capa refratando luz?",
+    "opcoes": {
+      "A": "The Wall",
+      "B": "Wish You Were Here",
+      "C": "The Dark Side of the Moon",
+      "D": "Animals"
+    },
+    "resposta_correta": "C",
+    "explicacao": "'The Dark Side of the Moon' é um dos álbuns mais vendidos e aclamados de todos os tempos."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "médio",
+    "pergunta": "Qual foi a primeira música de um artista sul-coreano a ultrapassar 1 bilhão de visualizações no YouTube?",
+    "opcoes": {
+      "A": "Dynamite (BTS)",
+      "B": "Gangnam Style (PSY)",
+      "C": "Kill This Love (BLACKPINK)",
+      "D": "Boy With Luv (BTS)"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Lançada em 2012, 'Gangnam Style' do rapper PSY quebrou recordes históricos na internet."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "médio",
+    "pergunta": "Como se chama a indicação de velocidade ou andamento de uma peça musical (ex: Allegro, Adagio)?",
+    "opcoes": {
+      "A": "Tonalidade",
+      "B": "Andamento",
+      "C": "Compasso",
+      "D": "Clef"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O andamento determina a rapidez com que o ritmo de uma música deve ser executado."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "médio",
+    "pergunta": "Qual guitarrista lendário ficou famoso por tocar com os dentes e atear fogo em sua guitarra no festival de Monterey?",
+    "opcoes": {
+      "A": "Eric Clapton",
+      "B": "Jimi Hendrix",
+      "C": "Jimmy Page",
+      "D": "Keith Richards"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Jimi Hendrix imortalizou o ato de incendiar sua Fender Stratocaster em 1967."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "médio",
+    "pergunta": "Qual é a cidade americana considerada a c cradle (berço) do movimento Grunge nos anos 90?",
+    "opcoes": {
+      "A": "Los Angeles",
+      "B": "Seattle",
+      "C": "Nova York",
+      "D": "Chicago"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Seattle revelou bandas icônicas como Nirvana, Pearl Jam, Soundgarden e Alice in Chains."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "médio",
+    "pergunta": "Qual a voz humana masculina mais grave em uma classificação erudita?",
+    "opcoes": {
+      "A": "Tenor",
+      "B": "Barítono",
+      "C": "Baixo",
+      "D": "Contralto"
+    },
+    "resposta_correta": "C",
+    "explicacao": "O Baixo é o tipo de voz masculina com o registro de alcance mais grave."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "médio",
+    "pergunta": "Qual lendária gravadora de Detroit nos EUA popularizou artistas afro-americanos de Soul e R&B como Stevie Wonder e Jackson 5?",
+    "opcoes": {
+      "A": "Atlantic Records",
+      "B": "Motown",
+      "C": "Def Jam",
+      "D": "Stax Records"
+    },
+    "resposta_correta": "B",
+    "explicacao": "A Motown Records desempenhou um papel crucial no sucesso do R&B e na integração da música popular."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "médio",
+    "pergunta": "Qual instrumento de sopro tem um corpo dobrado em formato de 'J' e é associado a George Gershwin e ao Jazz?",
+    "opcoes": {
+      "A": "Clarinete",
+      "B": "Saxofone",
+      "C": "Oboé",
+      "D": "Fagote"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Criado por Adolphe Sax, o saxofone tornou-se um pilar do jazz e da música moderna."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "médio",
+    "pergunta": "Qual é a nota representada pela clave de Sol escrita na segunda linha do pentagrama?",
+    "opcoes": {
+      "A": "Dó",
+      "B": "Sol",
+      "C": "Mi",
+      "D": "Lá"
+    },
+    "resposta_correta": "B",
+    "explicacao": "A clave de Sol começa seu desenho na segunda linha, definindo que a nota nessa linha é o Sol."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "médio",
+    "pergunta": "Qual disco de Michael Jackson lançado em 1982 tornou-se o álbum mais vendido de todos os tempos?",
+    "opcoes": {
+      "A": "Bad",
+      "B": "Off the Wall",
+      "C": "Thriller",
+      "D": "Dangerous"
+    },
+    "resposta_correta": "C",
+    "explicacao": "'Thriller' vendeu mais de 70 milhões de cópias mundialmente e revolucionou a indústria de videoclipes."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "médio",
+    "pergunta": "Qual compositor do período Barroco é famoso pela obra 'As Quatro Estações'?",
+    "opcoes": {
+      "A": "Antonio Vivaldi",
+      "B": "Georg Friedrich Händel",
+      "C": "Claudio Monteverdi",
+      "D": "Arcangelo Corelli"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Vivaldi compôs 'As Quatro Estações', um conjunto de quatro concertos para violino e orquestra."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "médio",
+    "pergunta": "Qual o nome da técnica vocal na qual o cantor alterna rapidamente entre a voz de peito e o falsete?",
+    "opcoes": {
+      "A": "Vibrato",
+      "B": "Yodel (Jodel)",
+      "C": "Scat Singing",
+      "D": "Melisma"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O Yodel é uma forma de canto tradicional alpina caracterizada por mudanças bruscas de registro."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "médio",
+    "pergunta": "Qual foi a banda responsável pelo aclamado álbum 'Nevermind' de 1991?",
+    "opcoes": {
+      "A": "Foo Fighters",
+      "B": "Nirvana",
+      "C": "Red Hot Chili Peppers",
+      "D": "Green Day"
+    },
+    "resposta_correta": "B",
+    "explicacao": "'Nevermind', do Nirvana, impulsionou o grunge para o topo das paradas mundiais com 'Smells Like Teen Spirit'."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "médio",
+    "pergunta": "Quem foi o compositor da ópera 'A Flauta Mágica' (Die Zauberflöte)?",
+    "opcoes": {
+      "A": "Wolfgang Amadeus Mozart",
+      "B": "Giuseppe Verdi",
+      "C": "Richard Wagner",
+      "D": "Giacomo Puccini"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Mozart compôs 'A Flauta Mágica' no último ano de sua vida, em 1791."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "médio",
+    "pergunta": "Quantas semínimas são necessárias para preencher o tempo de uma semibreve em um compasso 4/4?",
+    "opcoes": {
+      "A": "2",
+      "B": "4",
+      "C": "8",
+      "D": "16"
+    },
+    "resposta_correta": "B",
+    "explicacao": "A semibreve equivale a 4 tempos de semínima na divisão rítmica tradicional."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "médio",
+    "pergunta": "Qual instrumento de teclas e fole é símbolo da música tradicional nordestina e do sertanejo?",
+    "opcoes": {
+      "A": "Órgão",
+      "B": "Acordeão (Sanfona)",
+      "C": "Harpsicórdio",
+      "D": "Sintetizador"
+    },
+    "resposta_correta": "B",
+    "explicacao": "A sanfona/acordeão foi imortalizada no Nordeste por mestres como Luiz Gonzaga."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "médio",
+    "pergunta": "Qual famoso cantor de Reggae compôs as canções 'Three Little Birds' e 'No Woman, No Cry'?",
+    "opcoes": {
+      "A": "Peter Tosh",
+      "B": "Bob Marley",
+      "C": "Jimmy Cliff",
+      "D": "Burning Spear"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Bob Marley assinou estes clássicos junto à sua banda, The Wailers."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "médio",
+    "pergunta": "Qual famoso grupo musical sueco dominou as paradas pop nos anos 70 com sucessos como 'Dancing Queen'?",
+    "opcoes": {
+      "A": "Roxette",
+      "B": "ABBA",
+      "C": "Ace of Base",
+      "D": "A-ha"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O quarteto ABBA tornou-se um dos grupos musicais de maior sucesso comercial da história."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "difícil",
+    "pergunta": "Qual intervalo musical de três tons inteiros era conhecido na Idade Média como 'Diabolus in Musica'?",
+    "opcoes": {
+      "A": "Quinta justa",
+      "B": "Trítono",
+      "C": "Oitava perfeita",
+      "D": "Sexta menor"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O trítono (quarta aumentada / quinta diminuta) era evitado pelo som dissonante e tenso que produz."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "difícil",
+    "pergunta": "Em qual sistema de afinação moderna a oitava é dividida em 12 semitonos com frequências de razão idêntica?",
+    "opcoes": {
+      "A": "Temperamento Igual",
+      "B": "Afinação Pitagórica",
+      "C": "Temperamento Justo",
+      "D": "Afinação Mesotônica"
+    },
+    "resposta_correta": "A",
+    "explicacao": "O temperamento igual divide a oitava em 12 partes geometricamente iguais ($2^{1/12}$), viabilizando a modulação para qualquer tonalidade."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "difícil",
+    "pergunta": "Qual compositor do século XX criou a técnica de composição conhecida como 'Dodecafonismo'?",
+    "opcoes": {
+      "A": "Igor Stravinsky",
+      "B": "Arnold Schoenberg",
+      "C": "Béla Bartók",
+      "D": "Claude Debussy"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Arnold Schoenberg desenvolveu o método de composição com 12 notas ordenadas em séries sem hierarquia tonal."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é a obra conceitual do compositor John Cage composta em 1952 em que os músicos não tocam uma única nota?",
+    "opcoes": {
+      "A": "Atmosphères",
+      "B": "4′33″",
+      "C": "Threnody to the Victims of Hiroshima",
+      "D": "Music for 18 Musicians"
+    },
+    "resposta_correta": "B",
+    "explicacao": "'4′33″' consiste em quatro minutos e trinta e três segundos de silêncio intencional do intérprete para destacar o som ambiente."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "difícil",
+    "pergunta": "Qual foi a famosa estreia de balé de Igor Stravinsky em Paris (1913) que causou um verdadeiro tumulto na plateia?",
+    "opcoes": {
+      "A": "O Passaro de Fogo",
+      "B": "Petrushka",
+      "C": "A Sagração da Primavera (Le Sacre du printemps)",
+      "D": "Pulcinella"
+    },
+    "resposta_correta": "C",
+    "explicacao": "As ritmos dissonantes e a coreografia não convencional de 'A Sagração da Primavera' geraram protestos acalorados no Théâtre des Champs-Élysées."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "difícil",
+    "pergunta": "Na teoria das claves históricas, qual clave é posicionada na primeira linha do pentagrama?",
+    "opcoes": {
+      "A": "Clave de Dó na 1ª linha (Clave de Soprano)",
+      "B": "Clave de Fá na 3ª linha (Clave de Barítono)",
+      "C": "Clave de Sol na 1ª linha (Clave Francesa de Violino)",
+      "D": "Clave de Dó na 3ª linha (Clave de Contralto)"
+    },
+    "resposta_correta": "C",
+    "explicacao": "A Clave Francesa de Violino coloca a clave de Sol na 1ª linha do pentagrama."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "difícil",
+    "pergunta": "Qual lendário saxofonista de jazz gravou o inovador álbum 'Giant Steps' em 1960 com progressões harmônicas complexas?",
+    "opcoes": {
+      "A": "Charlie Parker",
+      "B": "John Coltrane",
+      "C": "Miles Davis",
+      "D": "Wayne Shorter"
+    },
+    "resposta_correta": "B",
+    "explicacao": "John Coltrane popularizou o ciclo de acordes com saltos de terça maior conhecido como 'Coltrane Changes'."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "difícil",
+    "pergunta": "Qual álbum de Miles Davis lançado em 1959 é amplamente considerado o marco fundador do Jazz Modal?",
+    "opcoes": {
+      "A": "Bitches Brew",
+      "B": "Kind of Blue",
+      "C": "Birth of the Cool",
+      "D": "Sketches of Spain"
+    },
+    "resposta_correta": "B",
+    "explicacao": "'Kind of Blue' substituiu as progressões harmônicas tradicionais do Bebop pelo improviso baseado em modos escalares."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "difícil",
+    "pergunta": "Qual o nome da técnica vocal estendida usada no Canto Harmônico Tuvano em que o cantor produz duas notas simultaneamente?",
+    "opcoes": {
+      "A": "Belt",
+      "B": "Khoomei",
+      "C": "Sprechgesang",
+      "D": "Coloratura"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O Khoomei é uma arte milenar da região de Tuva onde harmônicos vocais são amplificados sobre uma nota fundamental."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é a relação de frequência acústica entre duas notas separadas por um intervalo de Quinta Justa na afinação pura?",
+    "opcoes": {
+      "A": "2:1",
+      "B": "3:2",
+      "C": "4:3",
+      "D": "5:4"
+    },
+    "resposta_correta": "B",
+    "explicacao": "A quinta justa pura tem a razão harmônica de 3:2 entre suas frequências fundamentais."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "difícil",
+    "pergunta": "Quem foi o compositor da monumental obra expressionista 'Pierrot Lunaire', op. 21?",
+    "opcoes": {
+      "A": "Alban Berg",
+      "B": "Anton Webern",
+      "C": "Arnold Schoenberg",
+      "D": "Paul Hindemith"
+    },
+    "resposta_correta": "C",
+    "explicacao": "Schoenberg compôs 'Pierrot Lunaire' usando a técnica do 'Sprechgesang' (fala-canto)."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "difícil",
+    "pergunta": "Qual termo musical em italiano indica que a passagem deve ser executada com o máximo de volume possível (mais forte que 'fortissimo')?",
+    "opcoes": {
+      "A": "Fortississimo (fff)",
+      "B": "Mezzo Forte (mf)",
+      "C": "Crescendo",
+      "D": "Sforzando"
+    },
+    "resposta_correta": "A",
+    "explicacao": "'Fortississimo' (representado por fff) indica extrema intensidade de volume sonoro."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "difícil",
+    "pergunta": "Em qual modo grego a estrutura de tons e semitonos é idêntica à escala menor natural?",
+    "opcoes": {
+      "A": "Modo Dórico",
+      "B": "Modo Eólio",
+      "C": "Modo Frígio",
+      "D": "Modo Lídio"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O modo Eólio é o sexto modo da escala maior e possui exatamente as mesmas notas da escala menor natural."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "difícil",
+    "pergunta": "Qual o nome do lendário luthier italiano de Cremona cujos violinos do século XVII e XVIII valem milhões de dólares hoje?",
+    "opcoes": {
+      "A": "Bartolomeo Cristofori",
+      "B": "Antonio Stradivari",
+      "C": "Nicola Amati",
+      "D": "Giuseppe Guarneri"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Os instrumentos criados por Antonio Stradivari (Stradivarius) são mundialmente famosos por sua qualidade acústica inigualável."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "difícil",
+    "pergunta": "Qual ópera épica de Richard Wagner tem duração de cerca de 15 horas divididas em quatro partes (Der Ring des Nibelungen)?",
+    "opcoes": {
+      "A": "Tristão e Isolda",
+      "B": "O Anel do Nibelungo",
+      "C": "Parsifal",
+      "D": "Lohengrin"
+    },
+    "resposta_correta": "B",
+    "explicacao": "'O Anel do Nibelungo' é um ciclo de quatro óperas baseadas na mitologia nórdica e germânica."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "difícil",
+    "pergunta": "Qual compositor francês liderou o impressionismo musical ao lado de Maurice Ravel com obras como 'Prélude à l'après-midi d'un faune'?",
+    "opcoes": {
+      "A": "Gabriel Fauré",
+      "B": "Claude Debussy",
+      "C": "Erik Satie",
+      "D": "Camille Saint-Saëns"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Claude Debussy revolucionou a harmonia clássica com o uso de escalas hexatônicas e sonoridades atmosféricas."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "difícil",
+    "pergunta": "Como é chamada a forma musical barroca baseada na imitação contrapontística estrita de um tema principal (sujeito)?",
+    "opcoes": {
+      "A": "Sonata",
+      "B": "Fuga",
+      "C": "Tocata",
+      "D": "Rondo"
+    },
+    "resposta_correta": "B",
+    "explicacao": "A Fuga é a forma mais refinada de contraponto, dominada com perfeição por J. S. Bach."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é a afinação padrão moderna (frequência da nota Lá4) estabelecida pela norma ISO 16?",
+    "opcoes": {
+      "A": "432 Hz",
+      "B": "440 Hz",
+      "C": "442 Hz",
+      "D": "444 Hz"
+    },
+    "resposta_correta": "B",
+    "explicacao": "A nota Lá4 (A4) foi padronizada em 440 Hz na convenção internacional de afinação."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "difícil",
+    "pergunta": "Qual compositor erudito brasileiro compôs a célebre série das 'Bachianas Brasileiras'?",
+    "opcoes": {
+      "A": "Claudio Santoro",
+      "B": "Heitor Villa-Lobos",
+      "C": "Radamés Gnattali",
+      "D": "Francisco Mignone"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Villa-Lobos compôs as 9 'Bachianas Brasileiras' fundindo a música barroca de Bach ao folclore brasileiro."
+  },
+  {
+    "tema": "Música",
+    "dificuldade": "difícil",
+    "pergunta": "Em polirritmia, como é chamado o ritmo que combina simultaneamente 3 pulsos contra 2 pulsos na mesma duração de tempo?",
+    "opcoes": {
+      "A": "Hemiola",
+      "B": "Síncopa",
+      "C": "Acentuação métrica",
+      "D": "Anacruse"
+    },
+    "resposta_correta": "A",
+    "explicacao": "A hemiola é a sobreposição rítmica clássica da razão 3:2 em estruturas de compasso."
   },
   {
     "tema": "Música",
@@ -2352,7 +3912,6 @@
     "resposta_correta": "B",
     "explicacao": "O API Gateway é a porta de entrada única, cuidando de roteamento, autenticação e agregação de respostas."
   },
-  [
   {
     "tema": "Jogos",
     "dificuldade": "fácil",
@@ -2989,6 +4548,785 @@
     },
     "resposta_correta": "B",
     "explicacao": "A Princesa Peach é frequentemente colocada em perigo por Bowser nos jogos da série Super Mario."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é o nome do irmão do Mario que veste verde?",
+    "opcoes": {
+      "A": "Wario",
+      "B": "Luigi",
+      "C": "Waluigi",
+      "D": "Yoshi"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Luigi é o irmão mais novo do Mario e veste roupas verdes."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é a mascote oficial da Sega?",
+    "opcoes": {
+      "A": "Tails",
+      "B": "Sonic",
+      "C": "Knuckles",
+      "D": "Alex Kidd"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Sonic the Hedgehog é a mascote oficial da Sega desde 1991."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "fácil",
+    "pergunta": "Em qual jogo os jogadores constroem e destroem estruturas usando blocos em um mundo 3D?",
+    "opcoes": {
+      "A": "Roblox",
+      "B": "Terraria",
+      "C": "Minecraft",
+      "D": "Lego Worlds"
+    },
+    "resposta_correta": "C",
+    "explicacao": "Minecraft é famoso por sua jogabilidade baseada no gerenciamento e construção com blocos."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é o nome do protagonista da franquia The Legend of Zelda?",
+    "opcoes": {
+      "A": "Zelda",
+      "B": "Link",
+      "C": "Ganon",
+      "D": "Epona"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Link é o herói jogável, enquanto Zelda é a princesa do reino de Hyrule."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é o famoso jogo de battle royale onde os jogadores constroem estruturas e buscam a 'Vitória Royale'?",
+    "opcoes": {
+      "A": "PUBG",
+      "B": "Free Fire",
+      "C": "Fortnite",
+      "D": "Apex Legends"
+    },
+    "resposta_correta": "C",
+    "explicacao": "Fortnite é mundialmente conhecido pela mecânica de construção e pela 'Vitória Royale'."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "fácil",
+    "pergunta": "Qual personagem amarelo ganha pontos ao comer bolinhas e fugir de fantasmas?",
+    "opcoes": {
+      "A": "Pac-Man",
+      "B": "Pikachu",
+      "C": "Q*bert",
+      "D": "Dig Dug"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Pac-Man é um clássico dos arcades criado pela Namco em 1980."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é o Pokémon número 025 da Pokédex, conhecido por ser a mascote da franquia?",
+    "opcoes": {
+      "A": "Charmander",
+      "B": "Bulbasaur",
+      "C": "Pikachu",
+      "D": "Squirtle"
+    },
+    "resposta_correta": "C",
+    "explicacao": "Pikachu é o tipo elétrico mais famoso da franquia e mascote global de Pokémon."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "fácil",
+    "pergunta": "Em Tetris, o que você deve fazer para eliminar as peças que caem?",
+    "opcoes": {
+      "A": "Formar linhas horizontais completas",
+      "B": "Formar colunas verticais da mesma cor",
+      "C": "Juntar 4 peças iguais em quadrado",
+      "D": "Fazer as peças tocarem o topo"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Preencher uma linha horizontal inteira sem espaços vazios faz com que ela desapareça."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "fácil",
+    "pergunta": "Qual franquia de jogos de futebol foi rebatizada de FIFA para 'EA Sports FC'?",
+    "opcoes": {
+      "A": "PES",
+      "B": "eFootball",
+      "C": "FIFA",
+      "D": "Dream League"
+    },
+    "resposta_correta": "C",
+    "explicacao": "Após o término da parceria com a federação internacional, a EA alterou a marca para EA Sports FC."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é o nome do protagonista da série God of War?",
+    "opcoes": {
+      "A": "Zeus",
+      "B": "Kratos",
+      "C": "Atreus",
+      "D": "Ares"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Kratos é o espartano conhecido como o 'Fantasma de Esparta' e protagonista da franquia."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "fácil",
+    "pergunta": "Em Among Us, qual é o objetivo do 'Impostor'?",
+    "opcoes": {
+      "A": "Fazer todas as tarefas",
+      "B": "Eliminar os tripulantes sem ser descoberto",
+      "C": "Reparar a nave espacial",
+      "D": "Votar em outros impostores"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O Impostor deve sabotar a nave e eliminar a tripulação secretamente."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é a fruta favorita do Crash Bandicoot?",
+    "opcoes": {
+      "A": "Maçã",
+      "B": "Fruta Wumpa",
+      "C": "Banana",
+      "D": "Pêssego"
+    },
+    "resposta_correta": "B",
+    "explicacao": "A fruta fictícia Wumpa é o colecionável clássico espalhado nas fases de Crash Bandicoot."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "fácil",
+    "pergunta": "Em qual empresa Steve Jobs trabalhou desenvolvendo o jogo Breakout antes de fundar a Apple?",
+    "opcoes": {
+      "A": "Nintendo",
+      "B": "Atari",
+      "C": "Sega",
+      "D": "Namco"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Steve Jobs trabalhou na Atari nos anos 70 junto com Steve Wozniak."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é o nome do gorila rival do Mario nos jogos arcade originais?",
+    "opcoes": {
+      "A": "King Kong",
+      "B": "Diddy Kong",
+      "C": "Donkey Kong",
+      "D": "Funky Kong"
+    },
+    "resposta_correta": "C",
+    "explicacao": "Donkey Kong estreou em 1981 como o grande vilão do jogo em que Mario tentava salvar Pauline."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "fácil",
+    "pergunta": "Qual destas armas é um item icônico e mágico da franquia 'The Legend of Zelda'?",
+    "opcoes": {
+      "A": "Lança de Odin",
+      "B": "Master Sword",
+      "C": "Keyblade",
+      "D": "Lâminas do Caos"
+    },
+    "resposta_correta": "B",
+    "explicacao": "A Master Sword (Lâmina da Repulsão do Mal) é a espada sagrada lendária usada por Link."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "fácil",
+    "pergunta": "Como se chama a cidade principal onde se passa a maior parte do jogo GTA San Andreas?",
+    "opcoes": {
+      "A": "Vice City",
+      "B": "Liberty City",
+      "C": "Los Santos",
+      "D": "San Fierro"
+    },
+    "resposta_correta": "C",
+    "explicacao": "A história de CJ começa e tem grande foco na cidade de Los Santos."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é o tipo da Pokebola padrão e mais simples usada no universo Pokémon?",
+    "opcoes": {
+      "A": "Great Ball",
+      "B": "Ultra Ball",
+      "C": "Poké Ball",
+      "D": "Master Ball"
+    },
+    "resposta_correta": "C",
+    "explicacao": "A Poké Ball básica vermelha e branca é o item fundamental para capturar Pokémon."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "fácil",
+    "pergunta": "No jogo Roblox, qual é o nome da moeda virtual utilizada pelos jogadores?",
+    "opcoes": {
+      "A": "V-Bucks",
+      "B": "Robux",
+      "C": "Minecoins",
+      "D": "Gems"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Robux é a moeda oficial usada para comprar itens de avatar e benefícios no Roblox."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é a cor do dinossauro companheiro do Mario, o Yoshi?",
+    "opcoes": {
+      "A": "Azul",
+      "B": "Vermelho",
+      "C": "Verde",
+      "D": "Amarelo"
+    },
+    "resposta_correta": "C",
+    "explicacao": "Apesar de existirem Yoshi de várias cores, o Yoshi tradicional e mais famoso é o verde."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "fácil",
+    "pergunta": "Qual console da Nintendo lançado em 2006 utilizava controles com detecção de movimento?",
+    "opcoes": {
+      "A": "GameCube",
+      "B": "Nintendo 64",
+      "C": "Nintendo Wii",
+      "D": "Wii U"
+    },
+    "resposta_correta": "C",
+    "explicacao": "O Nintendo Wii revolucionou o mercado com seus controles Wii Remote com sensor de movimento."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "médio",
+    "pergunta": "Em qual ano foi lançado o primeiro jogo da franquia 'Grand Theft Auto' (GTA)?",
+    "opcoes": {
+      "A": "1995",
+      "B": "1997",
+      "C": "1999",
+      "D": "2001"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O primeiro GTA foi lançado em 1997 para MS-DOS, Microsoft Windows e PlayStation 1."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "médio",
+    "pergunta": "Qual é o verdadeiro nome da protagonista de Tomb Raider?",
+    "opcoes": {
+      "A": "Jill Valentine",
+      "B": "Lara Croft",
+      "C": "Claire Redfield",
+      "D": "Elena Fisher"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Lara Croft é a arquelóga e aventureira britânica protagonista de Tomb Raider."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "médio",
+    "pergunta": "Qual estúdio desenvolveu o premiado RPG 'The Witcher 3: Wild Hunt'?",
+    "opcoes": {
+      "A": "Bethesda",
+      "B": "CD Projekt Red",
+      "C": "BioWare",
+      "D": "Ubisoft"
+    },
+    "resposta_correta": "B",
+    "explicacao": "A desenvolvedora polonesa CD Projekt Red foi a responsável pela criação da trilogia The Witcher."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "médio",
+    "pergunta": "Em Dark Souls, qual é a frase icônica associada ao personagem Solaire de Astora?",
+    "opcoes": {
+      "A": "Fear the Old Blood",
+      "B": "Praise the Sun",
+      "C": "Hesitation is Defeat",
+      "D": "You Died"
+    },
+    "resposta_correta": "B",
+    "explicacao": "'Praise the Sun' (Louve o Sol) tornou-se um meme lendário e saudação icônica de Solaire."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "médio",
+    "pergunta": "Qual é o nome da inteligência artificial antagônica no jogo Portal?",
+    "opcoes": {
+      "A": "SHODAN",
+      "B": "GLaDOS",
+      "C": "HAL 9000",
+      "D": "Cortana"
+    },
+    "resposta_correta": "B",
+    "explicacao": "GLaDOS (Genetic Lifeform and Disk Operating System) guia e testa o jogador com humor ácido."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "médio",
+    "pergunta": "Como é chamada a lâmina retrátil usada pelos protagonistas na franquia Assassin's Creed?",
+    "opcoes": {
+      "A": "Lâmina Oculta",
+      "B": "Adaga das Sombras",
+      "C": "Katana Fantasma",
+      "D": "Lâmina do Destino"
+    },
+    "resposta_correta": "A",
+    "explicacao": "A Lâmina Oculta (Hidden Blade) é a arma de assinatura da Ordem dos Assassinos."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "médio",
+    "pergunta": "Qual jogo ganhou o prêmio de 'Jogo do Ano' (GOTY) no The Game Awards 2022?",
+    "opcoes": {
+      "A": "God of War Ragnarök",
+      "B": "Elden Ring",
+      "C": "Stray",
+      "D": "Horizon Forbidden West"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Elden Ring, desenvolvido pela FromSoftware, venceu o prêmio principal em 2022."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "médio",
+    "pergunta": "Qual é a cidade fictícia onde se passa a história do primeiro Bioshock?",
+    "opcoes": {
+      "A": "Columbia",
+      "B": "Rapture",
+      "C": "Raccoon City",
+      "D": "Dunwall"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Rapture é a metrópole distópica subaquática criada por Andrew Ryan."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "médio",
+    "pergunta": "Em League of Legends, qual rota costuma ser ocupada por campeões do tipo 'Atirador' (ADC)?",
+    "opcoes": {
+      "A": "Top (Topo)",
+      "B": "Mid (Meio)",
+      "C": "Bot (Inferior)",
+      "D": "Jungle (Selva)"
+    },
+    "resposta_correta": "C",
+    "explicacao": "O ADC joga tradicionalmente na rota inferior acompanhado por um suporte."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "médio",
+    "pergunta": "Qual o nome da nave espacial comandada pelo Capitão Shepard na franquia Mass Effect?",
+    "opcoes": {
+      "A": "Enterprise",
+      "B": "Normandy",
+      "C": "Pillar of Autumn",
+      "D": "Ishimura"
+    },
+    "resposta_correta": "B",
+    "explicacao": "A SSV Normandy é a nave estelar militar que serve de base para a equipe de Shepard."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "médio",
+    "pergunta": "Qual personagem é o antagonista principal de Far Cry 3?",
+    "opcoes": {
+      "A": "Pagan Min",
+      "B": "Joseph Seed",
+      "C": "Vaas Montenegro",
+      "D": "Anton Castillo"
+    },
+    "resposta_correta": "C",
+    "explicacao": "Vaas Montenegro é famoso pelo seu discurso icônico sobre a 'definição de insanidade'."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "médio",
+    "pergunta": "Em Overwatch, qual é a frase dita por D.Va ao utilizar sua habilidade suprema?",
+    "opcoes": {
+      "A": "Heroes never die!",
+      "B": "Nerfa isso!",
+      "C": "It's High Noon",
+      "D": "Fire in the hole!"
+    },
+    "resposta_correta": "B",
+    "explicacao": "D.Va exclama 'Nerfa isso!' ('Nerf this!') ao auto-destruir seu mecha."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "médio",
+    "pergunta": "Qual foi o primeiro console de videogame doméstico lançado na história?",
+    "opcoes": {
+      "A": "Atari 2600",
+      "B": "Magnavox Odyssey",
+      "C": "Famicom",
+      "D": "ColecoVision"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O Magnavox Odyssey, desenhado por Ralph Baer, foi lançado em 1972."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "médio",
+    "pergunta": "Na série Halo, como é chamado o organismo parasita alienígena que ameaça a galáxia?",
+    "opcoes": {
+      "A": "Covenant",
+      "B": "Flood",
+      "C": "Zerg",
+      "D": "Necromorphs"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O Flood é o organismo fúngico parasita contra o qual os Halos foram construídos para conter."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "médio",
+    "pergunta": "Qual é o nome da cidade infestada por zumbis onde se passam os eventos de Resident Evil 2 e 3?",
+    "opcoes": {
+      "A": "Silent Hill",
+      "B": "Raccoon City",
+      "C": "Dulvey",
+      "D": "Yarnham"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Raccoon City é destruída pelo surto do T-Vírus criado pela Umbrella Corporation."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "médio",
+    "pergunta": "Em Skyrim, qual o nome na língua dos dragões para a entidade conhecida como 'Dragonborn'?",
+    "opcoes": {
+      "A": "Dovahkiin",
+      "B": "Alduin",
+      "C": "Paarthurnax",
+      "D": "Fus Ro Dah"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Dovahkiin significa 'Nascido do Dragão' no idioma dracônico de The Elder Scrolls V."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "médio",
+    "pergunta": "Qual o nome da empresa farmacêutica fictícia responsável pelo surto zumbi em Resident Evil?",
+    "opcoes": {
+      "A": "Aperture Science",
+      "B": "Umbrella Corporation",
+      "C": "Abstergo",
+      "D": "Vault-Tec"
+    },
+    "resposta_correta": "B",
+    "explicacao": "A Umbrella Corporation é a megacorporação farmacêutica vilã de Resident Evil."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "médio",
+    "pergunta": "Qual é a mecânica central do jogo 'Superhot'?",
+    "opcoes": {
+      "A": "O tempo só se move quando você se move",
+      "B": "A tela fica mais escura a cada inimigo",
+      "C": "Você só pode atirar enquanto pula",
+      "D": "A gravidade muda a cada 10 segundos"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Em Superhot, o tempo corre em velocidade normal apenas quando o jogador realiza movimentações."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "médio",
+    "pergunta": "Em Chrono Trigger, qual é o nome do reino próspero e mágico flutuante da era de 12.000 a.C.?",
+    "opcoes": {
+      "A": "Guardia",
+      "B": "Zeal",
+      "C": "Medina",
+      "D": "Porre"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O Reino de Zeal é uma civilização altamente avançada que usava a energia de Lavos."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "médio",
+    "pergunta": "Qual é a arma de fogo padrão do jogo Doom (1993) no início da partida?",
+    "opcoes": {
+      "A": "Espingarda (Shotgun)",
+      "B": "Pistola",
+      "C": "Motosserra",
+      "D": "BFG 9000"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O Doomguy começa a aventura equipado com um soco e uma pistola simples."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é a linguagem de programação usada para escrever o código do jogo original Minecraft (Java Edition)?",
+    "opcoes": {
+      "A": "C++",
+      "B": "C#",
+      "C": "Java",
+      "D": "Python"
+    },
+    "resposta_correta": "C",
+    "explicacao": "Markus 'Notch' Persson desenvolveu a versão inicial do Minecraft utilizando a linguagem Java."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "difícil",
+    "pergunta": "Em Metal Gear Solid (1998), qual técnica o chefe Psycho Mantis usava para 'ler a mente' do jogador?",
+    "opcoes": {
+      "A": "Ele pedia uma senha secreta impressa no CD",
+      "B": "Ele lia os dados salvos no Memory Card e mexia o controle no chão",
+      "C": "Ele invertia as cores da televisão do jogador",
+      "D": "Ele desligava o console temporariamente"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Psycho Mantis citava jogos salvos na memória e usava a vibração do controle para impressionar."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "difícil",
+    "pergunta": "Qual foi o primeiro jogo comercial idealizado e criado pelo desenvolvedor Hidetaka Miyazaki na FromSoftware?",
+    "opcoes": {
+      "A": "Demon's Souls",
+      "B": "Armored Core: Last Raven",
+      "C": "Armored Core 4",
+      "D": "Dark Souls"
+    },
+    "resposta_correta": "C",
+    "explicacao": "Miyazaki entrou na empresa trabalhando em Armored Core 4 como diretor antes de assumir Demon's Souls."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "difícil",
+    "pergunta": "Qual era o nome de código do desenvolvimento do console que veio a se tornar o Nintendo GameCube?",
+    "opcoes": {
+      "A": "Project Reality",
+      "B": "Dolphin",
+      "C": "Ultra 64",
+      "D": "Revolution"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O código 'Dolphin' era o nome do projeto (origem do nome do famoso emulador de GameCube/Wii)."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "difícil",
+    "pergunta": "No jogo Castlevania: Symphony of the Night, qual item é necessário usar para ver a ilusão e acessar o Castelo Invertido?",
+    "opcoes": {
+      "A": "Holy Glasses (Óculos Sagrados)",
+      "B": "Spike Breaker",
+      "C": "Jewel of Open",
+      "D": "Ring of Vlad"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Os Holy Glasses dados por Maria permitem ver a esfera que controla Richter Belmont na luta contra ele."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "difícil",
+    "pergunta": "Em Street Fighter II, qual comando deve ser executado para aplicar o golpe 'Shoryuken' de Ryu e Ken?",
+    "opcoes": {
+      "A": "Frente, Baixo, Diagonal Baixo-Frente + Soco",
+      "B": "Baixo, Diagonal Baixo-Frente, Frente + Soco",
+      "C": "Trás, Baixo, Frente + Chute",
+      "D": "Segurar Trás por 2 segundos, Frente + Soco"
+    },
+    "resposta_correta": "A",
+    "explicacao": "O movimento em 'Z' (Frente, Baixo, Diagonal) é o comando tradicional do Shoryuken."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "difícil",
+    "pergunta": "Em Fallout 3, qual é a numeração do Vault (Refúgio) de onde o protagonista (Lone Wanderer) parte no início?",
+    "opcoes": {
+      "A": "Vault 13",
+      "B": "Vault 111",
+      "C": "Vault 101",
+      "D": "Vault 76"
+    },
+    "resposta_correta": "C",
+    "explicacao": "O jogador nasce e cresce no Vault 101 até a fuga do seu pai, James."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "difícil",
+    "pergunta": "Qual o nome do mecanismo de defesa ou motor gráfico criado originalmente para o primeiro jogo 'Unreal' em 1998?",
+    "opcoes": {
+      "A": "Frostbite Engine",
+      "B": "Unreal Engine",
+      "C": "Source Engine",
+      "D": "id Tech 1"
+    },
+    "resposta_correta": "B",
+    "explicacao": "A Epic Games desenvolveu a Unreal Engine para rodar o jogo Unreal, tornando-a padrão na indústria."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "difícil",
+    "pergunta": "Qual foi a primeira expansão lançada para o MMORPG 'World of Warcraft' em 2007?",
+    "opcoes": {
+      "A": "Wrath of the Lich King",
+      "B": "The Burning Crusade",
+      "C": "Cataclysm",
+      "D": "Mists of Pandaria"
+    },
+    "resposta_correta": "B",
+    "explicacao": "The Burning Crusade introduziu o continente de Outland e aumentou o nível máximo para 70."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "difícil",
+    "pergunta": "Em Bloodborne, qual é o item consumível usado para aumentar a pontuação de 'Discernimento' (Insight)?",
+    "opcoes": {
+      "A": "Sangue Frio de Invocador",
+      "B": "Conhecimento do Louco (Madman's Knowledge)",
+      "C": "Gema de Sangue",
+      "D": "Elixir de Chumbo"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Usar o Madman's Knowledge concede 1 ponto de Insight ao jogador instantaneamente."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "difícil",
+    "pergunta": "Em Silent Hill 2, qual o significado metafórico por trás da criação do monstro 'Pyramid Head'?",
+    "opcoes": {
+      "A": "A culpa e o desejo de punição de James Sunderland",
+      "B": "O medo de infância de Mary",
+      "C": "A manifestação do deus da ordem da seita",
+      "D": "Uma lembrança do pai de Angela"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Pyramid Head encarna a necessidade reprimida de James de ser punido pela morte de sua esposa."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é a ordem cronológica de lançamento das três gerações originais da franquia 'Dragon Quest' no Famicom?",
+    "opcoes": {
+      "A": "Dragon Quest I, II e III",
+      "B": "Dragon Quest III, II e I",
+      "C": "Dragon Quest I, III e II",
+      "D": "Dragon Quest II, I e III"
+    },
+    "resposta_correta": "A",
+    "explicacao": "A ordem de lançamento no Japão foi sequencial (1986, 1987 e 1988), embora a história do III seja uma prévia."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "difícil",
+    "pergunta": "No universo de StarCraft, qual o nome do planeta natal destruído da raça Protoss?",
+    "opcoes": {
+      "A": "Korhal",
+      "B": "Aiur",
+      "C": "Char",
+      "D": "Shakuras"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Aiur é o mundo ancestral dos Protoss invadido e devastado pela Enxame Zerg."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "difícil",
+    "pergunta": "Em Half-Life 2, qual o nome oficial da arma comumente chamada de 'Gravity Gun'?",
+    "opcoes": {
+      "A": "Zero Point Energy Field Manipulator",
+      "B": "Quantum Pulse Emitter",
+      "C": "Gravitational Vector Cannon",
+      "D": "Displacement Cannon"
+    },
+    "resposta_correta": "A",
+    "explicacao": "O nome técnico científico dado por Alyx Vance é Zero Point Energy Field Manipulator."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "difícil",
+    "pergunta": "Qual foi a empresa responsável por desenvolver o jogo de luta 'Killer Instinct' (1994) para Arcades e SNES?",
+    "opcoes": {
+      "A": "Capcom",
+      "B": "Midway",
+      "C": "Rare",
+      "D": "SNK"
+    },
+    "resposta_correta": "C",
+    "explicacao": "A desenvolvedora britânica Rare criou Killer Instinct usando computadores da SGI."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "difícil",
+    "pergunta": "Em The Elder Scrolls IV: Oblivion, qual é a ordem secreta de assassinos da qual o jogador pode se tornar o 'Ouvinte' (Listener)?",
+    "opcoes": {
+      "A": "The Thieves Guild",
+      "B": "The Dark Brotherhood",
+      "C": "The Morag Tong",
+      "D": "The Blades"
+    },
+    "resposta_correta": "B",
+    "explicacao": "A Dark Brotherhood serve a 'Mother Night' e ao 'Sithis', e o líder é conhecido como o Listener."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "difícil",
+    "pergunta": "Qual foi a taxa máxima de quadros por segundo (FPS) no lançamento original do jogo Ocarina of Time no Nintendo 64 (versão NTSC)?",
+    "opcoes": {
+      "A": "60 FPS",
+      "B": "30 FPS",
+      "C": "20 FPS",
+      "D": "15 FPS"
+    },
+    "resposta_correta": "C",
+    "explicacao": "O jogo rodava nativamente a uma taxa travada de 20 quadros por segundo na versão NTSC."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "difícil",
+    "pergunta": "Em Final Fantasy VI, qual o nome do vilão palhaço que consegue destruir o mundo na metade do jogo?",
+    "opcoes": {
+      "A": "Sephiroth",
+      "B": "Kefka Palazzo",
+      "C": "Kuja",
+      "D": "Exdeath"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Kefka absorve a energia da Tríade Sagrada e transforma o planeta no 'World of Ruin'."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "difícil",
+    "pergunta": "Em BioShock Infinite, como são chamados os universos paralelos e rupturas dimensionais abertos por Elizabeth?",
+    "opcoes": {
+      "A": "Rifts",
+      "B": "Tears (Lágrimas)",
+      "C": "Portals",
+      "D": "Fissuras"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Elizabeth consegue manipular o tecido do espaço-tempo abrindo portas dimensionais chamadas Tears."
+  },
+  {
+    "tema": "Jogos",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é a cidade fictícia do leste europeu onde se passa o jogo de sobrevivência 'S.T.A.L.K.E.R.: Shadow of Chernobyl'?",
+    "opcoes": {
+      "A": "Pripyat / A Zona",
+      "B": "City 17",
+      "C": "Kharov",
+      "D": "Novigrad"
+    },
+    "resposta_correta": "A",
+    "explicacao": "O jogo se passa na 'Zona de Exclusão' ao redor da usina nuclear de Chernobyl e da cidade fantasma de Pripyat."
   }
-]
 ]
