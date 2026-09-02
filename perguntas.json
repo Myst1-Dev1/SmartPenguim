@@ -2745,6 +2745,786 @@
   {
     "tema": "Programação; JavaScript",
     "dificuldade": "fácil",
+    "pergunta": "Qual declaração é usada para criar uma variável com escopo de bloco que não pode ser reatribuída?",
+    "opcoes": {
+      "A": "var",
+      "B": "let",
+      "C": "const",
+      "D": "static"
+    },
+    "resposta_correta": "C",
+    "explicacao": "'const' cria uma variável de escopo de bloco cujo valor não pode ser reatribuído via atribuição simples."
+  },
+  {
+    "tema": "Programação; HTML",
+    "dificuldade": "fácil",
+    "pergunta": "O que significa a sigla HTML?",
+    "opcoes": {
+      "A": "Hyper Text Markup Language",
+      "B": "High Tech Modern Language",
+      "C": "Hyper Transfer Mode Language",
+      "D": "Home Tool Markup Language"
+    },
+    "resposta_correta": "A",
+    "explicacao": "HTML significa Hyper Text Markup Language (Linguagem de Marcação de Hipertexto), usada para estruturar páginas web."
+  },
+  {
+    "tema": "Programação; Lógica",
+    "dificuldade": "fácil",
+    "pergunta": "Qual estrutura de controle é usada para executar um bloco de código repetidamente enquanto uma condição for verdadeira?",
+    "opcoes": {
+      "A": "if",
+      "B": "switch",
+      "C": "while",
+      "D": "try"
+    },
+    "resposta_correta": "C",
+    "explicacao": "O laço 'while' avalia uma condição booleana e repete a execução de seu bloco de código enquanto ela for verdadeira."
+  },
+  {
+    "tema": "Programação; Python",
+    "dificuldade": "fácil",
+    "pergunta": "Qual função é utilizada em Python para exibir mensagens no console?",
+    "opcoes": {
+      "A": "console.log()",
+      "B": "echo()",
+      "C": "System.out.println()",
+      "D": "print()"
+    },
+    "resposta_correta": "D",
+    "explicacao": "Em Python, a função built-in 'print()' escreve os argumentos passados na saída padrão (console)."
+  },
+  {
+    "tema": "Programação; Geral",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é o índice do primeiro elemento em um array na maioria das linguagens de programação modernas?",
+    "opcoes": {
+      "A": "1",
+      "B": "0",
+      "C": "-1",
+      "D": "10"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Na maioria das linguagens (como JS, Python, C, Java), a indexação de arrays é baseada em zero (zero-indexed)."
+  },
+  {
+    "tema": "Programação; CSS",
+    "dificuldade": "fácil",
+    "pergunta": "Qual propriedade CSS é utilizada para alterar a cor do texto de um elemento?",
+    "opcoes": {
+      "A": "background-color",
+      "B": "color",
+      "C": "text-style",
+      "D": "font-color"
+    },
+    "resposta_correta": "B",
+    "explicacao": "A propriedade 'color' define a cor do conteúdo de texto de um elemento em CSS."
+  },
+  {
+    "tema": "Programação; Banco de Dados",
+    "dificuldade": "fácil",
+    "pergunta": "Qual comando SQL é utilizado para buscar e recuperar dados em uma tabela?",
+    "opcoes": {
+      "A": "GET",
+      "B": "FETCH",
+      "C": "SELECT",
+      "D": "FIND"
+    },
+    "resposta_correta": "C",
+    "explicacao": "O comando 'SELECT' é a instrução padrão em SQL para consultar registros de uma ou mais tabelas."
+  },
+  {
+    "tema": "Programação; Git",
+    "dificuldade": "fácil",
+    "pergunta": "Qual comando do Git grava as alterações salvas na staging area no histórico do repositório?",
+    "opcoes": {
+      "A": "git save",
+      "B": "git commit",
+      "C": "git push",
+      "D": "git store"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O comando 'git commit' cria um novo snapshot do projeto contendo as alterações preparadas com 'git add'."
+  },
+  {
+    "tema": "Programação; JavaScript",
+    "dificuldade": "fácil",
+    "pergunta": "Qual método nativo adiciona um ou mais elementos ao final de um Array em JavaScript?",
+    "opcoes": {
+      "A": "push()",
+      "B": "pop()",
+      "C": "unshift()",
+      "D": "append()"
+    },
+    "resposta_correta": "A",
+    "explicacao": "O método 'push()' adiciona um ou mais elementos ao fim de um array e retorna o novo comprimento do array."
+  },
+  {
+    "tema": "Programação; Geral",
+    "dificuldade": "fácil",
+    "pergunta": "O que é um 'bug' no contexto do desenvolvimento de software?",
+    "opcoes": {
+      "A": "Um recurso avançado de segurança",
+      "B": "Um erro, falha ou defeito no código",
+      "C": "Um tipo de banco de dados relacional",
+      "D": "Um servidor de alta performance"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Um 'bug' é um termo que descreve uma falha ou comportamento inesperado na execução de um programa."
+  },
+  {
+    "tema": "Programação; Tipos de Dados",
+    "dificuldade": "fácil",
+    "pergunta": "Qual tipo primitivo representa apenas dois valores lógicos: verdadeiro (true) ou falso (false)?",
+    "opcoes": {
+      "A": "String",
+      "B": "Integer",
+      "C": "Boolean",
+      "D": "Float"
+    },
+    "resposta_correta": "C",
+    "explicacao": "O tipo booleano (Boolean) armazena exclusivamente um de dois valores de verdade: verdadeiro ou falso."
+  },
+  {
+    "tema": "Programação; HTML",
+    "dificuldade": "fácil",
+    "pergunta": "Qual tag HTML é utilizada para criar hiperlinks de navegação?",
+    "opcoes": {
+      "A": "<link>",
+      "B": "<a>",
+      "C": "<href>",
+      "D": "<url>"
+    },
+    "resposta_correta": "B",
+    "explicacao": "A tag '<a>' (anchor) define um hiperlink em HTML, onde o atributo 'href' indica o destino do link."
+  },
+  {
+    "tema": "Programação; Python",
+    "dificuldade": "fácil",
+    "pergunta": "Como se inicia um comentário de linha única na linguagem Python?",
+    "opcoes": {
+      "A": "//",
+      "B": "/*",
+      "C": "#",
+      "D": "<!--"
+    },
+    "resposta_correta": "C",
+    "explicacao": "Em Python, o caractere tralha/cerquilha '#' indica que o restante da linha deve ser tratado como comentário."
+  },
+  {
+    "tema": "Programação; Algoritmos",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é o resultado principal do operador aritmético `%` (módulo) em várias linguagens?",
+    "opcoes": {
+      "A": "Calcular a porcentagem de um valor",
+      "B": "Retornar o resto de uma divisão inteira",
+      "C": "Dividir dois números decimais",
+      "D": "Elevar a base a uma potência"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O operador módulo '%' calcula o resto restante após a divisão de um inteiro por outro (ex: 5 % 2 = 1)."
+  },
+  {
+    "tema": "Programação; POO",
+    "dificuldade": "fácil",
+    "pergunta": "Em Programação Orientada a Objetos, qual palavra-chave é tipicamente usada para instanciar uma nova classe?",
+    "opcoes": {
+      "A": "create",
+      "B": "new",
+      "C": "make",
+      "D": "instance"
+    },
+    "resposta_correta": "B",
+    "explicacao": "A palavra-chave 'new' aloca memória e invoca o construtor da classe para criar um novo objeto instanciado."
+  },
+  {
+    "tema": "Programação; Banco de Dados",
+    "dificuldade": "fácil",
+    "pergunta": "O que significa a sigla SQL?",
+    "opcoes": {
+      "A": "Structured Query Language",
+      "B": "Simple Question Language",
+      "C": "Sequential Query List",
+      "D": "Server Query Logic"
+    },
+    "resposta_correta": "A",
+    "explicacao": "SQL significa Structured Query Language (Linguagem de Consulta Estruturada), linguagem padrão para bancos relacionais."
+  },
+  {
+    "tema": "Programação; CSS",
+    "dificuldade": "fácil",
+    "pergunta": "Qual combinação torna um elemento invisível no layout sem remover o espaço ocupado por ele?",
+    "opcoes": {
+      "A": "display: none",
+      "B": "visibility: hidden",
+      "C": "opacity: 0",
+      "D": "display: flex"
+    },
+    "resposta_correta": "B",
+    "explicacao": "'visibility: hidden' oculta o elemento mantendo seu espaço físico no documento. 'display: none' o remove completamente do fluxo."
+  },
+  {
+    "tema": "Programação; Git",
+    "dificuldade": "fácil",
+    "pergunta": "Qual comando baixa um repositório remoto existente para a máquina local pela primeira vez?",
+    "opcoes": {
+      "A": "git copy",
+      "B": "git download",
+      "C": "git clone",
+      "D": "git pull"
+    },
+    "resposta_correta": "C",
+    "explicacao": "'git clone' cria uma cópia local exata de um repositório remoto Git configurando os remotes padrões."
+  },
+  {
+    "tema": "Programação; Web",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é a porta padrão utilizada para requisições de rede no protocolo HTTP (não seguro)?",
+    "opcoes": {
+      "A": "443",
+      "B": "80",
+      "C": "8080",
+      "D": "21"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O protocolo HTTP usa por padrão a porta 80, enquanto o HTTPS utiliza a porta 443 por padrão."
+  },
+  {
+    "tema": "Programação; JavaScript",
+    "dificuldade": "fácil",
+    "pergunta": "Qual valor primitivo em JavaScript representa a ausência intencional de qualquer valor de objeto?",
+    "opcoes": {
+      "A": "undefined",
+      "B": "null",
+      "C": "NaN",
+      "D": "false"
+    },
+    "resposta_correta": "B",
+    "explicacao": "'null' atribui explicitamente uma ausência de valor ou referência de objeto, diferentemente de 'undefined'."
+  },
+  {
+    "tema": "Programação; JavaScript",
+    "dificuldade": "médio",
+    "pergunta": "Qual é o retorno da avaliação do operador `typeof NaN` em JavaScript?",
+    "opcoes": {
+      "A": "'number'",
+      "B": "'NaN'",
+      "C": "'undefined'",
+      "D": "'object'"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Em JS, NaN significa 'Not-a-Number', mas segundo o padrão IEEE 754 seu tipo numérico no engine é 'number'."
+  },
+  {
+    "tema": "Programação; TypeScript",
+    "dificuldade": "médio",
+    "pergunta": "Qual palavra-chave no TypeScript é primariamente usada para definir contratos de formato de objeto extensíveis via 'extends'?",
+    "opcoes": {
+      "A": "type",
+      "B": "interface",
+      "C": "struct",
+      "D": "contract"
+    },
+    "resposta_correta": "B",
+    "explicacao": "'interface' no TS é projetada para descrever formatos de objetos e permite a extensão orientada a objetos via 'extends' e declarações mescláveis."
+  },
+  {
+    "tema": "Programação; Algoritmos",
+    "dificuldade": "médio",
+    "pergunta": "Qual é a complexidade de tempo de pior caso do algoritmo de ordenação QuickSort?",
+    "opcoes": {
+      "A": "O(n log n)",
+      "B": "O(n)",
+      "C": "O(n²)",
+      "D": "O(1)"
+    },
+    "resposta_correta": "C",
+    "explicacao": "No pior caso (ex: vetor já ordenado com péssima escolha de pivô), a pilha de recursão desbalanceada do QuickSort resulta em O(n²)."
+  },
+  {
+    "tema": "Programação; POO",
+    "dificuldade": "médio",
+    "pergunta": "Qual pilar da POO descreve a capacidade de objetos de diferentes tipos responderem à mesma chamada de método de maneiras específicas?",
+    "opcoes": {
+      "A": "Herança",
+      "B": "Encapsulamento",
+      "C": "Polimorfismo",
+      "D": "Abstração"
+    },
+    "resposta_correta": "C",
+    "explicacao": "Polimorfismo ('muitas formas') permite que classes filhas forneçam implementações específicas para métodos herdados ou de interfaces."
+  },
+  {
+    "tema": "Programação; React",
+    "dificuldade": "médio",
+    "pergunta": "Em React, qual Hook é utilizado para tratar efeitos colaterais como chamadas de API ou subscrições em componentes funcionais?",
+    "opcoes": {
+      "A": "useState",
+      "B": "useContext",
+      "C": "useEffect",
+      "D": "useReducer"
+    },
+    "resposta_correta": "C",
+    "explicacao": "'useEffect' executa código de efeito colateral após a renderização do componente, sincronizando com o ciclo de vida."
+  },
+  {
+    "tema": "Programação; Node.js",
+    "dificuldade": "médio",
+    "pergunta": "Qual módulo nativo do Node.js fornece utilitários para resolver e manipular caminhos de arquivos cruzando plataformas?",
+    "opcoes": {
+      "A": "fs",
+      "B": "path",
+      "C": "http",
+      "D": "url"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O módulo nativo 'path' (ex: path.join, path.resolve) ajusta automaticamente separadores de diretório conforme o SO (/ no Linux, \\ no Windows)."
+  },
+  {
+    "tema": "Programação; Banco de Dados",
+    "dificuldade": "médio",
+    "pergunta": "Qual cláusula SQL é utilizada especificamente para filtrar resultados gerados por um agrupamento 'GROUP BY'?",
+    "opcoes": {
+      "A": "WHERE",
+      "B": "HAVING",
+      "C": "FILTER",
+      "D": "LIKE"
+    },
+    "resposta_correta": "B",
+    "explicacao": "'WHERE' filtra linhas antes da agregação; 'HAVING' filtra os grupos agregados resultantes da cláusula 'GROUP BY'."
+  },
+  {
+    "tema": "Programação; JavaScript",
+    "dificuldade": "médio",
+    "pergunta": "Qual é a característica principal do método `Array.prototype.map()`?",
+    "opcoes": {
+      "A": "Modifica o array original diretamente adicionando novos valores",
+      "B": "Retorna um novo array contendo os resultados da aplicação da função callback em cada elemento",
+      "C": "Remove os elementos duplicados de um array",
+      "D": "Retorna apenas o primeiro valor correspondente à condição dada"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O 'map()' é imutável: ele percorre os itens e gera um novo array de mesmo tamanho transformado pela função fornecida."
+  },
+  {
+    "tema": "Programação; Arquitetura",
+    "dificuldade": "médio",
+    "pergunta": "Qual método HTTP RESTful é estritamente idempotente e utilizado para substituir totalmente a representação do recurso?",
+    "opcoes": {
+      "A": "POST",
+      "B": "PATCH",
+      "C": "PUT",
+      "D": "DELETE"
+    },
+    "resposta_correta": "C",
+    "explicacao": "O método 'PUT' substitui totalmente os dados do recurso alvo e é idempotente (múltiplas chamadas idênticas produzem o mesmo estado final)."
+  },
+  {
+    "tema": "Programação; Python",
+    "dificuldade": "médio",
+    "pergunta": "Qual estrutura de dados nativa em Python é mutável e armazena mapeamentos de chave-valor não ordenados?",
+    "opcoes": {
+      "A": "Tupla",
+      "B": "Lista",
+      "C": "Dicionário",
+      "D": "Set"
+    },
+    "resposta_correta": "C",
+    "explicacao": "Dicionários ('dict') armazenam pares chave-valor acessíveis em tempo médio O(1) via algoritmo de tabela hash."
+  },
+  {
+    "tema": "Programação; Git",
+    "dificuldade": "médio",
+    "pergunta": "Qual comando Git aplica a sequência de commits de uma branch por cima do topo de outra branch, reescrevendo a linha base?",
+    "opcoes": {
+      "A": "git merge",
+      "B": "git rebase",
+      "C": "git checkout",
+      "D": "git cherry-pick"
+    },
+    "resposta_correta": "B",
+    "explicacao": "'git rebase' move a base do seu branch atual para o topo da branch informada, mantendo o histórico de commits linear."
+  },
+  {
+    "tema": "Programação; Docker",
+    "dificuldade": "médio",
+    "pergunta": "Qual arquivo de configuração padrão YAML é usado para orquestrar e rodar múltiplos contêineres conectadamente?",
+    "opcoes": {
+      "A": "Dockerfile",
+      "B": "docker-compose.yml",
+      "C": "docker.config",
+      "D": "Containerfile"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O arquivo 'docker-compose.yml' define serviços, redes e volumes executados em conjunto pela CLI do Docker Compose."
+  },
+  {
+    "tema": "Programação; Conceitos",
+    "dificuldade": "médio",
+    "pergunta": "O que define o conceito de 'Closure' (fechamento) em linguagens de programação?",
+    "opcoes": {
+      "A": "Uma instrução para encerrar threads em segundo plano",
+      "B": "A combinação de uma função com o seu ambiente lexical (variáveis do escopo externo preservadas)",
+      "C": "O encerramento de conexões de socket de rede",
+      "D": "O padrão para destrutores de objetos"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Uma closure dá a uma função interna acesso ao escopo de uma função externa mesmo depois que a função externa é finalizada."
+  },
+  {
+    "tema": "Programação; C# / .NET",
+    "dificuldade": "médio",
+    "pergunta": "Em C#, qual modificador de parâmetro permite passar um argumento por referência exigindo que a função chamada atribua um valor antes de retornar?",
+    "opcoes": {
+      "A": "ref",
+      "B": "out",
+      "C": "in",
+      "D": "params"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Ao contrário de 'ref', o modificador 'out' não exige inicialização prévia da variável passada, mas obriga o método a atribuir um valor dentro do bloco."
+  },
+  {
+    "tema": "Programação; Java",
+    "dificuldade": "médio",
+    "pergunta": "Em Java, qual palavra-chave impede que uma classe seja herdada por outras ou que um método seja sobrescrito?",
+    "opcoes": {
+      "A": "static",
+      "B": "abstract",
+      "C": "final",
+      "D": "private"
+    },
+    "resposta_correta": "C",
+    "explicacao": "O modificador 'final' em uma classe proíbe a extensão (herança) e em um método impede sua sobrescrita (override) em subclasses."
+  },
+  {
+    "tema": "Programação; Web",
+    "dificuldade": "médio",
+    "pergunta": "O que significa a sigla CORS no desenvolvimento de aplicações Web?",
+    "opcoes": {
+      "A": "Cross-Origin Resource Sharing",
+      "B": "Central Origin Render System",
+      "C": "Core Object Rest Service",
+      "D": "Custom Open Request Source"
+    },
+    "resposta_correta": "A",
+    "explicacao": "CORS (Cross-Origin Resource Sharing) é um mecanismo que usa cabeçalhos HTTP para permitir que recursos de um domínio sejam requisitados por outro."
+  },
+  {
+    "tema": "Programação; Estrutura de Dados",
+    "dificuldade": "médio",
+    "pergunta": "Qual estrutura de dados opera no formato LIFO (Last In, First Out / Último a entrar, primeiro a sair)?",
+    "opcoes": {
+      "A": "Fila (Queue)",
+      "B": "Pilha (Stack)",
+      "C": "Lista Encadeada",
+      "D": "Árvore B"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Uma Pilha (Stack) restringe remoções e inserções ao elemento mais recente inserido no topo (LIFO)."
+  },
+  {
+    "tema": "Programação; JavaScript",
+    "dificuldade": "médio",
+    "pergunta": "Qual a diferença primária entre `Promise.all` e `Promise.allSettled`?",
+    "opcoes": {
+      "A": "Promise.all rejeita imediatamente se qualquer promise falhar; Promise.allSettled aguarda a resolução ou rejeição de todas",
+      "B": "Promise.allSettled executa apenas requisições síncronas sequencialmente",
+      "C": "Promise.all não aceita arrays contendo tipos que não sejam objetos Promise",
+      "D": "Ambos os métodos são sinônimos com a mesma implementação"
+    },
+    "resposta_correta": "A",
+    "explicacao": "'Promise.all' é abortada no primeiro erro (short-circuit). 'Promise.allSettled' sempre aguarda a conclusão de todas as promises fornecidas."
+  },
+  {
+    "tema": "Programação; Clean Code",
+    "dificuldade": "médio",
+    "pergunta": "No acrônimo SOLID de orientação a objetos, o que estabelece a letra 'S'?",
+    "opcoes": {
+      "A": "Single Responsibility Principle",
+      "B": "Software Security Protocol",
+      "C": "Static System Pattern",
+      "D": "Simple Structure Paradigm"
+    },
+    "resposta_correta": "A",
+    "explicacao": "SRP (Princípio da Responsabilidade Única) dita que uma classe ou módulo deve ter apenas um motivo para mudar."
+  },
+  {
+    "tema": "Programação; Banco de Dados",
+    "dificuldade": "médio",
+    "pergunta": "Nas propriedades ACID de transações em bancos de dados, o que significa 'Atomicidade' (letra A)?",
+    "opcoes": {
+      "A": "A transação é processada em um único ciclo do processador",
+      "B": "A transação é executada totalmente com sucesso ou totalmente revertida (tudo ou nada)",
+      "C": "A transação é bloqueada para modificações externas permanentemente",
+      "D": "Os dados são distribuídos entre múltiplos nós atômicos"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Atomicidade garante que a transação é tratada como uma unidade indivisível: todas as suas operações são efetivadas ou nenhuma."
+  },
+  {
+    "tema": "Programação; JavaScript",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é a saída no console ao avaliar a expressão `[] + {}` e `{}` em isolamento como expressão em Node.js?",
+    "opcoes": {
+      "A": "'[object Object]'",
+      "B": "'0'",
+      "C": "TypeError",
+      "D": "undefined"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Ao somar array vazio `[]` (coagido para string vazia `\"\"`) com objeto `{}` (coagido para `\"[object Object]\"`), o JS concatena gerando `'[object Object]'`."
+  },
+  {
+    "tema": "Programação; Arquitetura",
+    "dificuldade": "difícil",
+    "pergunta": "O que preconiza o Teorema CAP em relação a sistemas de armazenamento de dados distribuídos?",
+    "opcoes": {
+      "A": "Impossível oferecer simultaneamente Consistência, Disponibilidade e Tolerância a Partição",
+      "B": "Todo banco distribuído deve priorizar Consistência acima do tempo de resposta local",
+      "C": "A latência da rede cai linearmente ao dobrar a quantidade de nós réplicas",
+      "D": "As mensagens sempre chegam na ordem cronológica de envio"
+    },
+    "resposta_correta": "A",
+    "explicacao": "O Teorema CAP (Eric Brewer) provou que em caso de partição de rede, um sistema distribuído precisa escolher entre Consistência (C) ou Disponibilidade (A)."
+  },
+  {
+    "tema": "Programação; Algoritmos",
+    "dificuldade": "difícil",
+    "pergunta": "Qual algoritmo de ordenação garante complexidade O(n log n) no pior caso, faz ordenação in-place, mas não é estável?",
+    "opcoes": {
+      "A": "Merge Sort",
+      "B": "Heap Sort",
+      "C": "Insertion Sort",
+      "D": "Bubble Sort"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O Heap Sort usa a estrutura Max-Heap para ordenar in-place com complexidade garantida de O(n log n), porém a troca de nós distantes quebra a estabilidade."
+  },
+  {
+    "tema": "Programação; TypeScript",
+    "dificuldade": "difícil",
+    "pergunta": "Qual utilitário de tipo em TypeScript constrói um tipo selecionando todas as propriedades de `T` e omitindo as chaves `K`?",
+    "opcoes": {
+      "A": "Extract<T, K>",
+      "B": "Exclude<T, K>",
+      "C": "Omit<T, K>",
+      "D": "Pick<T, K>"
+    },
+    "resposta_correta": "C",
+    "explicacao": "'Omit<T, K>' cria uma interface ou tipo contendo todas as propriedades de T, exceto aquelas declaradas no conjunto de chaves K."
+  },
+  {
+    "tema": "Programação; Design Patterns",
+    "dificuldade": "difícil",
+    "pergunta": "Qual padrão GoF estrutural converte a interface de uma classe em outra interface esperada pelos clientes envolvidos?",
+    "opcoes": {
+      "A": "Decorator",
+      "B": "Adapter",
+      "C": "Proxy",
+      "D": "Facade"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O Adapter age como um 'invólucro' que traduz chamadas de uma interface incompatível para outra que a classe cliente consiga consumir."
+  },
+  {
+    "tema": "Programação; Concorrência",
+    "dificuldade": "difícil",
+    "pergunta": "O que caracteriza uma falha por 'Race Condition' (condição de corrida) em execução concorrente?",
+    "opcoes": {
+      "A": "Dois processos entram em bloqueio mútuo e perpétuo esperando recursos travados",
+      "B": "O resultado da execução depende da ordem ou do tempo imprevisível relativo do escalonador de threads",
+      "C": "Um vazamento de memória satura a área de heap causando crash",
+      "D": "Uma thread consome 100% da CPU impedindo outros processos de rodar"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Condições de corrida ocorrem quando múltiplas threads acessam e alteram dados compartilhados simultaneamente sem sincronização adequada."
+  },
+  {
+    "tema": "Programação; JavaScript",
+    "dificuldade": "difícil",
+    "pergunta": "Em relação ao Garbage Collector, qual a vantagem do `WeakMap` sobre o `Map` padrão em JavaScript?",
+    "opcoes": {
+      "A": "As chaves do WeakMap (que precisam ser objetos) mantêm referências fracas, permitindo a coleta se não houver outras referências a elas",
+      "B": "WeakMap consome menos CPU pois não necessita de hashing interno de chaves",
+      "C": "WeakMap suporta iteração com `for...of` sem gastar memória do Event Loop",
+      "D": "Map descarta chaves automaticamente a cada ciclo de renderização do DOM"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Como as chaves em 'WeakMap' são fracamente seguradas, se o objeto chave não for referenciado em outro lugar ele pode ser destruído pelo Garbage Collector."
+  },
+  {
+    "tema": "Programação; C++",
+    "dificuldade": "difícil",
+    "pergunta": "O que caracteriza a técnica RAII (Resource Acquisition Is Initialization) em C++?",
+    "opcoes": {
+      "A": "Vincular a posse e liberação de um recurso de sistema ao tempo de vida (construtor/destrutor) de um objeto",
+      "B": "Inicializar todos os ponteiros do código com endereço nulo automaticamente no escopo",
+      "C": "Desabilitar a alocação de memória dinâmica no Stack em tempo de compilação",
+      "D": "Executar um algoritmo de coleta de lixo em uma thread paralela isolada"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Com RAII, o recurso (ex: arquivo, memória) é alocado no construtor do objeto e liberado automaticamente no destrutor ao sair de escopo."
+  },
+  {
+    "tema": "Programação; Banco de Dados",
+    "dificuldade": "difícil",
+    "pergunta": "Qual nível de isolamento ANSI SQL evita Leitura Suja e Leitura Não-Repetível, mas permite Leituras Fantasma (Phantom Reads)?",
+    "opcoes": {
+      "A": "Read Uncommitted",
+      "B": "Read Committed",
+      "C": "Repeatable Read",
+      "D": "Serializable"
+    },
+    "resposta_correta": "C",
+    "explicacao": "'Repeatable Read' garante que leituras repetidas dos mesmos registros retornem o mesmo valor, mas novas inserções por outras transações ainda aparecem (leituras fantasma)."
+  },
+  {
+    "tema": "Programação; Redes / Segurança",
+    "dificuldade": "difícil",
+    "pergunta": "No protocolo TLS 1.3, qual foi o principal avanço em relação ao TLS 1.2 no estabelecimento da conexão segura?",
+    "opcoes": {
+      "A": "Redução da rodada de negociação (handshake) de 2 RTTs para 1 RTT (ou 0-RTT na reconexão)",
+      "B": "Abandono completo do envio de certificados x509 na camada da aplicação",
+      "C": "Utilização obrigatória de chaves privadas estáticas gravadas em hardware",
+      "D": "Migração completa de conexões para o protocolo UDP sem confirmação de recebimento"
+    },
+    "resposta_correta": "A",
+    "explicacao": "O TLS 1.3 reduziu as trocas de mensagens para o handshake de 2 RTT (Round-Trip Time) para 1 RTT, acelerando o tempo de conexão inicial."
+  },
+  {
+    "tema": "Programação; Compiladores",
+    "dificuldade": "difícil",
+    "pergunta": "Qual fase da compilação recebe a sequência de tokens gerada pelo analisador léxico e contrói a Árvore de Sintaxe Abstrata (AST)?",
+    "opcoes": {
+      "A": "Análise Léxica",
+      "B": "Análise Sintática (Parsing)",
+      "C": "Análise Semântica",
+      "D": "Otimização de Código"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O parser (Analisador Sintático) valida se a sequência de tokens obedece às regras gramaticais da linguagem e constrói a AST."
+  },
+  {
+    "tema": "Programação; Rust",
+    "dificuldade": "difícil",
+    "pergunta": "O que a verificação de empréstimos ('Borrow Checker') da linguagem Rust valida em tempo de compilação?",
+    "opcoes": {
+      "A": "Regras de posse (Ownership) impedindo corridas de dados (Data Races) e ponteiros inválidos sem Garbage Collector",
+      "B": "Conversão automática de código síncrono para threads assíncronas",
+      "C": "Otimização para que todas as estruturas de dados rodem exclusivamente na memória Stack",
+      "D": "Verificação dinâmica de erros de divisão por zero na execução"
+    },
+    "resposta_correta": "A",
+    "explicacao": "O Borrow Checker analisa as referências e tempos de vida (lifetimes) em tempo de compilação, prevenindo acessos concorrentes inválidos à memória sem degradação de runtime."
+  },
+  {
+    "tema": "Programação; Microsserviços",
+    "dificuldade": "difícil",
+    "pergunta": "Qual padrão arquitetural é empregado para gerenciar transações distribuídas entre múltiplos microsserviços via compensações sequenciais?",
+    "opcoes": {
+      "A": "Event Sourcing",
+      "B": "Saga Pattern",
+      "C": "CQRS",
+      "D": "Circuit Breaker"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O padrão Saga decompõe transações distribuídas em transações locais em cada serviço. Se uma etapa falha, executa ações compensatórias para reverter as mudanças anteriores."
+  },
+  {
+    "tema": "Programação; Estrutura de Dados",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é a diferença fundamental entre uma Árvore AVL e uma Árvore Rubro-Negra (Red-Black Tree)?",
+    "opcoes": {
+      "A": "A AVL é rigidamente balanceada resultando em buscas mais rápidas, mas rebalanceamentos mais frequentes/custosos em inserção/remoção",
+      "B": "A Árvore Rubro-Negra não aceita nós com filhos únicos",
+      "C": "A AVL armazena dados em arranjos contíguos no disco",
+      "D": "A Rubro-Negra garante balanceamento perfeito onde todas as folhas ficam na mesma profundidade"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Árvores AVL mantêm a diferença de altura dos nós em no máximo 1 (rigoroso). Árvores Red-Black toleram um pequeno desbalanceamento para tornar inserções mais rápidas."
+  },
+  {
+    "tema": "Programação; Programação Funcional",
+    "dificuldade": "difícil",
+    "pergunta": "O que estabelece o princípio da 'Transparência Referencial' em paradigmas funcionais?",
+    "opcoes": {
+      "A": "Uma chamada de função pode ser substituída por seu valor resultante sem alterar o comportamento do programa",
+      "B": "O código compilado deve disponibilizar metadados para reflexão (Reflection)",
+      "C": "Todas as variáveis globais devem ser explicitamente declaradas antes das funções",
+      "D": "Os ponteiros de memória devem apontar para regiões imutáveis do processo"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Uma função possui transparência referencial quando dada a mesma entrada ela sempre produz a mesma saída sem causar efeitos colaterais visíveis."
+  },
+  {
+    "tema": "Programação; Sistemas Operacionais",
+    "dificuldade": "difícil",
+    "pergunta": "Em sistemas operacionais padrão POSIX, qual o comportamento da syscall `fork()`?",
+    "opcoes": {
+      "A": "Cria um novo processo filho duplicando o espaço de endereço do processo pai que a chamou",
+      "B": "Substitui a imagem do processo atual carregando um novo executável do disco",
+      "C": "Interrompe a execução do thread principal para aguardar eventos de E/S",
+      "D": "Aloca blocos dinâmicos contíguos na memória Heap do processo"
+    },
+    "resposta_correta": "A",
+    "explicacao": "`fork()` clona o processo chamador (pai). No processo pai ela retorna o PID do filho e no processo filho ela retorna 0."
+  },
+  {
+    "tema": "Programação; Design Patterns",
+    "dificuldade": "difícil",
+    "pergunta": "Qual a finalidade central do padrão arquitetural CQRS (Command Query Responsibility Segregation)?",
+    "opcoes": {
+      "A": "Separar explicitamente os modelos de dados e operações de leitura (Queries) das operações de gravação/alteração (Commands)",
+      "B": "Unificar todas as consultas de banco de dados sob um único padrão Repository",
+      "C": "Garantir a transmissão síncrona de comandos por meio de APIs SOAP",
+      "D": "Restringir a execução de comandos apenas para usuários com perfil de administrador"
+    },
+    "resposta_correta": "A",
+    "explicacao": "CQRS divide o modelo de leitura do modelo de escrita, permitindo otimizar a escala, performance e segurança de cada fluxo independentemente."
+  },
+  {
+    "tema": "Programação; JavaScript",
+    "dificuldade": "difícil",
+    "pergunta": "Qual a diferença comportamental do método `Object.freeze()` em relação ao `Object.seal()` em JavaScript?",
+    "opcoes": {
+      "A": "Object.freeze impede qualquer alteração em propriedades existentes; Object.seal impede adição/remoção de chaves mas permite editar propriedades graváveis existentes",
+      "B": "Object.seal converte as propriedades do objeto em tipos primitivos automaticamente",
+      "C": "Object.freeze atua de forma recursiva (Deep Freeze) por padrão",
+      "D": "Não há diferença comportamental em modo estrito ('use strict')"
+    },
+    "resposta_correta": "A",
+    "explicacao": "'seal' evita a inclusão/exclusão de propriedades mas permite alterar os valores das existentes. 'freeze' torna o objeto completamente imutável (as propriedades existentes viram read-only)."
+  },
+  {
+    "tema": "Programação; Python",
+    "dificuldade": "difícil",
+    "pergunta": "O que é o GIL (Global Interpreter Lock) na implementação padrão CPython?",
+    "opcoes": {
+      "A": "Um Mutex que previne a execução de múltiplas threads nativas executando bytecodes Python simultaneamente em mais de um núcleo de CPU",
+      "B": "O módulo de criptografia padrão utilizado por bibliotecas HTTP",
+      "C": "O sistema responsável por otimizar loops em tempo de compilação (JIT)",
+      "D": "O gerenciador interno de bibliotecas que substitui o PIP"
+    },
+    "resposta_correta": "A",
+    "explicacao": "O GIL sincroniza a execução de threads para que apenas uma thread do sistema operacional execute código Python por vez dentro do CPython, simplificando a gestão de memória."
+  },
+  {
+    "tema": "Programação; Docker",
+    "dificuldade": "difícil",
+    "pergunta": "Quais recursos do Kernel do Linux são os pilares fundamentais para fornecer isolamento de visão de processos e limitação de uso de hardware nos contêineres Docker, respectivamente?",
+    "opcoes": {
+      "A": "Namespaces e cgroups (Control Groups)",
+      "B": "IPTables e Systemd",
+      "C": "KVM e AppArmor",
+      "D": "Chroot e SELinux"
+    },
+    "resposta_correta": "A",
+    "explicacao": "'Namespaces' isolam o que o processo consegue ver (rede, PIDs, montagens de arquivo) e 'cgroups' controlam/limitam o quanto ele pode usar de recursos (CPU, memória)."
+  },
+  {
+    "tema": "Programação; JavaScript",
+    "dificuldade": "fácil",
     "pergunta": "Qual operador do JavaScript compara valor E tipo de dado ao mesmo tempo?",
     "opcoes": {
       "A": "==",
@@ -5328,5 +6108,1565 @@
     },
     "resposta_correta": "A",
     "explicacao": "O jogo se passa na 'Zona de Exclusão' ao redor da usina nuclear de Chernobyl e da cidade fantasma de Pripyat."
+  },
+  {
+    "tema": "Jogos; Geral",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é o mascote oficial da Nintendo, famoso por vestir macacão azul e quepe vermelho?",
+    "opcoes": {
+      "A": "Sonic",
+      "B": "Mario",
+      "C": "Link",
+      "D": "Luigi"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Mario estreou em Donkey Kong (1981) e se tornou o mascote principal da Nintendo."
+  },
+  {
+    "tema": "Jogos; Geral",
+    "dificuldade": "fácil",
+    "pergunta": "Qual jogo introduziu o famoso modo 'Battle Royale' onde 100 jogadores caem em uma ilha e constroem estruturas para sobreviver?",
+    "opcoes": {
+      "A": "Minecraft",
+      "B": "Roblox",
+      "C": "Fortnite",
+      "D": "Apex Legends"
+    },
+    "resposta_correta": "C",
+    "explicacao": "Fortnite Battle Royale (lançado em 2017) popularizou a mecânica de construção combinada com combate em larga escala."
+  },
+  {
+    "tema": "Jogos; Franquias",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é o nome do protagonista da saga 'The Legend of Zelda'?",
+    "opcoes": {
+      "A": "Zelda",
+      "B": "Link",
+      "C": "Ganon",
+      "D": "Epona"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Apesar de o nome do jogo levar 'Zelda' (a princesa), o herói controlável da franquia é o Link."
+  },
+  {
+    "tema": "Jogos; Minecraft",
+    "dificuldade": "fácil",
+    "pergunta": "Em Minecraft, qual item é estritamente necessário para minerar minério de diamante?",
+    "opcoes": {
+      "A": "Picareta de Madeira",
+      "B": "Picareta de Pedra",
+      "C": "Picareta de Ferro (ou superior)",
+      "D": "Qualquer picareta"
+    },
+    "resposta_correta": "C",
+    "explicacao": "Minerar diamante com picaretas de madeira ou pedra destrói o bloco sem dropar o minério. É preciso usar ferro, ouro, diamante ou netherita."
+  },
+  {
+    "tema": "Jogos; Geral",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é o nome da bola amarela que come pílulas e foge de fantasmas nos clássicos dos arcades?",
+    "opcoes": {
+      "A": "Pac-Man",
+      "B": "Dig Dug",
+      "C": "Q*bert",
+      "D": "Bomberman"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Pac-Man foi criado pela Namco em 1980 e é um dos maiores ícones da história dos videogames."
+  },
+  {
+    "tema": "Jogos; Consoles",
+    "dificuldade": "fácil",
+    "pergunta": "Qual empresa desenvolveu a linha de consoles PlayStation?",
+    "opcoes": {
+      "A": "Microsoft",
+      "B": "Sega",
+      "C": "Sony",
+      "D": "Atari"
+    },
+    "resposta_correta": "C",
+    "explicacao": "A Sony Interactive Entertainment lançou o primeiro PlayStation em 1994 no Japão."
+  },
+  {
+    "tema": "Jogos; Franquias",
+    "dificuldade": "fácil",
+    "pergunta": "Em Pokémon, qual é a criatura de número #0025 na Pokédex, conhecida como mascote da franquia?",
+    "opcoes": {
+      "A": "Charmander",
+      "B": "Bulbasaur",
+      "C": "Pikachu",
+      "D": "Squirtle"
+    },
+    "resposta_correta": "C",
+    "explicacao": "Pikachu é o Pokémon do tipo Elétrico icônico que representa a franquia mundialmente."
+  },
+  {
+    "tema": "Jogos; Geral",
+    "dificuldade": "fácil",
+    "pergunta": "Qual jogo de blocos criado por Alexey Pajitnov exige encaixar peças geométricas caindo na tela?",
+    "opcoes": {
+      "A": "Tetris",
+      "B": "Arkanoid",
+      "C": "Columns",
+      "D": "Puyo Puyo"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Tetris foi criado na União Soviética em 1984 e utiliza peças compostas por 4 blocos chamadas tetraminós."
+  },
+  {
+    "tema": "Jogos; Franquias",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é o nome da cidade fictícia infestada por zumbis em Resident Evil 2 e 3?",
+    "opcoes": {
+      "A": "Silent Hill",
+      "B": "Raccoon City",
+      "C": "Vice City",
+      "D": "Yarnham"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Raccoon City é o palco dos eventos de vazamento do T-Vírus provocado pela empresa Umbrella Corporation."
+  },
+  {
+    "tema": "Jogos; Franquias",
+    "dificuldade": "fácil",
+    "pergunta": "Qual personagem de games é conhecido como 'O Ouriço Azul'?",
+    "opcoes": {
+      "A": "Knuckles",
+      "B": "Tails",
+      "C": "Sonic",
+      "D": "Shadow"
+    },
+    "resposta_correta": "C",
+    "explicacao": "Sonic the Hedgehog é a mascote super rápida criada pela Sega em 1991."
+  },
+  {
+    "tema": "Jogos; GTA",
+    "dificuldade": "fácil",
+    "pergunta": "Qual o nome do protagonista jogável em Grand Theft Auto: San Andreas?",
+    "opcoes": {
+      "A": "Tommy Vercetti",
+      "B": "Carl 'CJ' Johnson",
+      "C": "Niko Bellic",
+      "D": "Franklin Clinton"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Carl Johnson (CJ) é o personagem principal que retorna a Los Santos após a morte de sua mãe."
+  },
+  {
+    "tema": "Jogos; Luta",
+    "dificuldade": "fácil",
+    "pergunta": "Em Mortal Kombat, qual lutador ninja amarelo é famoso pelo bordão 'Get over here!'?",
+    "opcoes": {
+      "A": "Sub-Zero",
+      "B": "Scorpion",
+      "C": "Reptile",
+      "D": "Noob Saibot"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Scorpion usa sua lança de corda (harpoon) puxando os oponentes enquanto grita a frase clássica."
+  },
+  {
+    "tema": "Jogos; Consoles",
+    "dificuldade": "fácil",
+    "pergunta": "Qual console lançado pela Microsoft em 2001 marcou a entrada da empresa no mercado de videogames?",
+    "opcoes": {
+      "A": "Xbox",
+      "B": "Xbox 360",
+      "C": "Dreamcast",
+      "D": "GameCube"
+    },
+    "resposta_correta": "A",
+    "explicacao": "O Xbox original foi o primeiro console da Microsoft, famoso por popularizar jogos com suporte nativo de rede via Xbox Live."
+  },
+  {
+    "tema": "Jogos; Mobile",
+    "dificuldade": "fácil",
+    "pergunta": "Qual jogo mobile de física desafia os jogadores a arremessar pássaros com um estilingue contra estruturas de porcos verdes?",
+    "opcoes": {
+      "A": "Cut the Rope",
+      "B": "Angry Birds",
+      "C": "Fruit Ninja",
+      "D": "Flappy Bird"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Desenvolvido pela Rovio em 2009, Angry Birds tornou-se um fenômeno global em smartphones."
+  },
+  {
+    "tema": "Jogos; FPS",
+    "dificuldade": "fácil",
+    "pergunta": "Qual clássico jogo dos anos 90 popularizou os jogos de tiro em primeira pessoa (FPS) no PC com a caça a demônios em Marte?",
+    "opcoes": {
+      "A": "DOOM",
+      "B": "Counter-Strike",
+      "C": "Half-Life",
+      "D": "Halo"
+    },
+    "resposta_correta": "A",
+    "explicacao": "DOOM (1993), desenvolvido pela id Software, definiu o gênero de jogos de tiro em primeira pessoa."
+  },
+  {
+    "tema": "Jogos; RPG",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é a moeda primária de troca utilizada no universo do jogo League of Legends durante as partidas?",
+    "opcoes": {
+      "A": "V-Bucks",
+      "B": "Ouro (Gold)",
+      "C": "Gemas",
+      "D": "RP"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Durante as partidas de LoL, eliminações e tropas dão 'Ouro' para comprar itens dentro da loja do mapa."
+  },
+  {
+    "tema": "Jogos; Franquias",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é o nome da nave espacial principal comandada pelo Capitão Shepard na franquia Mass Effect?",
+    "opcoes": {
+      "A": "Enterprise",
+      "B": "Normandy",
+      "C": "Pillar of Autumn",
+      "D": "Millennium Falcon"
+    },
+    "resposta_correta": "B",
+    "explicacao": "A SSV Normandy (SR-1 / SR-2) é o quartel-general e meio de transporte espacial da tripulação de Shepard."
+  },
+  {
+    "tema": "Jogos; God of War",
+    "dificuldade": "fácil",
+    "pergunta": "Qual deus da guerra grego é o protagonista da franquia God of War?",
+    "opcoes": {
+      "A": "Ares",
+      "B": "Kratos",
+      "C": "Zeus",
+      "D": "Hércules"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Kratos é o 'Fantasma de Esparta' que derrota o Deus da Guerra Ares e assume seu posto."
+  },
+  {
+    "tema": "Jogos; Plataforma",
+    "dificuldade": "fácil",
+    "pergunta": "Qual animal é o protagonista da clássica franquia 'Crash Bandicoot'?",
+    "opcoes": {
+      "A": "Raposa",
+      "B": "Marsupial (Bandicoot)",
+      "C": "Lobo",
+      "D": "Urso"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Crash é um bandicoot-oriental (um marsupial australiano) geneticamente alterado pelo Dr. Neo Cortex."
+  },
+  {
+    "tema": "Jogos; Geral",
+    "dificuldade": "fácil",
+    "pergunta": "O que significa a sigla 'NPC' no universo dos jogos de videogame?",
+    "opcoes": {
+      "A": "New Player Character",
+      "B": "Non-Playable Character",
+      "C": "Network Protocol Code",
+      "D": "Next Party Chapter"
+    },
+    "resposta_correta": "B",
+    "explicacao": "NPC (Personagem Não Jogável) refere-se a qualquer personagem controlado pela inteligência artificial do jogo."
+  },
+  {
+    "tema": "Jogos; E-Sports",
+    "dificuldade": "médio",
+    "pergunta": "No mapa Dust II de Counter-Strike (CS:GO / CS2), quais são as letras que identificam os dois locais de plantio da bomba (Bomb Sites)?",
+    "opcoes": {
+      "A": "1 e 2",
+      "B": "Alpha e Bravo",
+      "C": "A e B",
+      "D": "X e Y"
+    },
+    "resposta_correta": "C",
+    "explicacao": "Nos mapas competitivos de Counter-Strike, os alvos de bomba são universais e chamados de 'Bomb A' e 'Bomb B'."
+  },
+  {
+    "tema": "Jogos; RPG",
+    "dificuldade": "médio",
+    "pergunta": "Em 'The Witcher 3: Wild Hunt', a qual escola de bruxos pertence o medalhão usado por Geralt de Rívia?",
+    "opcoes": {
+      "A": "Escola do Gato",
+      "B": "Escola do Urso",
+      "C": "Escola do Lobo",
+      "D": "Escola da Víbora"
+    },
+    "resposta_correta": "C",
+    "explicacao": "Geralt foi treinado na fortaleza de Kaer Morhen, lar da Escola do Lobo (School of the Wolf)."
+  },
+  {
+    "tema": "Jogos; Soulsborne",
+    "dificuldade": "médio",
+    "pergunta": "Qual é a primeira chama que deve ser mantida ou apagada como objetivo central da história de Dark Souls?",
+    "opcoes": {
+      "A": "First Flame",
+      "B": "Chaos Flame",
+      "C": "Grace Flame",
+      "D": "Abyss Spark"
+    },
+    "resposta_correta": "A",
+    "explicacao": "A 'First Flame' (Primeira Chama) deu origem à Era do Fogo e às almas dos lordes, devendo ser reacendida para evitar a Era das Trevas."
+  },
+  {
+    "tema": "Jogos; Blizzard",
+    "dificuldade": "médio",
+    "pergunta": "Qual é o nome do rei de Lordaeron que sucumbiu à espada Frostmourne e se tornou o Lich King em Warcraft III?",
+    "opcoes": {
+      "A": "Uther",
+      "B": "Arthas Menethil",
+      "C": "Thrall",
+      "D": "Illidan Stormrage"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O Príncipe Arthas Menethil empunhou a lâmina amaldiçoada Frostmourne para salvar seu povo, corrompendo sua alma."
+  },
+  {
+    "tema": "Jogos; Red Dead",
+    "dificuldade": "médio",
+    "pergunta": "Qual é o nome da gangue liderada por Dutch em Red Dead Redemption 2?",
+    "opcoes": {
+      "A": "O'Driscoll Boys",
+      "B": "Van der Linde Gang",
+      "C": "Del Lobo Gang",
+      "D": "Lemoyne Raiders"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Arthur Morgan e John Marston fazem parte do bando fora da lei conhecido como a 'Van der Linde Gang'."
+  },
+  {
+    "tema": "Jogos; Hardware",
+    "dificuldade": "médio",
+    "pergunta": "Qual foi o primeiro console doméstico a utilizar mídia em CD-ROM como padrão de fábrica em vez de cartuchos de ROM?",
+    "opcoes": {
+      "A": "Sega Saturn",
+      "B": "Sony PlayStation",
+      "C": "3DO Interactive Multiplayer",
+      "D": "PC Engine CD-ROM² (TurboGrafx-CD)"
+    },
+    "resposta_correta": "D",
+    "explicacao": "O add-on PC Engine CD-ROM² foi lançado pela NEC no Japão em 1988, sendo o primeiro sistema a adotar jogos em CD."
+  },
+  {
+    "tema": "Jogos; Fighting Games",
+    "dificuldade": "médio",
+    "pergunta": "Em Street Fighter, qual comando clássico em formato de meia-lua para a frente executa o golpe Hadouken?",
+    "opcoes": {
+      "A": "Baixo, Frente + Soco",
+      "B": "Baixo, Diagonal Baixo-Frente, Frente + Soco",
+      "C": "Frente, Baixo, Diagonal + Soco",
+      "D": "Trás, Baixo, Frente + Chute"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O movimento icônico (QCF - Quarter Circle Forward) realiza o projétil Hadouken de Ryu e Ken."
+  },
+  {
+    "tema": "Jogos; Halo",
+    "dificuldade": "médio",
+    "pergunta": "Qual é a inteligência artificial companheira que auxilia o Master Chief na franquia Halo?",
+    "opcoes": {
+      "A": "GLaDOS",
+      "B": "Cortana",
+      "C": "SAM",
+      "D": "EDI"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Cortana é a IA de classe Smart criada a partir da clonagem do cérebro da Dra. Catherine Halsey."
+  },
+  {
+    "tema": "Jogos; Valve",
+    "dificuldade": "médio",
+    "pergunta": "Qual arma experimental icônica é usada por Chell para resolver quebra-cabeças no jogo Portal?",
+    "opcoes": {
+      "A": "Gravity Gun",
+      "B": "Aperture Science Handheld Portal Device",
+      "C": "BFG 9000",
+      "D": "Toolgun"
+    },
+    "resposta_correta": "B",
+    "explicacao": "A arma oficial de Portal chama-se 'Aperture Science Handheld Portal Device' (comumente simplificada para Portal Gun)."
+  },
+  {
+    "tema": "Jogos; Fallout",
+    "dificuldade": "médio",
+    "pergunta": "Na série Fallout, qual o nome do dispositivo de pulso eletrônico portado pelos sobreviventes dos Vaults?",
+    "opcoes": {
+      "A": "Pip-Boy",
+      "B": "Vault-Gear",
+      "C": "Geiger-Counter",
+      "D": "Strap-Pad"
+    },
+    "resposta_correta": "A",
+    "explicacao": "O Pip-Boy (Personal Information Processor) exibe o inventário, status de saúde, mapa e rádio do jogador."
+  },
+  {
+    "tema": "Jogos; Indie",
+    "dificuldade": "médio",
+    "pergunta": "Em Hollow Knight, qual é o nome do reino subterrâneo em ruínas onde se passa a aventura?",
+    "opcoes": {
+      "A": "Pharloom",
+      "B": "Hallownest",
+      "C": "Deepnest",
+      "D": "Dirtmouth"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Hallownest é o antigo e vasto reino dos insetos que entrou em ruína por causa de uma infecção sobrenatural."
+  },
+  {
+    "tema": "Jogos; Silent Hill",
+    "dificuldade": "médio",
+    "pergunta": "Em Silent Hill 2, qual é o nome da esposa falecida que envia uma carta a James Sunderland chamando-o à cidade?",
+    "opcoes": {
+      "A": "Maria",
+      "B": "Mary",
+      "C": "Angela",
+      "D": "Heather"
+    },
+    "resposta_correta": "B",
+    "explicacao": "James recebe uma misteriosa carta assinada por sua esposa Mary Shepherd-Sunderland, falecida 3 anos antes."
+  },
+  {
+    "tema": "Jogos; Overwatch",
+    "dificuldade": "médio",
+    "pergunta": "Qual o nome da habilidade suprema (Ultimate) do personagem Hanzo em Overwatch?",
+    "opcoes": {
+      "A": "Dragonblade",
+      "B": "Dragonstrike",
+      "C": "Sonic Arrow",
+      "D": "Deadeye"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Hanzo lança o 'Dragonstrike' (Golpe do Dragão), invocando dois dragões espirais gigantes que atravessam paredes."
+  },
+  {
+    "tema": "Jogos; BioShock",
+    "dificuldade": "médio",
+    "pergunta": "Qual é a cidade submarina utópica construída por Andrew Ryan que serve de cenário para BioShock 1 e 2?",
+    "opcoes": {
+      "A": "Columbia",
+      "B": "Rapture",
+      "C": "Atlantis",
+      "D": "Kedreeva"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Rapture foi fundada no fundo do oceano como uma sociedade sem limites morais ou controle governamental."
+  },
+  {
+    "tema": "Jogos; Persona",
+    "dificuldade": "médio",
+    "pergunta": "Em Persona 5, qual é a alcunha usada pelo grupo de estudantes vigilantes liderados pelo protagonista?",
+    "opcoes": {
+      "A": "Investigative Team",
+      "B": "Phantom Thieves of Hearts",
+      "C": "SEES",
+      "D": "Midnight Channel"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Os 'Phantom Thieves of Hearts' roubam os desejos corrompidos de vilões dentro dos seus Palácios no Metaverso."
+  },
+  {
+    "tema": "Jogos; Monster Hunter",
+    "dificuldade": "médio",
+    "pergunta": "Como são chamados os pequenos companheiros felinos que auxiliam os caçadores durante as missões em Monster Hunter?",
+    "opcoes": {
+      "A": "Chacha",
+      "B": "Palico",
+      "C": "Melynx",
+      "D": "Poogie"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Os Palicoes (Amigurus em português) são felinos que usam equipamentos, curam e atacam monstros ao lado do jogador."
+  },
+  {
+    "tema": "Jogos; Metroid",
+    "dificuldade": "médio",
+    "pergunta": "Qual a verdadeira identidade da caçadora de recompensas com armadura tecnológica da franquia Metroid?",
+    "opcoes": {
+      "A": "Samus Aran",
+      "B": "Bayonetta",
+      "C": "Jill Valentine",
+      "D": "Nova Terra"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Samus Aran é a protagonista da série e revelou sua identidade feminina no final do primeiro Metroid (1986)."
+  },
+  {
+    "tema": "Jogos; Final Fantasy",
+    "dificuldade": "médio",
+    "pergunta": "Em Final Fantasy VII, qual é o nome da megacorporação elétrica responsável por extrair a energia Lifestream do planeta?",
+    "opcoes": {
+      "A": "Umbrella",
+      "B": "Abstergo",
+      "C": "Shinra Electric Power Company",
+      "D": "Aperture Science"
+    },
+    "resposta_correta": "C",
+    "explicacao": "A Shinra consome a energia mako do planeta para gerar eletricidade, sendo combatida pelo grupo eco-terrorista AVALANCHE."
+  },
+  {
+    "tema": "Jogos; Elden Ring",
+    "dificuldade": "médio",
+    "pergunta": "Em Elden Ring, qual é o nome do cavalo espectral concedido por Melina para o jogador explorar as Terras Intermédias?",
+    "opcoes": {
+      "A": "Roach",
+      "B": "Torrent",
+      "C": "Agro",
+      "D": "Shadowmere"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Torrent é a montaria espiritual de chifres usada para locomover-se e realizar saltos duplos."
+  },
+  {
+    "tema": "Jogos; Assassin's Creed",
+    "dificuldade": "médio",
+    "pergunta": "Qual é a máquina de memória genética utilizada na era moderna da franquia Assassin's Creed para reviver memórias de ancestrais?",
+    "opcoes": {
+      "A": "Animus",
+      "B": "Helix",
+      "C": "DESMOND",
+      "D": "Synapse"
+    },
+    "resposta_correta": "A",
+    "explicacao": "O Animus lê o DNA do usuário e projeta uma simulação tridimensional de memórias genéticas armazenadas."
+  },
+  {
+    "tema": "Jogos; História dos Games",
+    "dificuldade": "difícil",
+    "pergunta": "Qual jogo lendário atrelado ao fracasso comercial de 1983 teve milhares de cartuchos não vendidos enterrados no deserto de Alamogordo, Novo México?",
+    "opcoes": {
+      "A": "Pac-Man (Atari 2600)",
+      "B": "E.T. the Extra-Terrestrial",
+      "C": "Custer's Revenge",
+      "D": "Superman 64"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Em 1983, a Atari enterrou toneladas de cartuchos não vendidos do desastroso jogo 'E.T.', escavados e confirmados em 2014."
+  },
+  {
+    "tema": "Jogos; Metal Gear",
+    "dificuldade": "difícil",
+    "pergunta": "Em Metal Gear Solid (1998), qual boss exige que o jogador troque a entrada do controle para o 'Port 2' para evitar que seus pensamentos sejam lidos?",
+    "opcoes": {
+      "A": "Revolver Ocelot",
+      "B": "Psycho Mantis",
+      "C": "Sniper Wolf",
+      "D": "Vulcan Raven"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Psycho Mantis lê as entradas de comando do controle 1 para se esquivar de todos os ataques; mudar a entrada para a porta 2 desativa essa habilidade telepática."
+  },
+  {
+    "tema": "Jogos; Desenvolvedores",
+    "dificuldade": "difícil",
+    "pergunta": "Quem é o lendário designer de jogos creditado como criador original das franquias 'Castlevania' (a partir do conceito de Symphony of the Night) e autor de Bloodstained?",
+    "opcoes": {
+      "A": "Hideo Kojima",
+      "B": "Koji Igarashi",
+      "C": "Shinji Mikami",
+      "D": "Hideki Kamiya"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Koji Igarashi ('Iga') popularizou a fórmula modernizada 'Metroidvania' ao codirigir Castlevania: Symphony of the Night."
+  },
+  {
+    "tema": "Jogos; Speedrunning",
+    "dificuldade": "difícil",
+    "pergunta": "Na comunidade de speedrunning de Super Mario 64, qual é o nome da técnica glitch que permite atravessar portas de estrelas e subir escadas infinitas acumlando velocidade negativa?",
+    "opcoes": {
+      "A": "BLJ (Backward Long Jump)",
+      "B": "Wall Clip",
+      "C": "Hyperspeed Dive",
+      "D": "Frame Perfect Spin"
+    },
+    "resposta_correta": "A",
+    "explicacao": "O BLJ (Backward Long Jump) permite que o jogador acumule velocidade sem limites ao saltar consecutivamente de costas em superfícies inclinadas."
+  },
+  {
+    "tema": "Jogos; World of Warcraft",
+    "dificuldade": "difícil",
+    "pergunta": "Qual foi o nome da falha de programação de 2005 em World of Warcraft que causou uma epidemia virtual involuntária simulando a disseminação de uma peste real?",
+    "opcoes": {
+      "A": "Curse of Hakkar",
+      "B": "Corrupted Blood Incident",
+      "C": "Plague of Lordaeron",
+      "D": "The Great Scourge Event"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O debuff 'Corrupted Blood' saiu da raid Zul'Gurub por meio de ajudantes de caçadores, infectando cidades inteiras e virando objeto de estudo para epidemiologistas."
+  },
+  {
+    "tema": "Jogos; Dark Souls",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é a tradução da famosa mensagem oculta em código ASCII contida no código-fonte do clássico 'Adventure' (1979) do Atari 2600, considerado o primeiro Easter Egg da história?",
+    "opcoes": {
+      "A": "Atari Rules",
+      "B": "Created by Warren Robinett",
+      "C": "Secret Room 1",
+      "D": "Hello World"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Warren Robinett inseriu secretamente a frase 'Created by Warren Robinett' numa sala oculta porque a Atari proibia dar crédito aos programadores no jogo."
+  },
+  {
+    "tema": "Jogos; Chrono Trigger",
+    "dificuldade": "difícil",
+    "pergunta": "Em Chrono Trigger, qual é o nome da era/ano no tempo para o qual a equipe viaja e encontra um futuro distópico devastado em ruínas pós-apocalípticas?",
+    "opcoes": {
+      "A": "12000 B.C.",
+      "B": "2300 A.D.",
+      "C": "1000 A.D.",
+      "D": "600 A.D."
+    },
+    "resposta_correta": "B",
+    "explicacao": "O ano 2300 A.D. representa o futuro desolado após a destruição provocada por Lavos no 'Dia do Lavos' em 1999 A.D."
+  },
+  {
+    "tema": "Jogos; Dota 2",
+    "dificuldade": "difícil",
+    "pergunta": "No Dota 2, qual item supremo cai exclusivamente ao derrotar o monstro chefe 'Roshan' a partir de sua terceira morte em diante na partida?",
+    "opcoes": {
+      "A": "Aegis of the Immortal",
+      "B": "Cheese",
+      "C": "Refresher Shard",
+      "D": "Divine Rapier"
+    },
+    "resposta_correta": "C",
+    "explicacao": "O Aegis cai em todas as mortes. O Cheese cai da 2ª em diante. A partir da 3ª morte, Roshan passa a dropar o Refresher Shard (ou Aghanim's Scepter conforme atualizações de mapas)."
+  },
+  {
+    "tema": "Jogos; Fighting Games",
+    "dificuldade": "difícil",
+    "pergunta": "No famoso evento 'Evo Moment #37' (2004), qual jogador executou 15 parries consecutivos com a Chun-Li prestes a nocautear seu Ken usando pouquíssima vida?",
+    "opcoes": {
+      "A": "Justin Wong",
+      "B": "Daigo Umehara",
+      "C": "Tokido",
+      "D": "SonicFox"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Daigo Umehara efetuou o bloqueio perfeito (Parry) de cada golpe do Super Art de Justin Wong em Street Fighter III: 3rd Strike virando a partida de forma histórica."
+  },
+  {
+    "tema": "Jogos; Elder Scrolls",
+    "dificuldade": "difícil",
+    "pergunta": "Em The Elder Scrolls V: Skyrim, qual é a língua ancestral dos dragões da qual deriva a palavra 'Dovahkiin'?",
+    "opcoes": {
+      "A": "Dovahzul",
+      "B": "Daedric",
+      "C": "Aldmeris",
+      "D": "Ta'agra"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Dovahzul é a linguagem fictícia criada pela Bethesda para a fala dos dragões e para a execução dos gritos 'Shouts' em Skyrim."
+  },
+  {
+    "tema": "Jogos; Silent Hill",
+    "dificuldade": "difícil",
+    "pergunta": "Qual foi o codinome do projeto cancelado de Silent Hill que era liderado por Hideo Kojima e Guillermo del Toro, cujos teasers interativos viraram febre na PSN?",
+    "opcoes": {
+      "A": "Silent Hill: Downpour",
+      "B": "P.T. (Playable Teaser) / Silent Hills",
+      "C": "Silent Hill: Shattered Memories",
+      "D": "Project Hill"
+    },
+    "resposta_correta": "B",
+    "explicacao": "P.T. foi a demo jogável lançada de surpresa em 2014 para anunciar o jogo 'Silent Hills', que acabou cancelado pela Konami."
+  },
+  {
+    "tema": "Jogos; Quake / Game Engines",
+    "dificuldade": "difícil",
+    "pergunta": "Qual algoritmo clássico de computação gráfica de renderização rápida de luz em superfícies foi originalmente desenvolvido por John Carmack na id Software para Quake?",
+    "opcoes": {
+      "A": "Ray Tracing em tempo real",
+      "B": "Fast Inverse Square Root (InvSqrt)",
+      "C": "Binary Space Partitioning (BSP)",
+      "D": "Screen Space Ambient Occlusion (SSAO)"
+    },
+    "resposta_correta": "C",
+    "explicacao": "A divisão de espaço por árvores BSP (Binary Space Partitioning) permitiu ao motor de Quake calcular visibilidade poligonal 3D eficientemente nos computadores dos anos 90."
+  },
+  {
+    "tema": "Jogos; Street Fighter",
+    "dificuldade": "difícil",
+    "pergunta": "Qual personagem secreto de Street Fighter II Turbo só podia ser enfrentado se o jogador chegasse ao chefe final sem usar continuas e vencesse rapidamente?",
+    "opcoes": {
+      "A": "Sagat",
+      "B": "Akuma (Gouki)",
+      "C": "Evil Ryu",
+      "D": "M. Bison"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Akuma faz sua primeira aparição destruindo M. Bison na tela de luta antes do combate iniciar se os requisitos ocultos fossem cumpridos."
+  },
+  {
+    "tema": "Jogos; Super Mario",
+    "dificuldade": "difícil",
+    "pergunta": "Em Super Mario Sunshine (GameCube), qual o nome do dispositivo aquático acoplado nas costas de Mario?",
+    "opcoes": {
+      "A": "F.L.U.D.D.",
+      "B": "A.Q.U.A.",
+      "C": "H2O-Pack",
+      "D": "P.U.M.P."
+    },
+    "resposta_correta": "A",
+    "explicacao": "F.L.U.D.D. significa 'Flash Liquidizer Ultra Dousing Device', inventado pelo Professor Elvin Gadd."
+  },
+  {
+    "tema": "Jogos; Deus Ex",
+    "dificuldade": "difícil",
+    "pergunta": "No clássico Deus Ex (2000), qual é a frase secreta de acesso usada para desativar a IA 'ICARUS' ou entrar no terminal da NSF?",
+    "opcoes": {
+      "A": "Ironcurtain",
+      "B": "BaphomeT",
+      "C": "Laputan Machine",
+      "D": "Daedalus"
+    },
+    "resposta_correta": "C",
+    "explicacao": "A célebre frase 'You're a point in a pattern. You're a Laputan Machine' é uma citação dita pelo agente Gunther Hermann ao desativar o mecanismo."
+  },
+  {
+    "tema": "Jogos; Console Dev",
+    "dificuldade": "difícil",
+    "pergunta": "Qual coprocessador matemático customizado no console PlayStation 2 era notório pela extrema dificuldade de programação entre os desenvolvedores da época?",
+    "opcoes": {
+      "A": "Emotion Engine (Vector Units VU0/VU1)",
+      "B": "Cell Broadband Engine",
+      "C": "Super FX Chip",
+      "D": "Sound Driver Z80"
+    },
+    "resposta_correta": "A",
+    "explicacao": "O processador principal 'Emotion Engine' do PS2 exigia programação manual em linguagem de montagem para suas Vector Units (VU0 e VU1) para extrair o máximo poder geométrico."
+  },
+  {
+    "tema": "Jogos; Resident Evil",
+    "dificuldade": "difícil",
+    "pergunta": "No Resident Evil (1996) original, qual é o nome do fundador da Umbrella Corporation dono da mansão onde se passam os eventos?",
+    "opcoes": {
+      "A": "Albert Wesker",
+      "B": "William Birkin",
+      "C": "Oswell E. Spencer",
+      "D": "Edward Ashford"
+    },
+    "resposta_correta": "C",
+    "explicacao": "Lord Oswell E. Spencer encomendou a construção da mansão ao arquiteto George Trevor para esconder seus laboratórios virais subterrâneos."
+  },
+  {
+    "tema": "Jogos; Baldur's Gate",
+    "dificuldade": "difícil",
+    "pergunta": "Na lore de Baldur's Gate e Dungeons & Dragons, quem é o deus do assassinato de quem o protagonista é uma prole (Bhaalspawn)?",
+    "opcoes": {
+      "A": "Cyric",
+      "B": "Bhaal",
+      "C": "Bane",
+      "D": "Myrkul"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Bhaal é o Deus do Assassinar (Lord of Murder), que antes da Crise dos Avatares espalhou sua essência divina gerando os 'Filhos de Bhaal'."
+  },
+  {
+    "tema": "Jogos; Castlevania",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é o nome do chicote sagrado passado de geração em geração pela família Belmont na série Castlevania?",
+    "opcoes": {
+      "A": "Vampire Killer",
+      "B": "Holy Whip",
+      "C": "Morning Star",
+      "D": "Alucard Sword"
+    },
+    "resposta_correta": "A",
+    "explicacao": "O chicote 'Vampire Killer' foi criado através de um ritual de alquimia envolvendo a alma de Sara Trantoul em Castlevania: Lament of Innocence."
+  },
+  {
+    "tema": "Jogos; World design",
+    "dificuldade": "difícil",
+    "pergunta": "Qual a particularidade técnica inovadora criada para a renderização sem telas de carregamento do planeta em tempo real no jogo Outer Wilds?",
+    "opcoes": {
+      "A": "O jogador fica parado no centro do mundo enquanto todo o sistema solar orbita fisicamente em torno da câmera",
+      "B": "Uso de voxels pré-renderizados gravados em cache dinâmico de RAM",
+      "C": "Carregamento por streaming procedural limitado pelo campo de visão do jogador",
+      "D": "Renderização exclusiva via shaders sem malha poligonal pré-existente"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Para evitar instabilidades de ponto flutuante em grandezas astronômicas, o motor de Outer Wilds translada e rotaciona o universo em torno da posição do jogador."
+  },
+  {
+    "tema": "Animes; Dragon Ball",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é o nome de batismo Saiyajin do protagonista Goku?",
+    "opcoes": {
+      "A": "Raditz",
+      "B": "Kakarotto",
+      "C": "Vegeta",
+      "D": "Bardock"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Goku nasceu no planeta Vegeta e recebeu o nome Saiyajin de Kakarotto antes de ser enviado à Terra."
+  },
+  {
+    "tema": "Animes; Naruto",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é a besta de cauda (Bijuu) selada dentro do corpo de Naruto Uzumaki?",
+    "opcoes": {
+      "A": "Shukaku (1 Cauda)",
+      "B": "Isobu (3 Caudas)",
+      "C": "Kurama (9 Caudas)",
+      "D": "Gyuki (8 Caudas)"
+    },
+    "resposta_correta": "C",
+    "explicacao": "Kurama, a Raposa de Nove Caudas (Kyuubi), foi selada em Naruto pelo seu pai, o Quarto Hokage."
+  },
+  {
+    "tema": "Animes; One Piece",
+    "dificuldade": "fácil",
+    "pergunta": "Qual Akuma no Mi (Fruta do Diabo) deu a Luffy o poder de transformar seu corpo em borracha?",
+    "opcoes": {
+      "A": "Mera Mera no Mi",
+      "B": "Gomu Gomu no Mi",
+      "C": "Ope Ope no Mi",
+      "D": "Gura Gura no Mi"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Luffy comeu a Gomu Gomu no Mi (posteriormente revelada como Hito Hito no Mi, Modelo: Nika), tornando-se um homem de borracha."
+  },
+  {
+    "tema": "Animes; Pokémon",
+    "dificuldade": "fácil",
+    "pergunta": "Qual foi o Pokémon inicial recebido por Ash Ketchum na cidade de Pallet no primeiro episódio da série?",
+    "opcoes": {
+      "A": "Charmander",
+      "B": "Bulbasaur",
+      "C": "Squirtle",
+      "D": "Pikachu"
+    },
+    "resposta_correta": "D",
+    "explicacao": "Como Ash acordou atrasado, todos os três iniciais tradicionais já haviam sido escolhidos, restando a ele o Pikachu."
+  },
+  {
+    "tema": "Animes; Death Note",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é o nome do Shinigami (Deus da Morte) que deixa cair o caderno Death Note no mundo humano?",
+    "opcoes": {
+      "A": "Rem",
+      "B": "Ryuk",
+      "C": "Sidoh",
+      "D": "Jealous"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Ryuk derruba de propósito seu Death Note na Terra por estar entediado com o Reino dos Shinigamis."
+  },
+  {
+    "tema": "Animes; Attack on Titan",
+    "dificuldade": "fácil",
+    "pergunta": "Qual o nome da muralha mais externa que protegia a humanidade no início de Attack on Titan?",
+    "opcoes": {
+      "A": "Muralha Maria",
+      "B": "Muralha Rose",
+      "C": "Muralha Sina",
+      "D": "Muralha Paradis"
+    },
+    "resposta_correta": "A",
+    "explicacao": "A Muralha Maria é a camada mais externa de proteção e é a primeira a ser destruída pelo Titã Colossal."
+  },
+  {
+    "tema": "Animes; Demon Slayer",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é o nome da irmã de Tanjiro Kamado que é transformada em demônio (Oni)?",
+    "opcoes": {
+      "A": "Kanao",
+      "B": "Nezuko",
+      "C": "Tamayo",
+      "D": "Shinobu"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Nezuko Kamado sobreviveu ao ataque de Muzan Kibutsuji, mas acabou sendo infectada e transformada em Oni."
+  },
+  {
+    "tema": "Animes; Saint Seiya",
+    "dificuldade": "fácil",
+    "pergunta": "Em Cavaleiros do Zodíaco, qual é a constelação protetora da armadura de Seiya?",
+    "opcoes": {
+      "A": "Dragão",
+      "B": "Cisne",
+      "C": "Pégaso",
+      "D": "Fênix"
+    },
+    "resposta_correta": "C",
+    "explicacao": "Seiya é o Cavaleiro de Bronze da constelação de Pégaso."
+  },
+  {
+    "tema": "Animes; My Hero Academia",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é a individualidade (Quirk) transmitida do herói All Might para Izuku Midoriya?",
+    "opcoes": {
+      "A": "All for One",
+      "B": "One for All",
+      "C": "Explosion",
+      "D": "Half-Cold Half-Hot"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O 'One for All' é uma individualidade acumuladora de força que pode ser passada de geração em geração."
+  },
+  {
+    "tema": "Animes; Dragon Ball",
+    "dificuldade": "fácil",
+    "pergunta": "Quantas Esferas do Dragão originais da Terra são necessárias para invocar Shenlong?",
+    "opcoes": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "resposta_correta": "C",
+    "explicacao": "Ao juntar as 7 Esferas do Dragão marcadas com estrelas de 1 a 7, o dragão Shenlong surge para realizar um desejo."
+  },
+  {
+    "tema": "Animes; One Punch Man",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é o nome do protagonista invencível capaz de derrotar qualquer inimigo com apenas um soco?",
+    "opcoes": {
+      "A": "Genos",
+      "B": "Saitama",
+      "C": "Bang",
+      "D": "Mumen Rider"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Saitama treinou tanto que ficou careca e adquiriu um poder avassalador que derrota adversários em um único soco."
+  },
+  {
+    "tema": "Animes; Bleach",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é o nome da espada carregada por Ichigo Kurosaki em Bleach?",
+    "opcoes": {
+      "A": "Zangetsu",
+      "B": "Senbonzakura",
+      "C": "Kyoka Suigetsu",
+      "D": "Hyorinmaru"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Zangetsu é o nome da Zanpakuto de Ichigo Kurosaki."
+  },
+  {
+    "tema": "Animes; Naruto",
+    "dificuldade": "fácil",
+    "pergunta": "Quem é o mestre do Time 7 composto por Naruto, Sasuke e Sakura?",
+    "opcoes": {
+      "A": "Jiraiya",
+      "B": "Kakashi Hatake",
+      "C": "Iruka Umino",
+      "D": "Sarutobi"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Kakashi Hatake, o 'Ninja Copiador', torna-se o líder instrucional do Time 7."
+  },
+  {
+    "tema": "Animes; Sailor Moon",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é a verdadeira identidade humana da personagem Sailor Moon?",
+    "opcoes": {
+      "A": "Rei Hino",
+      "B": "Ami Mizuno",
+      "C": "Usagi Tsukino",
+      "D": "Minako Aino"
+    },
+    "resposta_correta": "C",
+    "explicacao": "Usagi Tsukino (conhecida como Serena na dublagem brasileira clássica) é a jovem estudante que se transforma na Sailor Moon."
+  },
+  {
+    "tema": "Animes; Jujutsu Kaisen",
+    "dificuldade": "fácil",
+    "pergunta": "Qual objeto amaldiçoado Yuji Itadori engole no primeiro episódio para salvar seus amigos?",
+    "opcoes": {
+      "A": "Um olho amaldiçoado",
+      "B": "O dedo de Ryomen Sukuna",
+      "C": "Uma crista de osso",
+      "D": "Um fetiche de sangue"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Yuji come um dos dedos ressecados do 'Rei das Maldições' Ryomen Sukuna para obter poder espiritual instantâneo."
+  },
+  {
+    "tema": "Animes; Fullmetal Alchemist",
+    "dificuldade": "fácil",
+    "pergunta": "Qual regra fundamental da alquimia dita que 'para obter algo, algo de valor igual deve ser dado em troca'?",
+    "opcoes": {
+      "A": "Lei da Gravidade",
+      "B": "Lei da Troca Equivalente",
+      "C": "Princípio da Transmutação",
+      "D": "Conservação de Matéria"
+    },
+    "resposta_correta": "B",
+    "explicacao": "A Lei da Troca Equivalente é o pilar básico da alquimia no universo dos irmãos Elric."
+  },
+  {
+    "tema": "Animes; Hunter x Hunter",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é o objetivo principal do jovem Gon Freecss ao fazer o Exame Hunter?",
+    "opcoes": {
+      "A": "Ficar rico e famoso",
+      "B": "Encontrar seu pai, Ging Freecss",
+      "C": "Vingar a destruição do seu clã",
+      "D": "Derrotar a Trupe Fantasma"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Gon deseja se tornar um Hunter para entender o motivo de seu pai ter escolhido essa profissão em vez de criá-lo."
+  },
+  {
+    "tema": "Animes; Digimon",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é a forma dinossauro na etapa 'Adulto' (Campeão) do parceiro Digimon de Tai Kamiya?",
+    "opcoes": {
+      "A": "Agumon",
+      "B": "Greymon",
+      "C": "MetalGreymon",
+      "D": "WarGreymon"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Agumon digivolve para o dinossauro alaranjado com chifre conhecido como Greymon."
+  },
+  {
+    "tema": "Animes; Yu-Gi-Oh!",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é o nome da lendária carta de monstro favorita de Yugi Muto?",
+    "opcoes": {
+      "A": "Dragão Branco de Olhos Azuis",
+      "B": "Mago Negro",
+      "C": "Exodia",
+      "D": "Rei das Caveiras"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O Mago Negro (Dark Magician) é a carta assinatura de Yugi Muto em suas batalhas."
+  },
+  {
+    "tema": "Animes; Pokémon",
+    "dificuldade": "fácil",
+    "pergunta": "Qual é a dupla da Equipe Rocket que segue Ash tentando roubar o Pikachu em praticamente todos os episódios originais?",
+    "opcoes": {
+      "A": "Jessie e James",
+      "B": "Cassidy e Butch",
+      "C": "Prof. Carvalho e Delia",
+      "D": "Joy e Jenny"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Jessie e James (junto do Meowth falante) formam o cômico esquadrão antagonista recorrente da série."
+  },
+  {
+    "tema": "Animes; Death Note",
+    "dificuldade": "médio",
+    "pergunta": "Qual é o verdadeiro nome do investigador conhecido apenas pela letra 'L'?",
+    "opcoes": {
+      "A": "Nate River",
+      "B": "Mihael Keehl",
+      "C": "L Lawliet",
+      "D": "Mail Jeevas"
+    },
+    "resposta_correta": "C",
+    "explicacao": "O nome real de 'L' revelado nos guias oficiais da obra é L Lawliet."
+  },
+  {
+    "tema": "Animes; Fullmetal Alchemist: Brotherhood",
+    "dificuldade": "médio",
+    "pergunta": "O que Edward Elric perdeu exatamente ao tentar realizar a transmutação humana para trazer sua mãe de volta?",
+    "opcoes": {
+      "A": "Seu corpo inteiro",
+      "B": "Sua perna esquerda (e depois o braço direito para salvar Alphonse)",
+      "C": "Sua visão e o braço esquerdo",
+      "D": "Sua capacidade de usar alquimia"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Edward perde a perna esquerda na tentativa de transmutação e sacrifica o braço direito para fixar a alma de Alphonse em uma armadura."
+  },
+  {
+    "tema": "Animes; Neon Genesis Evangelion",
+    "dificuldade": "médio",
+    "pergunta": "Qual é o nome da organização paramilitar encarregada de comandar os robôs gigantes (EVAs) contra os Anjos?",
+    "opcoes": {
+      "A": "SEELE",
+      "B": "NERV",
+      "C": "GEHIRN",
+      "D": "WILLE"
+    },
+    "resposta_correta": "B",
+    "explicacao": "A NERV é a agência especial com sede em Neo Tokyo-3 responsável pela defesa da Terra."
+  },
+  {
+    "tema": "Animes; Dragon Ball Z",
+    "dificuldade": "médio",
+    "pergunta": "Qual técnica de combate lendária Goku aprendeu com o Senhor Kaioh durante o seu treinamento no outro mundo?",
+    "opcoes": {
+      "A": "Kamehameha",
+      "B": "Masenko",
+      "C": "Kaio-ken (e a Genki Dama)",
+      "D": "Final Flash"
+    },
+    "resposta_correta": "C",
+    "explicacao": "O Kaio-ken e a Genki Dama foram os dois grandes triunfos ensinados pelo Senhor Kaioh em seu pequeno planeta."
+  },
+  {
+    "tema": "Animes; Attack on Titan",
+    "dificuldade": "médio",
+    "pergunta": "Qual dos Nove Titãs Originais tem o poder especial de ver memórias de futuros herdeiros?",
+    "opcoes": {
+      "A": "Titã Blindado",
+      "B": "Titã Fundador",
+      "C": "Titã de Ataque (Attack Titan)",
+      "D": "Titã Mandíbula"
+    },
+    "resposta_correta": "C",
+    "explicacao": "O Titã de Ataque possui a capacidade única de transcender o tempo e acessar memórias de herdeiros que ainda virão."
+  },
+  {
+    "tema": "Animes; Naruto Shippuden",
+    "dificuldade": "médio",
+    "pergunta": "Qual o nome do clã de onde provém a habilidade ocular de herança de sangue conhecida como Byakugan?",
+    "opcoes": {
+      "A": "Clã Uchiha",
+      "B": "Clã Hyuuga",
+      "C": "Clã Uzumaki",
+      "D": "Clã Senju"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O Byakugan é a Kekkei Genkai ocular característica dos membros do Clã Hyuuga (como Hinata e Neji)."
+  },
+  {
+    "tema": "Animes; One Piece",
+    "dificuldade": "médio",
+    "pergunta": "Qual é a recompensa inicial colocada pela Marinha pela cabeça de Luffy após os eventos da saga de Arlong Park?",
+    "opcoes": {
+      "A": "10.000.000 de Berries",
+      "B": "30.000.000 de Berries",
+      "C": "100.000.000 de Berries",
+      "D": "50.000.000 de Berries"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Sua primeira recompensa oficial foi de 30 milhões de Berries, a maior da história do East Blue até aquele momento."
+  },
+  {
+    "tema": "Animes; Steins;Gate",
+    "dificuldade": "médio",
+    "pergunta": "Qual eletrodoméstico modificado pelo grupo de Rintaro Okabe acidentalmente se transforma em uma máquina do tempo capaz de enviar D-Mails?",
+    "opcoes": {
+      "A": "Uma Geladeira",
+      "B": "Um Micro-ondas (Phone Microwave)",
+      "C": "Uma Máquina de Lavar",
+      "D": "Um Televisor CRT"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O 'Phone Microwave (name subject to change)' podia enviar mensagens de texto ao passado quando conectado a um telefone celular."
+  },
+  {
+    "tema": "Animes; Demon Slayer",
+    "dificuldade": "médio",
+    "pergunta": "Qual Hashira (Pilar) do Esquadrão de Demon Slayers utiliza a Respiração do Som?",
+    "opcoes": {
+      "A": "Kyojuro Rengoku",
+      "B": "Tengen Uzui",
+      "C": "Giyu Tomioka",
+      "D": "Sanemi Shinazugawa"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Tengen Uzui, o extravagante ex-ninja, é o Pilar do Som."
+  },
+  {
+    "tema": "Animes; Cowboy Bebop",
+    "dificuldade": "médio",
+    "pergunta": "Qual o nome da nave espacial que serve de base para a tripulação de caçadores de recompensa liderada por Spike Spiegel?",
+    "opcoes": {
+      "A": "Bebop",
+      "B": "Swordfish II",
+      "C": "Red Tail",
+      "D": "Hammer Head"
+    },
+    "resposta_correta": "A",
+    "explicacao": "A nave mãe modificada onde vivem Spike, Jet, Faye, Ed e Ein chama-se Bebop."
+  },
+  {
+    "tema": "Animes; Code Geass",
+    "dificuldade": "médio",
+    "pergunta": "Qual é o efeito exato do poder do Geass concedido a Lelouch vi Britannia por C.C.?",
+    "opcoes": {
+      "A": "Ler a mente das pessoas à distância",
+      "B": "Dar uma ordem absoluta que a pessoa é forçada a obedecer (apenas uma vez por indivíduo)",
+      "C": "Parar o tempo por 5 segundos",
+      "D": "Prever ações futuras imediatas"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O 'Poder da Obediência Absoluta' permite a Lelouch controlar a mente de qualquer pessoa pelo contato visual direto, limitado a um comando por alvo."
+  },
+  {
+    "tema": "Animes; Hunter x Hunter",
+    "dificuldade": "médio",
+    "pergunta": "Quais são os quatro tipos fundamentais do aprendizado básico do Nen?",
+    "opcoes": {
+      "A": "Ten, Zets, Ren, Hatsu",
+      "B": "In, Gyo, Ko, Ken",
+      "C": "Enhancement, Transmutation, Emission, Conjuration",
+      "D": "Ken, Shu, Ryu, En"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Os 4 grandes princípios do Nen (Shigyoukai) são Ten (Envolver), Zetsu (Cortar), Ren (Aumentar) e Hatsu (Liberar)."
+  },
+  {
+    "tema": "Animes; JoJo's Bizarre Adventure",
+    "dificuldade": "médio",
+    "pergunta": "Na Parte 3 (Stardust Crusaders), qual é o nome do Stand de Jotaro Kujo?",
+    "opcoes": {
+      "A": "The World",
+      "B": "Star Platinum",
+      "C": "Crazy Diamond",
+      "D": "Silver Chariot"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Jotaro invoca o Star Platinum, um Stand de incrível precisão, força física e velocidade."
+  },
+  {
+    "tema": "Animes; Mob Psycho 100",
+    "dificuldade": "médio",
+    "pergunta": "Qual o verdadeiro nome do charlatão e mestre de Mob que comanda a agência 'Consultoria de Espíritos e Afins'?",
+    "opcoes": {
+      "A": "Dimple",
+      "B": "Arataka Reigen",
+      "C": "Ritsu Kageyama",
+      "D": "Teruki Hanazawa"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Arataka Reigen é o trapaceiro sem poderes psíquicos reais que serve como figura paterna e mentor moral para Mob."
+  },
+  {
+    "tema": "Animes; Black Clover",
+    "dificuldade": "médio",
+    "pergunta": "Quantas folhas tem o trevo estampado no grimório sem magia recebido por Asta?",
+    "opcoes": {
+      "A": "3 folhas",
+      "B": "4 folhas",
+      "C": "5 folhas",
+      "D": "6 folhas"
+    },
+    "resposta_correta": "C",
+    "explicacao": "Enquanto o trevo de 4 folhas traz sorte, diz-se que na quinta folha reside um demônio."
+  },
+  {
+    "tema": "Animes; Cyberpunk: Edgerunners",
+    "dificuldade": "médio",
+    "pergunta": "Qual o nome do poderoso ciberware militar de desaceleração temporal instalado na coluna de David Martinez?",
+    "opcoes": {
+      "A": "Sandevistan",
+      "B": "Mantis Blades",
+      "C": "Keresnikov",
+      "D": "Cyberdeck Apex"
+    },
+    "resposta_correta": "A",
+    "explicacao": "David instala o implante 'Sandevistan', permitindo mover-se a velocidades extremamente aceleradas."
+  },
+  {
+    "tema": "Animes; Vinland Saga",
+    "dificuldade": "médio",
+    "pergunta": "Quem é o líder do grupo de mercenários viquingues a quem Thorfinn se junta para tentar vingar a morte de seu pai?",
+    "opcoes": {
+      "A": "Thors",
+      "B": "Askeladd",
+      "C": "Thorkell",
+      "D": "Canute"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Thorfinn segue Askeladd por anos na esperança de obter um duelo de honra para matá-lo por ter assassinado seu pai."
+  },
+  {
+    "tema": "Animes; Bleach",
+    "dificuldade": "médio",
+    "pergunta": "Qual é a liberação final de uma Zanpakuto invocada pelos Capitães da Soul Society chamada em japonês de segunda etapa?",
+    "opcoes": {
+      "A": "Shikai",
+      "B": "Bankai",
+      "C": "Resurrección",
+      "D": "Vizard"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Bankai é a forma final e mais poderosa da espada de um Shinigami, exigindo anos de treino extremo para ser dominada."
+  },
+  {
+    "tema": "Animes; Haikyu!!",
+    "dificuldade": "médio",
+    "pergunta": "Em qual posição de voleibol joga o protagonista Shoyo Hinata na equipe do colégio Karasuno?",
+    "opcoes": {
+      "A": "Levantador (Setter)",
+      "B": "Líbero",
+      "C": "Bloqueador Central (Middle Blocker)",
+      "D": "Ponteiro (Outside Hitter)"
+    },
+    "resposta_correta": "C",
+    "explicacao": "Apesar de sua baixa estatura, a incrível capacidade de salto de Hinata faz dele um Bloqueador Central rápido."
+  },
+  {
+    "tema": "Animes; Fire Force",
+    "dificuldade": "médio",
+    "pergunta": "Qual fenômeno misterioso transforma humanos comuns em criaturas em chamas agressivas conhecidas como 'Infernais'?",
+    "opcoes": {
+      "A": "Combustão Humana Spontânea",
+      "B": "Chama Negra",
+      "C": "Infeção de Adolla",
+      "D": "Evaporação de Alma"
+    },
+    "resposta_correta": "A",
+    "explicacao": "A Combustão Humana Spontânea é a calamidade central do mundo de Fire Force que dá origem aos monstros de fogo."
+  },
+  {
+    "tema": "Animes; Neon Genesis Evangelion",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é a designação do Primeiro Anjo a atacar a Terra no Second Impact e fonte genética do EVA-01?",
+    "opcoes": {
+      "A": "Sachiel",
+      "B": "Lilith",
+      "C": "Adam",
+      "D": "Kaworu"
+    },
+    "resposta_correta": "C",
+    "explicacao": "Adam é o Primeiro Anjo descobrido na Antártida; contudo, a unidade EVA-01 é o único Evangelion derivado do Segundo Anjo (Lilith)."
+  },
+  {
+    "tema": "Animes; Fate/stay night",
+    "dificuldade": "difícil",
+    "pergunta": "Na Guerra do Santo Graal, qual é a verdadeira identidade histórica/mitológica do Espírito Heroico da classe 'Archer' de Rin Tohsaka?",
+    "opcoes": {
+      "A": "Gilgamesh",
+      "B": "EMIYA (Shirou Emiya do futuro)",
+      "C": "Rei Arthur",
+      "D": "Chiron"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Archer é uma versão futura do próprio Shirou Emiya que se tornou um Contra-Guardião após fazer um pacto com o mundo."
+  },
+  {
+    "tema": "Animes; Monogatari Series",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é o nome da excentricidade lendária de vampiro de sangue puro que transformou Koyomi Araragi na primavera?",
+    "opcoes": {
+      "A": "Shinobu Oshino",
+      "B": "Kiss-shot Acerola-orion Heart-under-blade",
+      "C": "Black Hanekawa",
+      "D": "Mayoi Hachikuji"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O nome original completo do vampiro antes de ter seus poderes enfraquecidos e ser renomeada como Shinobu era Kiss-shot Acerola-orion Heart-under-blade."
+  },
+  {
+    "tema": "Animes; Ghost in the Shell",
+    "dificuldade": "difícil",
+    "pergunta": "No filme de 1995 de Mamoru Oshii, qual é o nome do hacker misterioso caçado pela Seção 9 que se revela uma IA consciente criada pela Seção 6?",
+    "opcoes": {
+      "A": "Puppet Master (Project 2501)",
+      "B": "Laughing Man",
+      "C": "Individual Eleven",
+      "D": "Kuze"
+    },
+    "resposta_correta": "A",
+    "explicacao": "O 'Puppet Master' (Mestre das Marionetes / Projeto 2501) é uma entidade digital autoconsciente que busca fundir-se com a Major Motoko Kusanagi."
+  },
+  {
+    "tema": "Animes; Puella Magi Madoka Magica",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é o segredo terrível escondido por Kyubey por trás da transformação de garotas mágicas quando suas Jóias da Alma (Soul Gems) se corrompem completamente?",
+    "opcoes": {
+      "A": "Elas perdem a memória e voltam a ser humanas",
+      "B": "Elas se transformam nas próprias Bruxas que combatem",
+      "C": "Elas são transportadas para outra dimensão",
+      "D": "Sua força vital é transferida para o sol"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Quando o desespero acumula e corrompe a Soul Gem em uma Grief Seed, a Garota Mágica renasce como uma Bruxa."
+  },
+  {
+    "tema": "Animes; Hunter x Hunter",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é a habilidade Nen de Chrollo Lucilfer, o líder da Trupe Fantasma?",
+    "opcoes": {
+      "A": "Skill Hunter (Bandit's Secret)",
+      "B": "Bungee Gum",
+      "C": "Godspeed",
+      "D": "Doctor Blythe"
+    },
+    "resposta_correta": "A",
+    "explicacao": "'Skill Hunter' (O Segredo do Bandido) permite a Chrollo roubar e armazenar em um livro as habilidades Nen de outras pessoas cumprindo 4 condições."
+  },
+  {
+    "tema": "Animes; Gurren Lagann",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é a força de energia vital infinita baseada na evolução e força de vontade que move os robôs em Tengen Toppa Gurren Lagann?",
+    "opcoes": {
+      "A": "Energia Getter",
+      "B": "Energia Espiral (Spiral Power)",
+      "C": "Chakra Mana",
+      "D": "Drive de Fótons"
+    },
+    "resposta_correta": "B",
+    "explicacao": "A Energia Espiral é o poder da evolução inerente aos seres vivos que possuem DNA espiralado no universo da série."
+  },
+  {
+    "tema": "Animes; Dragon Ball Z",
+    "dificuldade": "difícil",
+    "pergunta": "Quem foi o criador do androide Majin Boo na história antiga de Dragon Ball?",
+    "opcoes": {
+      "A": "Babidi",
+      "B": "Bibidi",
+      "C": "Dr. Gero",
+      "D": "Dabura"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Bibidi foi o mago alienígena que criou Majin Boo há milhões de anos. Babidi é seu filho/clone."
+  },
+  {
+    "tema": "Animes; Monster",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é o nome do orfanato experimental na antiga Alemanha Oriental onde Johan Liebert e outros jovens sofreram lavagem cerebral?",
+    "opcoes": {
+      "A": "Kinderheim 511",
+      "B": "Rose Red Mansion",
+      "C": "Grace Field",
+      "D": "Eisler Memorial"
+    },
+    "resposta_correta": "A",
+    "explicacao": "O Kinderheim 511 usava experimentos psicológicos secretos para criar soldados sociopatas perfeitos."
+  },
+  {
+    "tema": "Animes; JoJo's Bizarre Adventure",
+    "dificuldade": "difícil",
+    "pergunta": "Na Parte 6 (Stone Ocean), qual a condição necessária para Padre Pucci alcançar o Stand final 'Made in Heaven'?",
+    "opcoes": {
+      "A": "Coletar 36 almas de pecadores e viajar para as coordenadas exatas da gravidade no Cabo Canaveral",
+      "B": "Derrotar todos os descendentes da família Joestar",
+      "C": "Destruir a Flecha de Stand na lua cheia",
+      "D": "Usar a pedra Red Stone de Aja"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Pucci precisa fundir C-Moon com as instruções do diário de Dio e ir até a gravidade do Cabo Canaveral para acelerar o tempo com o Made in Heaven."
+  },
+  {
+    "tema": "Animes; Serial Experiments Lain",
+    "dificuldade": "difícil",
+    "pergunta": "Em Serial Experiments Lain, qual é o nome da rede global de comunicação virtual que se funde com a realidade?",
+    "opcoes": {
+      "A": "The Net",
+      "B": "The Wired",
+      "C": "Cyberspace Alpha",
+      "D": "Neuro-Link"
+    },
+    "resposta_correta": "B",
+    "explicacao": "'The Wired' é a rede de computadores avançada que borra as fronteiras entre a existência física e a consciência digital."
+  },
+  {
+    "tema": "Animes; Fullmetal Alchemist",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é a verdadeira identidade do Homúnculo chamado 'Orgulho' (Pride) na versão Brotherhood?",
+    "opcoes": {
+      "A": "King Bradley",
+      "B": "Selim Bradley",
+      "C": "Roy Mustang",
+      "D": "Maes Hughes"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Pride é o primeiro homúnculo criado e se disfarça na sociedade como Selim Bradley, o filho adotivo do Führer King Bradley (Wrath)."
+  },
+  {
+    "tema": "Animes; Code Geass",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é o nome da fortaleza móvel de voo gigantesca e motor de destruição em massa criado por Schneizel el Britannia?",
+    "opcoes": {
+      "A": "Avalon",
+      "B": "Damocles",
+      "C": "Lancelot",
+      "D": "Gawain"
+    },
+    "resposta_correta": "B",
+    "explicacao": "A fortaleza flutuante Damocles usava os projéteis FLEIJA para impor a paz através do terror nuclear."
+  },
+  {
+    "tema": "Animes; Overlord",
+    "dificuldade": "difícil",
+    "pergunta": "Qual era o nome original da guilda de Ainz Ooal Gown na época do jogo DMMO-RPG Yggdrasil?",
+    "opcoes": {
+      "A": "Nine's Own Goal",
+      "B": "Great Tomb of Nazarick",
+      "C": "Dark Brotherhood",
+      "D": "Pleiades"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Antes de expandirem para 41 membros e fundarem a Ainz Ooal Gown, o clã inicial original criado por Touch Me chamava-se 'Nine's Own Goal'."
+  },
+  {
+    "tema": "Animes; Yu Yu Hakusho",
+    "dificuldade": "difícil",
+    "pergunta": "No arco do Torneio das Trevas, qual técnica proibida de manipulação de energia espiritual Genkai ensina e passa para Yusuke Urameshi?",
+    "opcoes": {
+      "A": "Reigan 100%",
+      "B": "Doutrina da Onda do Leikouhadou (Shuukouha)",
+      "C": "Chagas das Trevas",
+      "D": "Dragão das Chagas Negras"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Genkai passa o 'Doutrina da Onda de Luz Espírito' (Leikouhadou / Orbe Espiritual) para Yusuke em um teste de dor extrema."
+  },
+  {
+    "tema": "Animes; Revolutionary Girl Utena",
+    "dificuldade": "difícil",
+    "pergunta": "Como é chamada a garota que possui o poder do 'Elixir da Rosa' e pela qual os duelistas da academia Ohtori lutam?",
+    "opcoes": {
+      "A": "Anthy Himemiya (A Noiva da Rosa)",
+      "B": "Juri Arisugawa",
+      "C": "Shiori Takatsuki",
+      "D": "Wakaba Shinohara"
+    },
+    "resposta_correta": "A",
+    "explicacao": "Anthy Himemiya é a 'Rose Bride' (Noiva da Rosa), um ser cobiçado pelo Conselho Estudantil para revolucionar o mundo."
+  },
+  {
+    "tema": "Animes; One Piece",
+    "dificuldade": "difícil",
+    "pergunta": "Qual o nome da civilização antiga avançada que habitava a ilha no céu de Shandora há 400 anos antes de ser lançada para as nuvens?",
+    "opcoes": {
+      "A": "Lunaria",
+      "B": "Shandia",
+      "C": "Birka",
+      "D": "Skypiea"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Os Shandias habitavam a antiga cidade de ouro de Shandora antes que o 'Knock Up Stream' impulsionasse a ilha de Jaya para o céu."
+  },
+  {
+    "tema": "Animes; Psycho-Pass",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é o nome da rede neural biológica supercomputadorizada composta por cérebros humanos assintomáticos que governa a sociedade em Psycho-Pass?",
+    "opcoes": {
+      "A": "Sibyl System",
+      "B": "Dominator Network",
+      "C": "Cymatic Scan",
+      "D": "Omni-Mind"
+    },
+    "resposta_correta": "A",
+    "explicacao": "O Sistema Sibyl (Sibyl System) mede o estado mental e propensão criminal dos cidadãos utilizando uma colmeia de cérebros vivos interconectados."
+  },
+  {
+    "tema": "Animes; Shinsekai Yori",
+    "dificuldade": "difícil",
+    "pergunta": "Qual é a designação genético-biológica dada ao poder telecinético despertado pelos humanos no universo pós-apocalíptico da obra?",
+    "opcoes": {
+      "A": "Nen",
+      "B": "Cantus (Juryoku)",
+      "C": "Psycho-Kinesis",
+      "D": "Vector"
+    },
+    "resposta_correta": "B",
+    "explicacao": "O poder telecinético avançado manipulador de matéria é denominado 'Cantus' (ou Juryoku em japonês)."
+  },
+  {
+    "tema": "Animes; Kill la Kill",
+    "dificuldade": "difícil",
+    "pergunta": "Qual o nome do uniforme vivo (Kamui) feito 100% de Fibras de Vida que Ryuko Matoi veste durante o anime?",
+    "opcoes": {
+      "A": "Junketsu",
+      "B": "Senketsu",
+      "C": "Goku Uniform",
+      "D": "Nui"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Senketsu ('Sangue Fresco') é o uniforme marinheiro senciente que ganha poder ao consumir o sangue de Ryuko."
   }
 ]
